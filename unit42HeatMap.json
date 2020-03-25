@@ -14,327 +14,327 @@
       {
          "techniqueID": "T1064",
          "score": 14,
-         "comment": "; indicator--f2eb1d6c-df89-49e2-97f8-5c58706e9519; indicator--88c28b9a-3477-4b58-a251-647c7f3537cf; indicator--680ff98b-f0a5-4e2d-a5c2-5478a8ce5df1; indicator--e317a506-90b9-432f-b9c7-b9fbed5ea050; indicator--e0125372-7cec-4c5a-9a8a-80826f501bb9; indicator--03665be0-697d-4eee-9cdc-427003f0f8a7; indicator--7415215e-e918-4f03-b96b-77189ac4da98; indicator--d925640c-cc9c-45f8-ab82-0a731b22657d; indicator--ab63f23f-fb15-48cc-a89e-ba53a0fa4a00; indicator--d658ad41-d1d4-48d9-b908-62adc0a46b80; indicator--737aa4b0-2931-4e1f-a884-16bd83f15e9a; indicator--61bc7c4c-c14d-4177-a657-e7e0e2aa633c; indicator--eaf36eda-ad5a-4317-8726-e967515ed2fa; indicator--f71cd826-f9b6-46c9-ad66-a8ad728cd8f2"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=chafer\nhttps://pan-unit42.github.io/playbook_viewer/?pb=darkhydrus\nhttps://pan-unit42.github.io/playbook_viewer/?pb=dragonok\nhttps://pan-unit42.github.io/playbook_viewer/?pb=gorgon-group\nhttps://pan-unit42.github.io/playbook_viewer/?pb=muddy-water\nhttps://pan-unit42.github.io/playbook_viewer/?pb=reaper\nhttps://pan-unit42.github.io/playbook_viewer/?pb=simple-playbook\nhttps://pan-unit42.github.io/playbook_viewer/?pb=sofacy\n"
       },
       {
          "techniqueID": "T1078",
          "score": 1,
-         "comment": "; indicator--e19046c0-47db-42fb-a076-c7f2f3c112d4"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=oilrig\n"
       },
       {
          "techniqueID": "T1059",
          "score": 4,
-         "comment": "; indicator--0562dcc5-9a66-4904-abf2-ef256db04b22; indicator--eb577010-a2ce-40bc-86c7-74e565758857; indicator--45b91604-e072-4a19-b0f8-3b3b0b06ab5d; indicator--a2079a24-906b-4b4f-805f-3985922ee8b2"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=darkhydrus\nhttps://pan-unit42.github.io/playbook_viewer/?pb=dragonok\nhttps://pan-unit42.github.io/playbook_viewer/?pb=rancor\n"
       },
       {
          "techniqueID": "T1146",
          "score": 1,
-         "comment": "; indicator--a426deda-69ee-43bc-8c64-d3dda3b25cac"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=temp-xhunt\n"
       },
       {
          "techniqueID": "T1068",
          "score": 1,
-         "comment": "; indicator--2bc55d71-48a5-4921-854e-351f762e24aa"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=oilrig\n"
       },
       {
          "techniqueID": "T1055",
          "score": 3,
-         "comment": "; indicator--76dbf170-c681-4523-84d1-d90445fd3708; indicator--ff56474d-4e3c-4291-8c99-e0ccfe56463b; indicator--9e589c1a-7d42-4a6a-a39d-2e4acba11479"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=gorgon-group\nhttps://pan-unit42.github.io/playbook_viewer/?pb=rocke-group\n"
       },
       {
          "techniqueID": "T1036",
          "score": 1,
-         "comment": "; indicator--cf2518ce-3a5b-444b-8044-b2a900949b5c"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=th3bug\n"
       },
       {
          "techniqueID": "T1033",
          "score": 1,
-         "comment": "; indicator--cd2409a1-079a-45d6-bba7-e26ec1b6465b"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=oilrig\n"
       },
       {
          "techniqueID": "T1100",
          "score": 8,
-         "comment": "; indicator--3a48a376-b6d7-46ff-ab33-6871a1bf3898; indicator--197a86c5-43e4-42a7-aa87-48e55cadf1fb; indicator--df875612-0ae2-46e8-9dc5-fcd45372be11; indicator--b8f6b6f9-3563-4b87-9e80-a209d1fb59ce; indicator--59424cdc-40b1-4137-bc2b-9fe18decf7ca; indicator--f8a60d12-0bb9-4424-bacd-5d2628f72cd3; indicator--d7bdf4a0-0509-43de-895e-793994de8a0e; indicator--fdc86d39-670c-4eb9-945a-daef21d35bea"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=emissary-panda\nhttps://pan-unit42.github.io/playbook_viewer/?pb=oilrig\n"
       },
       {
          "techniqueID": "T1071",
          "score": 174,
-         "comment": "; indicator--13e95281-be1c-4fd7-acb3-81f61e23f9b5; indicator--702ae480-6a06-4c21-b356-452b66f922b7; indicator--d100f962-a09a-4d41-ac03-78f761cb694f; indicator--3c765c57-6828-4c75-aa1a-7323dfded1f7; indicator--eb593d8e-46a4-42ee-8b5b-10c6a114dd86; indicator--90f77e91-1204-4362-9d4c-0b21a9b94070; indicator--247bf048-7621-40db-89ed-9442a954d8b9; indicator--fa5f82ce-75d9-4fec-ae2d-e4f13f564282; indicator--80b2db74-31d5-4873-930e-84197e4d757b; indicator--3ad50b9b-9c8e-4304-b33d-79135f46b0af; indicator--5d55a55f-eb5f-4501-b6c7-ea96d663e61f; indicator--94e2fdd4-264a-43b8-904f-2fcea23ef9c3; indicator--31d15a70-091a-4b0c-a82e-9763b10d382d; indicator--c1815037-75a3-4673-bed6-69ff18e77824; indicator--79d652ce-c511-42da-9896-306c57136a0e; indicator--ffe05ac1-2475-4e1b-8290-d772d4d4a121; indicator--8b731b13-64da-4695-9cc6-dee06d2e56c8; indicator--c7ae2788-81b3-42a3-abb6-bed345509fa9; indicator--83fceb1b-1db3-43a4-8f2e-e183bed0933e; indicator--212c971c-15c2-402c-b900-017190a2f42d; indicator--946feaab-5955-490c-af1b-6214ca5ff08c; indicator--836536d6-7eef-4ffd-aedc-69d6dbf305e2; indicator--2c9bd807-8aa2-4d2d-8c37-3861100d2aad; indicator--54351e26-41dd-4109-b1cb-e787c0d38511; indicator--54155c44-6026-4f24-80ec-5ef716bc7501; indicator--bb55a1b9-c6b7-4384-8854-f75bd6edfc34; indicator--1f1fc246-5922-4981-8489-965cb8ab0cf6; indicator--35964a86-bbd6-4565-8ef7-1299c20f2a0a; indicator--3496b251-9277-4823-8b47-4c2f280e3eb9; indicator--00ee4fd8-e48f-4658-822e-797b597e7c87; indicator--1ae6e225-595b-40e7-89b3-ae1e064fa8ff; indicator--7549d8ee-5977-47be-b1cc-0d8a7b6c9809; indicator--7e780dcd-a1de-4c28-8e25-25f3b0cc7cbf; indicator--390d4269-6e94-4945-9514-82c9dcffe1a3; indicator--c1a5fdaf-4574-4ad3-83d4-3213bebd60cd; indicator--187d23f2-a867-4b70-beee-803c0e283d32; indicator--96a1fd88-f402-42e9-b7e6-7e3ca7ba93e6; indicator--9c598bf0-d229-4de3-aba5-a588f6307e2a; indicator--559172a7-fc70-4d25-8ffe-803ce24929a5; indicator--9fcb8551-97e9-4335-a63c-91ca5156efd0; indicator--df6e4110-8f96-4388-a418-8f8418e107ba; indicator--dd45ed80-44ee-4d88-b122-e6a9a863b5f9; indicator--fa04a251-6a3f-44c7-b21b-0324e2419103; indicator--311ed617-24e8-4b6a-84e7-ad9286871e38; indicator--d1efd9d9-d5f4-411d-8eb8-c65de6fdde49; indicator--465f1774-dddd-436f-846b-e88be67d7bc1; indicator--9fd867cd-9e16-4ae8-bb78-69f972deb386; indicator--921154bf-dd45-4ef3-bd74-a9489363298a; indicator--54d5c27e-383b-4fd6-ab78-3d6778ed8065; indicator--6a77db4e-36d5-455e-892e-4f0d4f50e9ef; indicator--2bf90a0b-3cc2-4bde-9e65-b9f5aeb1a26f; indicator--7892b0cb-619e-416e-bb2a-c4560c3c7f80; indicator--ff48d6ea-1ced-4010-a830-a9960598092f; indicator--fd89444b-1a50-4622-8a64-bb975b8f7097; indicator--3be986a0-170b-42eb-94e8-b8f8c384e17e; indicator--908cb5ee-5cc2-441f-b53c-c3e5b61eee08; indicator--e2736d44-98cd-4fe0-8072-a90360b6b56f; indicator--9a586a23-cc98-49f1-b311-3efa57abaed2; indicator--1a774c96-b3c2-48c2-8333-f7a0a20b7761; indicator--cddb86dd-56e4-46e1-bbbb-1b956c198f13; indicator--3f468b23-2f03-4506-8b06-f3f06a3ffcbc; indicator--9bd19b48-645b-45d6-b24e-6d3781348cdf; indicator--37f0f13e-63cf-4dc0-ae47-2fe34e5e1ebd; indicator--216d3e93-d758-4109-92d1-5295b8fc2400; indicator--e67a988c-66d2-4dd1-9672-64e30055eb28; indicator--74897ada-0787-481f-9fa7-324fe571c84f; indicator--ffd5f978-972c-4201-9a7f-4632d6d933ab; indicator--8a1dd420-f893-4831-9fc2-f0ee3a6626c2; indicator--95eca4ff-3f9b-4b84-bb11-1b5bc8a0961c; indicator--cf5f4909-c901-4428-a669-14de6708a03b; indicator--e43044a6-6cdc-4f1d-a861-bd228b836d89; indicator--a836484d-df60-4ff1-b728-0648471dcfdd; indicator--7a6f521f-770b-4602-b0b3-e0d2dd8c6229; indicator--476b0c3c-1447-4895-a603-d0ef8480fe56; indicator--7f28989e-9de9-431e-9971-62425afe75dc; indicator--3c327016-ed0d-490a-9e2e-1e9fb3de734a; indicator--82b5088b-7e87-44b8-80a5-f01ae98b2818; indicator--966d3814-e50a-4bcf-bf68-125a4f33ff47; indicator--39e63e64-9004-4086-9c9a-026c7ae9ceab; indicator--c6a261f3-de61-4ca9-96fe-cef8d431e681; indicator--f6216cae-6cf8-4db1-8725-2101c14d61fe; indicator--f7da87fb-b987-4166-bfdd-927aa48a29f7; indicator--d9e5bd45-70f5-443e-96b4-2e8400b60dab; indicator--d3e3f293-d73e-412e-80bf-0d8682a5cb18; indicator--910fd0fd-8f1d-4d8f-aa19-8a27ea5dd0eb; indicator--5b61c8c0-ab4b-43f9-b893-e7e44fa6ace1; indicator--e28c1fb4-01ce-46ec-9e5f-9439075ba921; indicator--696ede80-e823-4401-9b67-f7c2e8eb335e; indicator--5ee98b62-70bb-4fee-816e-4db2a7d94d75; indicator--e6ecac08-cee6-4c1a-a804-084b914b40c4; indicator--dd5bcd2f-ecdb-482b-959f-d8f4c789568c; indicator--b3b956e3-9e52-4d7c-b724-fc6a47233237; indicator--113b850a-32be-49dd-98c7-c4cbb0b87c20; indicator--8a3f0445-ef6e-45e4-9787-a27772063ca1; indicator--726cd9b5-cbc2-4b49-bc3a-f982c288e9a7; indicator--2fed1287-4f58-4ae2-8281-e1bdc72ca799; indicator--f03773f8-01bc-4049-b255-a029d7b5020a; indicator--4344cd97-c842-492f-822d-e126cabd91bd; indicator--eb7028d2-02b4-40b4-820b-1f3d87bacd79; indicator--853f0ffe-4b17-4b40-99b1-77ecee4f8fef; indicator--ef793816-b44f-401f-96fa-fdf0a5cc3f9c; indicator--94ab37ea-b6eb-4b46-88c3-3166f18b17f2; indicator--4b7b63af-400f-4446-b13b-675bc82ac34a; indicator--c39cf94d-6739-46d7-bd7c-63b94c1925e3; indicator--e7399d05-36fd-4eba-a1f9-d199ce593ea6; indicator--ef8d189d-7242-4279-aae4-73288a04d545; indicator--d9147369-0285-4ca2-bd30-9a3658866b1f; indicator--812408d9-3a98-42f7-ae5c-4e6f172cb77f; indicator--7d1236b8-aa85-4eee-a1cd-423f35728a78; indicator--45e8b845-23f5-4a8a-9579-e838964b3087; indicator--b25d1022-e153-42e4-b634-42a6c2e404a9; indicator--075ea83d-b913-4d1d-b327-aaf02e31a166; indicator--1c4b6ee7-4c04-4182-b928-3cea90328e2a; indicator--6262039a-4349-49ea-9635-ab68f2f4f8b2; indicator--870803cc-4db9-45ae-94dc-80a86f84200f; indicator--cfdb6e06-48ae-4e6a-8c74-d91c34494187; indicator--dbb3055b-3e1b-40ed-bacf-54a150c073f4; indicator--3b624499-776a-4af5-9156-15f7d874fe42; indicator--6b6aaf80-85da-47ea-adaa-695825af1234; indicator--33e18a82-8d54-4a2f-afbc-97908e39f678; indicator--ab62196c-c3dc-403f-ba98-968953342f67; indicator--f3711ca0-d54d-4ad1-92a9-d858431e9a13; indicator--03ea7ecf-1d4c-4a0a-89b4-790a23da59a2; indicator--c1c5b167-09fe-436f-9241-ab49ba422b28; indicator--4e20b8d3-506d-4b7e-9b67-6a0d8fa8c5cd; indicator--f591059f-ea0a-4450-ac4d-e6d402435076; indicator--f04699ac-a423-411e-bf6e-9ccacc96dff0; indicator--0e8fe4a5-7c89-40a1-90e5-7ce27a6d84c3; indicator--3f0c5e76-27a3-4b7c-99b9-4a612672bba4; indicator--0225e8ac-ce8d-4e67-b9eb-6c0bef7bf9ca; indicator--d49176b6-9039-4539-ac47-8200315479a2; indicator--e1e4ec77-2158-48a1-8137-875c8fd442e5; indicator--1a1f3bc2-93e8-4603-8e03-ea27ed6c481a; indicator--0994c1b9-a406-47d0-8bae-54034f337d0d; indicator--75df9de6-8fb9-41d9-92d7-f00d47d45573; indicator--f5017428-88f4-453a-82f2-b6602a455b36; indicator--154c2ce4-953b-4c8a-98c3-62372fc3ee79; indicator--80675ddf-3e8c-4bba-806f-91a65338fcad; indicator--2a991ef9-4267-4d8e-a6be-698dcdfe2c9c; indicator--b0605f71-e5d5-4554-8d4b-6536c046f010; indicator--b80910a0-779b-4ab6-86b7-4318cac8c905; indicator--e036e06a-ebbf-42c0-9308-a2ff51ff4bda; indicator--fb5cae73-81eb-4ec1-86cb-3d76e2d38e08; indicator--a786d7e9-7a95-4055-b075-ad61e431ee62; indicator--5be9705e-5d7e-464d-a38b-e601f0022d5e; indicator--817f1ddf-aa62-4373-8931-1640f86c76db; indicator--bb0721b0-e848-4d30-8158-5c4bcd778719; indicator--14e7c52b-3d26-4d37-ab73-8fd36d0369a6; indicator--d05f40f9-f8c1-49fd-ad1f-152beae5ace1; indicator--1df9fb20-abcd-4390-a437-adc7a08dcb20; indicator--0ffb5270-d171-4d25-86e1-3c38ce5fb068; indicator--f15e42e2-7bd4-468c-ab24-a63405a81535; indicator--96e6f690-f0be-4e91-9cc1-867c42bbf8f6; indicator--c4a5ffbe-c147-4392-b61a-11abec34f46c; indicator--7bd0c17e-8cd1-434e-8e30-d3db302d2b77; indicator--94501323-65e9-4523-a71f-d9e34cb8601b; indicator--d2a714bd-a36e-4a73-9383-c50eacaa7d6e; indicator--7f99232d-7934-434d-ba1c-bd92e5ca1cfc; indicator--8e8f5145-96bf-479b-b462-1270b0e5192a; indicator--36343f75-68f9-4c7b-aa9d-0b92d3f2c4ea; indicator--b1233f8a-6d8b-4210-90c2-822289b93085; indicator--966a3c55-7c72-4a6f-9edc-ca3126847683; indicator--126ebf62-e3e0-405a-bd18-f9e1131bb851; indicator--b2506841-5543-4880-8225-24ff97f01817; indicator--c3b8c102-5813-4ef6-b7a6-21774fea818d; indicator--e866a291-de18-4f87-a638-7934609e61b4; indicator--53e6b091-eee4-4f8c-b756-ac2d11d539c5; indicator--37e8b004-dbd2-48fc-be16-cf891c7e985c; indicator--64dc06e9-1cd3-495b-9977-a468615b84eb; indicator--5ec625a4-3975-4971-b970-b9eec37f1a5f; indicator--ccff4f7d-1788-42b4-8a2d-cb70d1121997; indicator--589278e6-8451-4874-b2f9-c1c7c0820fe4; indicator--b6bd8bdf-73de-4f82-a830-e4d07384fad8; indicator--d8fbe9d1-6ec1-48e0-a02b-a468958c69b0"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=cozyduke\nhttps://pan-unit42.github.io/playbook_viewer/?pb=dragonok\nhttps://pan-unit42.github.io/playbook_viewer/?pb=inception\nhttps://pan-unit42.github.io/playbook_viewer/?pb=menupass\nhttps://pan-unit42.github.io/playbook_viewer/?pb=muddy-water\nhttps://pan-unit42.github.io/playbook_viewer/?pb=oilrig\nhttps://pan-unit42.github.io/playbook_viewer/?pb=pkplug\nhttps://pan-unit42.github.io/playbook_viewer/?pb=scarlet-mimic\nhttps://pan-unit42.github.io/playbook_viewer/?pb=sofacy\nhttps://pan-unit42.github.io/playbook_viewer/?pb=windshift\n"
       },
       {
          "techniqueID": "T1087",
          "score": 4,
-         "comment": "; indicator--2d6903fb-e4f1-4b0e-a657-e3937fe89861; indicator--cd2409a1-079a-45d6-bba7-e26ec1b6465b; indicator--6ab420c2-4bed-4281-9da4-790bf0065e81; indicator--bf094398-e075-4b6d-99df-2dbcee3ef39d"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=oilrig\n"
       },
       {
          "techniqueID": "T1003",
          "score": 3,
-         "comment": "; indicator--d9084d96-8809-411a-9892-3335b8994813; indicator--0f75c726-1b4a-4eb9-8749-fa89af8f6d2b; indicator--c7bfb666-66af-4dfb-9489-8e0d8fde3859"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=muddy-water\nhttps://pan-unit42.github.io/playbook_viewer/?pb=oilrig\n"
       },
       {
          "techniqueID": "T1081",
          "score": 1,
-         "comment": "; indicator--0f84f661-39ce-4650-b3ac-76254de701a6"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=reaper\n"
       },
       {
          "techniqueID": "T1057",
          "score": 5,
-         "comment": "; indicator--f2eb1d6c-df89-49e2-97f8-5c58706e9519; indicator--d3df5939-91b1-4042-9ab8-d4843028a60c; indicator--d3df5939-91b1-4042-9ab8-d4843028a60c; indicator--d3df5939-91b1-4042-9ab8-d4843028a60c; indicator--589278e6-8451-4874-b2f9-c1c7c0820fe4"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=chafer\nhttps://pan-unit42.github.io/playbook_viewer/?pb=oilrig\nhttps://pan-unit42.github.io/playbook_viewer/?pb=rancor\nhttps://pan-unit42.github.io/playbook_viewer/?pb=sofacy\n"
       },
       {
          "techniqueID": "T1082",
          "score": 6,
-         "comment": "; indicator--4d3e6511-ccc5-467e-a2be-ac608ee49374; indicator--8795c03c-3d57-4402-8ae5-4de697194f90; indicator--0d0f71f3-b8c9-4251-8b02-de1e21c6c1ee; indicator--4d3e6511-ccc5-467e-a2be-ac608ee49374; indicator--589278e6-8451-4874-b2f9-c1c7c0820fe4; indicator--4213f451-f0dc-430e-b12e-eccfb541403f"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=oilrig\nhttps://pan-unit42.github.io/playbook_viewer/?pb=reaper\nhttps://pan-unit42.github.io/playbook_viewer/?pb=sofacy\nhttps://pan-unit42.github.io/playbook_viewer/?pb=tick\n"
       },
       {
          "techniqueID": "T1016",
          "score": 3,
-         "comment": "; indicator--1d8f709a-12fb-4ee6-928b-921a7eccc2f6; indicator--cff4fa97-3f63-4a68-83b0-4eb3f81be9de; indicator--1d8f709a-12fb-4ee6-928b-921a7eccc2f6"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=oilrig\nhttps://pan-unit42.github.io/playbook_viewer/?pb=rancor\n"
       },
       {
          "techniqueID": "T1049",
          "score": 1,
-         "comment": "; indicator--b4fea218-2cc3-40ca-9fbe-684fc118d814"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=rocke-group\n"
       },
       {
          "techniqueID": "T1107",
          "score": 4,
-         "comment": "; indicator--1ab1e37c-06dd-4e8a-9d34-638577f901cf; indicator--efd0ba9d-9014-4fd5-aca5-bdaf2e9dde6b; indicator--95336904-b3c7-4d41-9df1-250937ad5532; indicator--68c74ff9-0774-485f-929b-138d93a3788a"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=dragonok\nhttps://pan-unit42.github.io/playbook_viewer/?pb=tick\n"
       },
       {
          "techniqueID": "T1168",
          "score": 1,
-         "comment": "; indicator--9647fc4f-0bcd-4402-b43a-a0c94877ce9a"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=rocke-group\n"
       },
       {
          "techniqueID": "T1074",
          "score": 4,
-         "comment": "; indicator--7c357da2-f901-49a3-b52f-1cd4b968caf9; indicator--182761bb-1d21-4ed8-909c-a0b6a2e09ce4; indicator--272c2c5d-1779-49a1-8990-c8fdfe2d2bb2; indicator--db032d1a-c929-4c03-9099-fc08a6b1d1f7"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=oilrig\n"
       },
       {
          "techniqueID": "T1105",
          "score": 49,
-         "comment": "; indicator--f2eb1d6c-df89-49e2-97f8-5c58706e9519; indicator--355af0e6-7f79-4c5e-82cc-b58865e98224; indicator--eb0d7281-782b-4b6b-9731-04bce9556626; indicator--0b20d168-d06f-4a96-b9b1-2162d0545f86; indicator--b2154fdb-9546-467a-bf4f-3efb0fc04055; indicator--a61b1d2c-42ce-4e7e-97d4-1b30cd96e7ee; indicator--2cbd3694-be33-49e3-9498-98d40a31b8b0; indicator--f5521f4c-989c-464e-9bd2-49aa5fe48c90; indicator--8138cb90-52a7-4397-a110-d17bde125f1a; indicator--eab21540-5687-4504-846e-5e437d5f3246; indicator--53b54f55-da15-4e12-a00b-3b83e5c2ab38; indicator--96927049-9253-46ef-bdc1-31199c709a31; indicator--7b2f62a0-cf1b-41ef-85fb-53c0b3b01ba3; indicator--6f8e562a-7a94-4a41-9389-9211949b6e95; indicator--d206fc48-9690-4566-a9f2-1034513d54fa; indicator--1c0cb436-4572-450f-afdb-2d8c6a954e08; indicator--6d70ffd0-24c0-4be2-9147-f512fc94c5e5; indicator--6560e685-0059-4030-a2ed-d4f8f32deba7; indicator--2ffd1609-57aa-498b-904f-808a0887a66b; indicator--5650dcab-6d01-406e-8b60-98b6f639eb11; indicator--32a5812d-8a34-497e-adf3-2252c33f74c4; indicator--7ee20d3d-3123-4727-b596-2ce2ec4d224f; indicator--06d9479b-a762-49c0-b3e3-fe8e51f2d1fd; indicator--2af15166-8333-4601-b906-ae2295dfe004; indicator--3652eeba-c8a5-420d-b508-22937e14cd3b; indicator--58c69985-3400-4f27-970a-ec0b7eff29b7; indicator--56797037-d55b-4d30-9b8a-816431e8bde8; indicator--b14d6f10-3f8f-4399-81f1-4b221d6e6eb8; indicator--3053d82e-b1ea-4c0b-a9f7-97fd3af6b018; indicator--45428c43-9673-436f-a000-35be3f4c2318; indicator--e7fb0c59-4b60-40e7-bc3e-dd12c7f39494; indicator--ba2e7e54-6c03-4095-aa2d-066bf7496de7; indicator--1c564db0-2886-47e2-b661-a5fd8234ee02; indicator--348b6f0b-6141-4a00-b009-4ada0ace4581; indicator--cf55714e-02ab-496c-93e7-a2ab3bd0910b; indicator--736e2ca8-f571-421f-bd7f-8a2172c5e602; indicator--c3060980-c434-4eff-9d54-e5ce26635467; indicator--9c1eceb2-a704-45e5-af0d-2617dd0a04e3; indicator--e866a291-de18-4f87-a638-7934609e61b4; indicator--85792b54-331c-435e-8e54-8d8d7829857d; indicator--53e6b091-eee4-4f8c-b756-ac2d11d539c5; indicator--cf2518ce-3a5b-444b-8044-b2a900949b5c; indicator--f71d79a7-b9ba-4faa-9ee9-b3d49dc01015; indicator--1226ebbd-c85f-4cd1-aa95-914993812bc2; indicator--2ea18706-2e08-41be-b0d8-0446ac16d14e; indicator--fcd372a5-ae48-4c4c-8b39-84b3ae14e5a6; indicator--0821d814-03fa-4959-8175-1faba5aa27f0; indicator--c2be1cc1-1d86-4e23-a3b7-d046ae1291b8; indicator--0de32baf-9209-4071-9475-f6a48c69743c"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=chafer\nhttps://pan-unit42.github.io/playbook_viewer/?pb=cobalt-gang\nhttps://pan-unit42.github.io/playbook_viewer/?pb=cozyduke\nhttps://pan-unit42.github.io/playbook_viewer/?pb=darkhydrus\nhttps://pan-unit42.github.io/playbook_viewer/?pb=emissary-panda\nhttps://pan-unit42.github.io/playbook_viewer/?pb=gorgon-group\nhttps://pan-unit42.github.io/playbook_viewer/?pb=muddy-water\nhttps://pan-unit42.github.io/playbook_viewer/?pb=rancor\nhttps://pan-unit42.github.io/playbook_viewer/?pb=reaper\nhttps://pan-unit42.github.io/playbook_viewer/?pb=sofacy\nhttps://pan-unit42.github.io/playbook_viewer/?pb=th3bug\nhttps://pan-unit42.github.io/playbook_viewer/?pb=windshift\n"
       },
       {
          "techniqueID": "T1102",
          "score": 47,
-         "comment": "; indicator--d3dbec79-689d-43db-8ce9-5e42d1bec395; indicator--f891ed4e-7dd1-4b4a-b9f4-be11e21e622f; indicator--bcb19d01-f855-46d0-a5dc-4a269bb2d2db; indicator--f0fce8e0-ad96-4208-bb6e-8b45d9f8809a; indicator--9477a18d-a5d5-43bb-84fa-ec569f8ae0d3; indicator--c75508d2-87b6-4750-a00a-b990efa775e4; indicator--c18250bd-396c-43fc-b522-a74a6b684738; indicator--0422b2d6-bb3b-45a1-9d6c-ebb1d8f9d394; indicator--05b32fbc-9e0a-4102-8fd7-509e5c01300a; indicator--be7cb872-2205-4b2d-b125-fb4b72e2a8e4; indicator--948d3c0d-10c9-4cd3-8074-933a14d62fe7; indicator--7ffe2ce8-5b79-4836-b527-c84430f91f64; indicator--859908f1-b199-423a-87c9-af0c4c537ce8; indicator--8ec8f8cf-4af8-4468-a32b-8923a7820d92; indicator--d524185f-a5e2-40df-aba4-0a1ccb710879; indicator--ca43270e-264e-4a9e-a68e-d1377f951dda; indicator--cf170581-17a2-4ac3-9eaa-a1191df0f300; indicator--2818f34c-0450-4093-b84e-500585c2ddf1; indicator--91204ddb-a3cf-4bd5-88e2-795eac926c00; indicator--45d1b0a4-bf86-4f7f-a452-fdf92427b8e6; indicator--9072e421-2cda-4e16-8659-89c28f528d4c; indicator--6d14940d-bde2-4da8-90ea-27f87d4470e3; indicator--b8afb56c-c11f-45ff-a3ad-6b2a834340ba; indicator--0b4505bd-3723-4ee5-a8c4-4b9d29981de8; indicator--59f4e417-b257-4dfe-b6c8-35dcca1340ae; indicator--f46c1845-8ee1-4db9-9b8b-7d4769c4e30b; indicator--0a8f700b-0864-4c19-ac84-a5d103bd7068; indicator--1dcbf8d6-a14d-4ae2-a2a8-720c3564da0a; indicator--901e4bd4-8a65-4653-a376-78db310a5173; indicator--2d058bed-8c32-4425-b342-ff6e07b5cdf6; indicator--3ee919ba-68ba-4571-b979-305efc1a40f1; indicator--c0112f0d-52d3-4b24-a3bc-afca96429cca; indicator--d5f42d28-4c11-4638-9613-5d2a5ecb5750; indicator--f53c5eb1-e06a-4238-87ee-6be2049c3d4a; indicator--5029457f-7fc7-433c-8fc0-14ccf474a0e4; indicator--12f78872-d8be-4a2b-9e44-23bd4c1f133e; indicator--1da0e57a-8043-48f5-a0cf-d4245fea5dfe; indicator--319269c7-92a8-465d-8fae-97a1b374b878; indicator--f7a4667a-e7c0-4dd2-bb1f-095148b04bde; indicator--d7c6faf8-4125-4ba9-b5ed-9980d41f9202; indicator--52e44335-6505-49fd-9986-6f9d968f6d86; indicator--7f2070b7-f370-492a-ad02-d37078741ced; indicator--21ee683a-fae7-4507-b4fe-ad9cc9916784; indicator--bc340287-c401-4c49-bbcd-b9373497da22; indicator--635d1a8f-1a4d-450b-b6aa-43179a31e6dc; indicator--7ab5eb02-bdec-4dad-8728-6459c7137a32; indicator--1e481a88-bb5c-4e3b-a3ae-c598abb61ff5"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=muddy-water\nhttps://pan-unit42.github.io/playbook_viewer/?pb=reaper\nhttps://pan-unit42.github.io/playbook_viewer/?pb=rocke-group\n"
       },
       {
          "techniqueID": "T1053",
          "score": 4,
-         "comment": "; indicator--e28f89fe-377d-44cf-a486-e8b84af20737; indicator--8e3da953-ff61-4520-893f-afefe7d145e9; indicator--cd473c0f-1c24-4b67-800d-7447aec8079a; indicator--45b91604-e072-4a19-b0f8-3b3b0b06ab5d"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=oilrig\nhttps://pan-unit42.github.io/playbook_viewer/?pb=rancor\n"
       },
       {
          "techniqueID": "T1091",
          "score": 1,
-         "comment": "; indicator--4213f451-f0dc-430e-b12e-eccfb541403f"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=tick\n"
       },
       {
          "techniqueID": "T1021",
          "score": 1,
-         "comment": "; indicator--08692bb4-3f77-46e0-a085-e2569f8e0961"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=rocke-group\n"
       },
       {
          "techniqueID": "T1090",
          "score": 6,
-         "comment": "; indicator--63a46fd3-eaed-4f80-922a-55ceb5e4f72b; indicator--da372257-0256-4ed4-9dc3-7c167cc68fd0; indicator--0515f680-4b47-403a-a190-3053b676949c; indicator--606899b2-a991-44ba-acdd-05885956145b; indicator--94797694-f1c9-467c-8ee0-9e027198a62c; indicator--67004b94-f2ee-4627-8b38-a94aad9faa5e"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=pickaxe\n"
       },
       {
          "techniqueID": "T1086",
          "score": 7,
-         "comment": "; indicator--0bd61316-80ab-4510-9b8b-5746575b10f5; indicator--de91fe78-8610-4457-95b5-dc4930281956; indicator--832947bf-7d82-41c5-9857-98e86b31317a; indicator--7798b92f-1b60-4479-88a5-cb7950d5704b; indicator--2baa103e-fa1a-4ab1-a45a-f8fe9ada43d7; indicator--ba96a48b-7191-4f14-8c8a-50efeb973a24; indicator--ead43444-8f24-4f20-bbee-431955adaaca"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=darkhydrus\nhttps://pan-unit42.github.io/playbook_viewer/?pb=dragonok\nhttps://pan-unit42.github.io/playbook_viewer/?pb=gorgon-group\nhttps://pan-unit42.github.io/playbook_viewer/?pb=inception\nhttps://pan-unit42.github.io/playbook_viewer/?pb=muddy-water\n"
       },
       {
          "techniqueID": "T1112",
          "score": 66,
-         "comment": "; indicator--d04faa61-a9d7-40df-96a8-f5bd9057f060; indicator--bbf1046b-3516-424f-8b6c-e703a557c1f7; indicator--51caba89-8778-4dbf-bf88-46bada854569; indicator--35027101-8028-49c4-a9a2-dec9a664286d; indicator--4f432145-185d-4c25-b747-bfdaf9ee8ad6; indicator--6ce93f6a-7483-46d1-bc62-f61fce7a5b29; indicator--7a225fab-6509-4c10-973f-cca1c57cca5f; indicator--c86705e7-0f01-4312-be57-2182569e13d0; indicator--48dfc99f-efc4-485d-be40-528d4a57207e; indicator--3566b0a5-310f-4b8a-abdb-4db643684df6; indicator--32534621-78f0-4931-a284-a9ed528c0985; indicator--bf248b06-7069-46a0-a70f-aa60e54087fd; indicator--2e0effde-b591-4720-abc2-9836d4b7708f; indicator--b274a175-2706-4562-a53c-6561495d0083; indicator--876ba9a1-c36f-4841-a1a5-79ed73f09984; indicator--dc7b6377-d008-420a-b191-43072d93ca69; indicator--d6d48dfb-1c2f-4088-adba-7bab2f7bcc52; indicator--c267014d-c681-4904-9555-bc99541449a6; indicator--d92e3478-9c61-454e-9eba-5ab7e4b50842; indicator--a4882688-7bc0-461f-9ce2-513aad803381; indicator--4a9e97ab-1baa-48b0-ac43-0d7d0c436d5d; indicator--a1ebce8f-55be-4605-9522-59b6d1c6adba; indicator--42aaf6dc-df08-4b4d-a46f-873584058ec0; indicator--9ecf0e80-fcb0-4cf5-8a2a-ab75b5418bac; indicator--8bde0c06-775d-4bd7-a122-661f27236cf0; indicator--2f6460b7-1f9a-4a4c-bf65-fe87def3b6bf; indicator--c2fea326-c3d0-4509-8041-ceafb0332385; indicator--92cf5e15-cfb6-4f0f-8df2-5ed0bb60cbfc; indicator--7a616bc6-4759-4792-99ca-1594681c4c81; indicator--61dc2988-3098-4472-acf4-752fddbc9047; indicator--0d886ec4-e2dc-417c-841a-0c5055104b80; indicator--acb08544-0ea2-417f-9230-c14d27236996; indicator--2a79116e-63d6-4881-b6e4-014cd69bf8e0; indicator--b520f971-29d3-4038-8f76-36e0c425f4fe; indicator--b63beb42-8ed8-45fa-a269-b61c57f16d9d; indicator--67058c29-62ac-4b85-870f-79359098c885; indicator--edc08695-08d5-4f1b-96ba-91daca3733bb; indicator--feb02844-3ec9-4321-9376-de14cf85f800; indicator--48b0e367-60e5-45e9-9acd-2896c0bfd801; indicator--4469b977-d1a3-4330-8655-00da2afb0833; indicator--ee3b49c7-da61-450a-8e58-9578ac2c3a76; indicator--0c626e7f-c97e-4447-ad1e-c9e27ac42d92; indicator--a0930fac-d120-4dfb-9ad9-0ab21750e30b; indicator--235f2a5a-6c01-416f-a0e4-be3d90d6893c; indicator--29a430da-bceb-43e9-af95-237749644bc3; indicator--472b854e-fa11-4c64-b5d3-0f182df4db02; indicator--93115f27-a31d-42f3-9891-68fddb5783b7; indicator--5d8dd55b-5f82-4805-94b7-c6ee61bd361d; indicator--921f9413-9e3f-4f0a-b284-a855427bada4; indicator--10370406-6fc3-4c16-ae32-f38eaa947daf; indicator--e5aa351a-c736-49ef-a660-d9fa5a401218; indicator--09d61c49-d377-43ba-a6a9-6f6b6a1e64d6; indicator--99669313-9e26-4d21-a09d-c70d764dc939; indicator--eb07f823-c7a1-4cee-8568-505d4a6fd80f; indicator--26ec8018-71b2-4687-b13e-b47c3f67349e; indicator--4bf8319a-8f83-40cb-90a0-686f3be59e35; indicator--05aee736-fb99-4793-8fae-b2ad4c0cdf57; indicator--fc772ae8-9e7b-4920-a7a2-c266cbf26118; indicator--19fdfaf8-1e30-4652-aa95-9e6306484f38; indicator--8f1e50b2-3e27-4e57-86f6-8d980e3d43e4; indicator--31f1947f-5397-4486-90a0-6612d91129e9; indicator--e5c2e636-8c51-41e8-9f03-1e2ab0429b00; indicator--f2b5ca15-3d0f-4267-917e-a3655c047f18; indicator--3ec360ec-1b59-4fde-93fc-8ff8db1a0ee8; indicator--536a6e50-c3f8-40a2-b822-1c2650c3bdf3; indicator--2e259d55-4d39-4f6c-be82-0f6dac15b3dd"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=gorgon-group\nhttps://pan-unit42.github.io/playbook_viewer/?pb=sofacy\n"
       },
       {
          "techniqueID": "T1012",
          "score": 1,
-         "comment": "; indicator--9daeba2e-bb3e-443b-95d1-fbc0428932a9"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=oilrig\n"
       },
       {
          "techniqueID": "T1073",
          "score": 3,
-         "comment": "; indicator--b8edaeb3-18bf-485b-86b6-4062c49d7ce3; indicator--ac840c8f-f2db-42ad-84a5-b3c3b5462186; indicator--c0fc51a4-6398-42fa-8f2f-0559c7f77053"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=patchwork\n"
       },
       {
          "techniqueID": "T1140",
          "score": 1,
-         "comment": "; indicator--0284470a-1e98-4e38-9fd0-3e1adfaf63ca"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=rocke-group\n"
       },
       {
          "techniqueID": "T1069",
          "score": 4,
-         "comment": "; indicator--2d6903fb-e4f1-4b0e-a657-e3937fe89861; indicator--0e700b7b-764b-4c8a-a57d-f8d686d887f4; indicator--ec689de0-d752-476f-bbce-7055b192d5fd; indicator--2115ea65-8275-49bf-bbf9-d3d7e4d204d5"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=oilrig\n"
       },
       {
          "techniqueID": "T1099",
          "score": 3,
-         "comment": "; indicator--5580c978-1497-40a4-bdc3-756b841776b1; indicator--7bae56e4-88b5-4c97-bfa3-c61679fe0e84; indicator--a75cf440-3895-4da0-8061-433762f42ef0"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=oilrig\nhttps://pan-unit42.github.io/playbook_viewer/?pb=rocke-group\nhttps://pan-unit42.github.io/playbook_viewer/?pb=sofacy\n"
       },
       {
          "techniqueID": "T1047",
          "score": 2,
-         "comment": "; indicator--0bd61316-80ab-4510-9b8b-5746575b10f5; indicator--589278e6-8451-4874-b2f9-c1c7c0820fe4"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=darkhydrus\nhttps://pan-unit42.github.io/playbook_viewer/?pb=sofacy\n"
       },
       {
          "techniqueID": "T1203",
          "score": 1,
-         "comment": "; indicator--a8f57eec-f935-426e-b527-c982edfa8f8b"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=gorgon-group\n"
       },
       {
          "techniqueID": "T1027",
          "score": 27,
-         "comment": "; indicator--0bd61316-80ab-4510-9b8b-5746575b10f5; indicator--9f1954c2-14d0-4035-838f-a730ce51a45f; indicator--7415215e-e918-4f03-b96b-77189ac4da98; indicator--e4589569-a46b-4cc1-99e7-41199f8d579f; indicator--61701bc9-c9d8-44fa-a452-c9fbe15dcf88; indicator--02a7d94a-1fab-4d16-8d55-597d3ec6379e; indicator--c501abd1-62f0-4da6-91ee-bd6ef9391fdc; indicator--f119cf69-6230-4cea-ba31-9768f647b81a; indicator--21b40f68-e0e8-4497-bc7f-63f7b7b9c9dd; indicator--ec7ec6dd-2d36-4ec1-aada-134c4670845b; indicator--d2258707-dbd9-4407-b6b8-5401e4c59b74; indicator--d2a60762-9fb2-442e-a7d2-6f86b06cb970; indicator--175fda21-0fe8-4cc0-a276-8ef03b099d8d; indicator--0288c52e-7bd4-476f-9e29-534a122d173f; indicator--fab07434-d3df-437c-95ef-b1b3d3c8d1e3; indicator--62a8dbd4-adfd-443f-9042-8f92e7ea0384; indicator--21afa13a-d6e4-46ec-8539-68ec5c723ed5; indicator--112bb219-3133-4c6f-9e29-3efd820d9612; indicator--c649ab0f-4fc3-487c-96b7-72f0f7baae11; indicator--0809240c-9ec9-4002-8846-f30a7915eb4e; indicator--e2f1938f-2ba5-4175-9d9c-e6d7ff6fe9fd; indicator--d4cc0533-2a26-4678-912e-e3ddb2c2abe6; indicator--bf7a082f-e2a6-45d6-b8dd-bf056888f36e; indicator--c1bb11ca-f3ed-45cd-8083-ee166fb72aa0; indicator--aaa55127-74e3-41c9-b1c6-7d9726372e18; indicator--fb13e76a-0266-4b12-99f0-1599532c2f3c; indicator--10a18683-9321-4647-97e7-5ca864d9ecb7"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=darkhydrus\nhttps://pan-unit42.github.io/playbook_viewer/?pb=gorgon-group\nhttps://pan-unit42.github.io/playbook_viewer/?pb=muddy-water\nhttps://pan-unit42.github.io/playbook_viewer/?pb=oilrig\n"
       },
       {
          "techniqueID": "T1170",
          "score": 1,
-         "comment": "; indicator--ecc50d85-a4fb-439b-b056-1a9dc32841cf"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=reaper\n"
       },
       {
          "techniqueID": "T1085",
          "score": 1,
-         "comment": "; indicator--d419c81a-fae2-464c-8d1b-5ca0844d9c5e"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=sofacy\n"
       },
       {
          "techniqueID": "T1158",
          "score": 1,
-         "comment": "; indicator--abbd039d-17f2-4cbf-9a9f-20ab7384113f"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=sofacy\n"
       },
       {
          "techniqueID": "T1191",
          "score": 1,
-         "comment": "; indicator--010c5a3e-823b-4267-8411-e38563fc805b"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=cobalt-gang\n"
       },
       {
          "techniqueID": "T1193",
          "score": 158,
-         "comment": "; indicator--95d0cd5b-23ac-4256-a828-3cb5f87b7990; indicator--b183b3d8-c228-404c-9a7e-3530b95f0019; indicator--6f04f36b-70e6-4869-bcc5-e7104e368d3f; indicator--87eaa553-0b5a-4666-93ee-4e3d7c5ba318; indicator--ddc7ab75-36ad-4e2c-ae41-0bc1bf8d5b0e; indicator--2a04efab-e23e-4d0e-aa5d-6cac33d98f0f; indicator--01c26ce0-942f-40a2-ac6e-2f246273cdb7; indicator--485c5b00-00e9-41d1-b370-a84cbaf19ab8; indicator--ef770522-cbe2-4c3c-b92d-d741f01fea45; indicator--9f3992d3-9f78-4898-8d5d-6ae845d36f08; indicator--9d313d6b-9310-4d5b-8c2c-f8bfd16c4131; indicator--1ce30ce4-43ac-45f2-95eb-47f3a769c985; indicator--dcb253f0-bebc-41ec-9fbd-c220282babab; indicator--9c870ae7-c0d9-4b53-abd9-db0b76e22834; indicator--e942607b-e5fa-447a-bcb7-f3bff426856a; indicator--0b7f3aff-ad8f-4f9f-9842-bef8cb211cae; indicator--2f2f5810-30b2-4b02-95a6-8ff10286d09e; indicator--a8397ea1-4275-4947-85ce-508f50a22e95; indicator--abde9cab-6fa0-4fcd-a491-4a55a230e6db; indicator--46ba6acc-420f-4254-82c3-7c4d5fe50e62; indicator--3931afb3-d4bb-46bf-aa1c-2a78d097bfd3; indicator--924b5936-5d09-4fd1-9bc3-cafd0bbe1c81; indicator--6c3d0f6d-e77c-46a3-a020-9864c2396ef8; indicator--fbcc9ce8-0025-44c2-868f-94d8671538e4; indicator--95aaa6c6-a20f-4850-a68c-b7c9abf94d54; indicator--3c5fd814-6a7c-40fe-9ddd-3ef799fc386d; indicator--b58a10ca-5a6f-47de-a1a4-a44bc10a165c; indicator--3501604b-6c12-45eb-af8d-b094fc425634; indicator--dc43202a-94c4-4805-a7a9-187586596819; indicator--351ac0a4-15fd-4a0c-8f73-5a986e4c256b; indicator--6e5a5c9a-6992-4bb2-8731-0b95276b94cc; indicator--bd825846-6e98-4135-8222-ca4496a90a2a; indicator--e64c9eaf-6c67-490e-948f-c6609ba1bbe6; indicator--d4a1102a-9447-4ea0-abf7-cbc85adf439d; indicator--4b0b82d0-9e3f-4aab-88cd-b78f391b9f2f; indicator--3e516a3c-145a-40a3-b091-fe174b37d439; indicator--c09c9e07-2f1d-4ac7-9a42-54158a50a44b; indicator--aa16d45f-48f7-4c81-bbe6-e7f29ef10c11; indicator--109f5092-2bb2-4880-959f-9330f1e7dff6; indicator--29d0c9d4-b4b1-46ea-ad7a-33c5213b90bc; indicator--aedf4d6b-83aa-44ef-b3a1-fd3858baa8ba; indicator--5fe28d8e-4951-4f16-b339-5ac9a4237ce4; indicator--724d3088-f1c2-46ac-8940-0513242fcb27; indicator--63ef364c-4455-4eff-aed9-f0b434d05173; indicator--6b5dc985-366e-4ffc-b7c0-f31a67aa1ac0; indicator--96980566-cf12-43b4-a1a3-29261048625c; indicator--6e5c8355-cea1-4e7c-adf0-2c3605fa6398; indicator--41726b43-07e3-4343-9442-5c2d5c477b4c; indicator--8f885620-77ac-41e5-9d0d-4ce6c312d3e1; indicator--0fb20cc6-2cf6-4a49-b558-9ee1b4d29d2c; indicator--e6050e59-437c-4919-a05b-9b7b98b82789; indicator--2ae7d9d4-b429-4bbb-a518-73115f4f7fe9; indicator--dd8a058e-42ba-4e6d-847d-d4aa7b78c7b2; indicator--a8f57eec-f935-426e-b527-c982edfa8f8b; indicator--d577fac9-b864-42be-980f-6d2f7aca0ee1; indicator--e2bd041a-39cf-4f66-b9ed-6f0482b1dcb7; indicator--4283a3da-81e4-489a-aee0-7776067b5fb8; indicator--0927be16-0bd1-48dc-b89c-050e5703294c; indicator--b41d8415-d6fd-4b37-8f53-ee2a25a9aada; indicator--b9873cc9-7167-47c3-bfb9-00598ba92bf6; indicator--402c0f12-5f45-4fdc-abcf-56419a9f962d; indicator--ad66cafc-efab-4535-9c08-29a2fff8e709; indicator--d69528e2-6066-4cc4-80c3-d3dd6e8e239c; indicator--d32123d7-f81c-4f7b-a0e4-a9dedb520d8e; indicator--3bf4c71d-e7c7-46b2-ac69-165dadb4626b; indicator--159760d0-141e-4bab-8fd2-672ffdf87a52; indicator--cb1cabb8-f266-4b50-aef0-b265c2f11d8f; indicator--425ea5b9-250d-4a76-89aa-bcfb7118214c; indicator--11af4e87-371c-41a6-82ca-42b6b3f034ba; indicator--24211eb4-9251-474d-abcd-86f990b3c5ac; indicator--49063013-abcd-47f7-ac40-eb04b5447a6b; indicator--6c7a3551-824a-4482-9b8e-37ab216f894a; indicator--17a45ac0-e791-43ee-bce0-613499f1b7c5; indicator--7546d338-848d-4f06-a79f-035916dcd8d3; indicator--1371e907-2cfe-41c4-aadc-d8ee867e3dfe; indicator--172b249b-9776-4601-a427-7c55eeb1ab2d; indicator--8604bf64-dadf-4f65-a028-cd6129461f04; indicator--002e6e49-8099-42aa-a379-03c927c860a1; indicator--25352c7d-4ebf-433d-a17c-d686d0418f01; indicator--6d2613e9-b352-47c3-b855-fb52de14f8ae; indicator--0f04c253-51bf-4ddb-bab4-0bb502d845e2; indicator--eff21103-595a-412b-9bb1-a530e504db0e; indicator--879abe97-43ae-4f3a-bbe8-95d61424fd00; indicator--9ae8cff5-a5ff-4bbb-9978-8f0f6f6c8840; indicator--97475f4d-11a8-48a0-a59f-789479926f11; indicator--45d10d6f-2bf0-4f9f-8260-34f5004808ff; indicator--54121ae5-a452-4a31-b9a1-b7ab691e8543; indicator--b55dc421-f04f-459d-a81d-a3f4bb6bb351; indicator--5b61c762-5429-4821-8ac2-0369d86580f2; indicator--779ac6de-2801-42b2-802c-f56056ce31c3; indicator--d58e82cf-0291-48ac-9fe7-5dcaaefd8fb4; indicator--5cc6f843-fef8-46f5-9a42-f978d85de8c5; indicator--c0fc7a28-40e0-4679-9792-e193f09411fa; indicator--8effb7f5-079c-4fd8-bb96-ce78594efff2; indicator--7a64e279-d0de-4be6-b5b3-6b4ed0f6b987; indicator--15aa8ae5-305f-4a2e-bba8-7cab25956c88; indicator--d5bb2a31-f8af-4bd2-9131-111d56d2ba8d; indicator--f9820790-8cfc-406d-9301-01b56ae56afa; indicator--98d5a4db-4d10-4be3-9bc6-7d562791b401; indicator--b349edda-ba30-4e6b-97b5-99f1d7d50bf1; indicator--eb0b9684-b509-4350-815c-1cdf1ecead7e; indicator--31255f40-5737-47fd-9b92-55575c50f6b0; indicator--da76d0b7-d5f3-48c6-80f0-a223ccd8c164; indicator--b48b7d2a-7743-4d43-86d8-cde05e8ad3f8; indicator--0ff0345c-311a-4ed5-b1cd-07c3ee91066a; indicator--c0316be9-db39-40f7-8ecb-1feb776a57e8; indicator--dfba6c6d-0359-4a08-b596-d767abd763c9; indicator--17947cd5-80bb-4f6c-adcd-4d21b4df7dfe; indicator--ebc776a8-a081-4440-a3ab-0e2ed355c0c5; indicator--fbaa1d9f-7766-4bd7-bbdc-cd645afd98b2; indicator--2111b324-e997-44c9-9760-e70f4121ee86; indicator--5c4d0dc5-fdb2-486b-b0cc-6db168b9a5cb; indicator--c634281c-9690-4c2c-b519-d068a292d87d; indicator--1325faf3-9952-4001-bf1c-d6dadbde84e3; indicator--2f1ccda4-a1a4-404c-8e50-54447d732721; indicator--6b29f642-924e-4dea-a653-3e87acc33a4a; indicator--700cafec-8ca7-46fb-b644-a172b185bb3b; indicator--e8c289d4-a2a3-4915-b6fe-706236ea45cf; indicator--c401400d-7064-4125-89e4-ba4948343396; indicator--9899305a-a622-42f1-8b15-ff2f85345545; indicator--d8450642-89a5-4689-b973-c1e8bf956b9b; indicator--c2505c13-cdcf-41b1-a889-4d99e74709cb; indicator--2d8c8353-d86c-450b-8ab2-c8dd37e75508; indicator--12bd9001-eba4-4a0d-8398-4f62cb87f1e4; indicator--b32887d6-d4d5-4fc9-be3e-fe4fb4017e72; indicator--64cc9c71-4dc6-4ea1-ae60-66cddec85e09; indicator--6e1dd759-f994-4748-87e2-dc2b172ea02c; indicator--c40c761f-4983-4ba4-b93f-f0bdc00bed5c; indicator--5e3d6d87-538b-45a1-b043-bd3934ddbd3c; indicator--d2353284-b1b7-4048-8e09-45687ff2531d; indicator--8ba9dbba-7cdd-4f98-90f3-32a5cb766a61; indicator--388bc7f5-9944-4b3a-b493-37c70c1f83d9; indicator--5fcecf74-b682-4781-904d-f261f101282b; indicator--b32af739-cdbf-4b43-938c-eaaa89bf5010; indicator--2560de5f-2375-49de-9d4a-47dc1f5f067b; indicator--a0012b87-ad05-4c74-a014-9957d1795397; indicator--ed7365d8-f542-444a-8224-60221233acfe; indicator--8a419fc6-b0dd-466b-a2d7-23e5c30f1707; indicator--882830ad-a601-4405-bab1-54a28ab4bc86; indicator--4536e0b1-c2e6-42c2-bcf5-000f0df72eea; indicator--131a36f4-f5ce-461c-b633-8f555ec191fb; indicator--477c5383-6c97-479b-9f00-2a517f097ccd; indicator--1a3c58ff-cb85-41f2-865c-9ed741867884; indicator--ee089400-5653-43fc-89cb-fbe721fdf12e; indicator--4458ffe9-117a-4db8-a4ef-703a398a6b7b; indicator--ec527368-5207-4954-885e-529bb9ab9310; indicator--ad78a395-3ab1-4b08-a098-996b57066091; indicator--1a98334c-8b59-4ef8-898d-7b28e0a57a32; indicator--6033a9ba-5981-43e4-b1b8-05db45142d29; indicator--dde66d5c-07c2-4446-8d4b-5b8f47fa8119; indicator--684b0e31-c261-4237-8c0b-53ada0bb6d86; indicator--f49b724e-ef11-453a-b4e7-650a787156c4; indicator--9ec62328-2b3a-4d7b-8bbc-39bb79197865; indicator--3ceafa98-2428-4181-a3a4-ac6239684d71; indicator--a75cf440-3895-4da0-8061-433762f42ef0; indicator--4d7161ca-9488-4eab-92a7-49bd9fa6f15d; indicator--80351e52-eb51-4762-95b6-89488ecdf7a1; indicator--63bf2b2a-6818-48c2-8964-1d88660e2ef7"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=cobalt-gang\nhttps://pan-unit42.github.io/playbook_viewer/?pb=darkhydrus\nhttps://pan-unit42.github.io/playbook_viewer/?pb=dragonok\nhttps://pan-unit42.github.io/playbook_viewer/?pb=gorgon-group\nhttps://pan-unit42.github.io/playbook_viewer/?pb=inception\nhttps://pan-unit42.github.io/playbook_viewer/?pb=menupass\nhttps://pan-unit42.github.io/playbook_viewer/?pb=muddy-water\nhttps://pan-unit42.github.io/playbook_viewer/?pb=oilrig\nhttps://pan-unit42.github.io/playbook_viewer/?pb=reaper\nhttps://pan-unit42.github.io/playbook_viewer/?pb=sofacy\nhttps://pan-unit42.github.io/playbook_viewer/?pb=tick\nhttps://pan-unit42.github.io/playbook_viewer/?pb=windshift\n"
       },
       {
          "techniqueID": "T1060",
          "score": 16,
-         "comment": "; indicator--e53edc5b-861e-4742-88de-150dc1727b22; indicator--10ca5354-cef8-44e2-8c16-6d613af91f3a; indicator--d6fd8cb0-7e76-4042-9d75-fd2879efcbe1; indicator--d1a396be-fb40-4cc2-900f-63b9075c10d3; indicator--138629d7-374b-43d8-8779-eb367b3a7541; indicator--f3d7e6ea-8750-466b-b89a-c122c5de1678; indicator--4e4c3550-a132-42f8-97d7-99950611bc88; indicator--392620be-85ec-40f4-87b0-08fcc521f9ea; indicator--ff996084-fdd0-4abe-83f4-c868f3657d9f; indicator--1f237770-2638-4fbd-840d-8dfcd165e38a; indicator--3ba4b9ed-ee62-4c4e-9c77-75c6dc172e2e; indicator--08b1ffb2-45a3-47f2-9204-159f189db7b1; indicator--940b6643-1f70-4409-a553-1b29abf68566; indicator--5bf89775-71e4-4ca9-9190-c9514889e07a; indicator--feaf907a-4e95-4946-b199-a104c6c58127; indicator--7a46bd29-dd8f-4cdc-98ab-5d7a84c9729d"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=darkhydrus\nhttps://pan-unit42.github.io/playbook_viewer/?pb=dragonok\nhttps://pan-unit42.github.io/playbook_viewer/?pb=gorgon-group\nhttps://pan-unit42.github.io/playbook_viewer/?pb=muddy-water\nhttps://pan-unit42.github.io/playbook_viewer/?pb=pickaxe\nhttps://pan-unit42.github.io/playbook_viewer/?pb=reaper\nhttps://pan-unit42.github.io/playbook_viewer/?pb=rocke-group\nhttps://pan-unit42.github.io/playbook_viewer/?pb=scarlet-mimic\nhttps://pan-unit42.github.io/playbook_viewer/?pb=tick\n"
       },
       {
          "techniqueID": "T1046",
          "score": 1,
-         "comment": "; indicator--42d66fe4-7d0a-4410-873e-bc06c4c32d14"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=temp-xhunt\n"
       },
       {
          "techniqueID": "T1043",
          "score": 20,
-         "comment": "; indicator--7e6e8784-7b01-4eac-89e7-c00fe6578b03; indicator--77156abe-080c-46b6-9fd1-61995d4d7fc4; indicator--f47c0455-2f2d-45f6-8d0e-5c54baee43b4; indicator--6a5e1815-24e5-4a94-8854-7bd1216beacd; indicator--59c0e19d-5baa-4c18-ac73-cd4c332161fe; indicator--1785fb4a-a556-440f-ba8f-af0f8ae75d32; indicator--b2b2ebc2-20ae-4be7-8e61-ee7573dd6609; indicator--ec41ad9e-30d7-462e-a6db-d3fa518465cd; indicator--ffaad8f0-c645-4252-8461-d3c392476e72; indicator--bf04d9ff-0773-41d3-a3c2-f66b2e43804c; indicator--6eccc90f-304b-462f-a618-337f5ada3c5e; indicator--72a813fb-8960-4295-84e5-ff2180d9b9b3; indicator--0bcec109-3ad7-417b-891d-b5c72ef16314; indicator--34b4b3f2-8262-47f2-abf9-92789632f98d; indicator--5053bd31-748e-4a2b-8b4c-586c6f8df647; indicator--f68349c8-a1d5-4d43-a7d5-4631d97a4a73; indicator--953e1f1d-7b2d-46ef-a46d-6fcb09102ade; indicator--02b5c4e8-6643-496d-adbe-892055c857f5; indicator--fa59e498-b156-459f-b6f6-363dd3f9ee7f; indicator--61bc7c4c-c14d-4177-a657-e7e0e2aa633c"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=muddy-water\nhttps://pan-unit42.github.io/playbook_viewer/?pb=pkplug\nhttps://pan-unit42.github.io/playbook_viewer/?pb=rocke-group\nhttps://pan-unit42.github.io/playbook_viewer/?pb=simple-playbook\n"
       },
       {
          "techniqueID": "T1496",
          "score": 42,
-         "comment": "; indicator--8c2260d8-97cb-44cf-bbd4-64023a777989; indicator--0a862590-4907-45e9-91c8-08b08f00b7a2; indicator--cce74fa2-ff36-43a1-bbd2-e22af586be17; indicator--38ab05fd-36c9-490b-8766-e3115cdaf82d; indicator--24bba5a4-2bdb-4c21-8a1c-4a5d2b65beee; indicator--9b0413e4-0c0a-4960-8705-5f7277fe7304; indicator--46135392-b385-4ca8-bc6e-71056c74c4a3; indicator--3102f143-0a6a-4841-aae4-daea76591aa3; indicator--7ba70e38-c8c4-44a9-9052-bdbf029c7451; indicator--12a943dc-995b-43f2-81d3-d51c18921351; indicator--fb6ab5e1-e0bc-4e1e-a061-61de912347f3; indicator--c1165a95-9ce9-4765-95cb-54c40bc2fa88; indicator--9d453325-a1d4-457a-a55f-68f2b0a150f6; indicator--97e80ff5-ae39-4f62-be91-0954098b01cf; indicator--cf2bc71e-5e26-44f9-981b-972ff94c4383; indicator--bf31d777-d4ea-4981-bd20-38c17199f945; indicator--457a85e1-d3f4-4299-9e40-f798f925ad72; indicator--6fda2bcb-632c-44a1-a505-8b621d7b2a4e; indicator--979b63f5-e21b-4eca-a28e-71ed07975342; indicator--20107f50-7831-4b26-88e5-e21a2c6268cb; indicator--1b04ccb7-c9cf-4f00-bc00-f2a385211232; indicator--90e3407c-09bd-4331-b017-74b25538272c; indicator--b6cace37-cbf6-4914-8e28-a84f0299fa96; indicator--8d53484b-6b5c-4a17-a3e7-a794c9d512d3; indicator--3e1f5203-964e-4e6c-b13e-8f9a92612371; indicator--3936f9c4-28bf-48c8-bc8f-b4b1fb63ee27; indicator--db67fc86-a825-4fd2-a8a1-815966d5c450; indicator--b3f681c4-a435-4148-bbb8-04712e43869b; indicator--82420f28-4dc2-4995-addb-b1a9955cb19f; indicator--5b2bddc8-d8d2-4be0-a2b7-5c9ce083c431; indicator--7b071702-782a-4229-a791-bcf0d3cef544; indicator--5605a16a-3938-417f-a659-3a793cc42cde; indicator--2cc8a2fc-522b-404b-aef2-75339b09b166; indicator--cc050fde-4213-4cf5-b89a-737b1029d0e5; indicator--b1bc0b5e-955b-4256-bb90-abd01baec219; indicator--f9e23886-581e-426a-8a2d-be89fff45775; indicator--97bf02ed-d0d9-4bab-a011-14367e48616c; indicator--362c7db0-6716-46a1-9602-da0479b9d33b; indicator--b03054c8-4e72-4b59-aeb2-2d68a1cb1b0f; indicator--37b0c27f-bc35-4bf4-af67-f72ebb336748; indicator--d2b686f2-0484-453d-9f9d-5341d3ab62e6; indicator--2d84e3f7-c019-4646-8430-18e6cb610042"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=rocke-group\n"
       },
       {
          "techniqueID": "T1221",
          "score": 8,
-         "comment": "; indicator--2baa103e-fa1a-4ab1-a45a-f8fe9ada43d7; indicator--d577fac9-b864-42be-980f-6d2f7aca0ee1; indicator--0b635aeb-23a9-4f1e-a3e4-03dcc33a10a0; indicator--e2bd041a-39cf-4f66-b9ed-6f0482b1dcb7; indicator--4283a3da-81e4-489a-aee0-7776067b5fb8; indicator--d3101429-c308-4caf-aba8-9ccd51ed86f2; indicator--0927be16-0bd1-48dc-b89c-050e5703294c; indicator--b41d8415-d6fd-4b37-8f53-ee2a25a9aada"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=inception\n"
       },
       {
          "techniqueID": "T1189",
          "score": 8,
-         "comment": "; indicator--f6d7d8ca-c91d-40a6-a769-bb1f31aebb1b; indicator--69843bfe-329f-4540-ba33-a154ad06df17; indicator--81bf4b2a-4cbf-4a01-bab1-8cea8ac405c5; indicator--562e634f-b0db-4186-877c-f22561788478; indicator--23dc3ecc-5a82-4fc2-817a-eca4b25dcb74; indicator--7400c925-265c-45cd-bbb6-bfde1449520e; indicator--99df9df1-c265-404f-8f0f-bedba3d45e97; indicator--b81ea8b1-62ac-4743-912b-75ce8edd98f6"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=temp-xhunt\nhttps://pan-unit42.github.io/playbook_viewer/?pb=th3bug\n"
       },
       {
          "techniqueID": "T1194",
          "score": 1,
-         "comment": "; indicator--5471a118-8e14-407b-b25a-ac1a31f1540d"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=windshift\n"
       },
       {
          "techniqueID": "T1192",
          "score": 19,
-         "comment": "; indicator--355af0e6-7f79-4c5e-82cc-b58865e98224; indicator--9cf441e3-d9a3-4315-a9f7-c4ac994caa18; indicator--0a2a1f3c-85d9-4830-aec8-f75dd68692c1; indicator--2cbd3694-be33-49e3-9498-98d40a31b8b0; indicator--cbb6dda1-83a7-438d-ab17-0ddfe19a8530; indicator--6d8f1c1a-c94b-44e3-82ff-cd4e45be7d27; indicator--e9f912c3-3fa4-4f2a-9b5d-4fce568c7904; indicator--c3dc37b3-c0e6-40dc-b228-6552464ab9ce; indicator--1893a49b-2634-4eb0-9ee2-1a2c57442e51; indicator--7bd94345-e4be-43fe-be8c-b05167593e0e; indicator--1d14fc54-23dd-48bb-b23a-6afde217a32f; indicator--9877e322-7523-4312-af03-189a0cd87aa4; indicator--208be4e3-fc3e-46d0-878f-1de6c8161c8b; indicator--b0afb5ec-a6c5-48ea-8890-ff13821f9e13; indicator--e5fc7abd-daa6-4903-9ec7-d80d3a3b6783; indicator--f52b093e-f3a1-44b1-8fb4-1d55ed271c9e; indicator--4781c14f-eac6-4299-985e-0f0a3527bf9b; indicator--7d72d620-9720-4457-897d-7030d1a972df; indicator--7d72d620-9720-4457-897d-7030d1a972df"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=cobalt-gang\nhttps://pan-unit42.github.io/playbook_viewer/?pb=rancor\nhttps://pan-unit42.github.io/playbook_viewer/?pb=simple-playbook\nhttps://pan-unit42.github.io/playbook_viewer/?pb=very-simple-playbook\n"
       },
       {
          "techniqueID": "T1204",
          "score": 1,
-         "comment": "; indicator--0562dcc5-9a66-4904-abf2-ef256db04b22"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=darkhydrus\n"
       },
       {
          "techniqueID": "T1132",
          "score": 3,
-         "comment": "; indicator--f2eb1d6c-df89-49e2-97f8-5c58706e9519; indicator--df9df648-9145-401c-a737-8383840c8f92; indicator--06dbafd1-ef8d-4477-8e4c-ee064e55f009"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=chafer\nhttps://pan-unit42.github.io/playbook_viewer/?pb=muddy-water\nhttps://pan-unit42.github.io/playbook_viewer/?pb=sofacy\n"
       },
       {
          "techniqueID": "T1120",
          "score": 1,
-         "comment": "; indicator--4213f451-f0dc-430e-b12e-eccfb541403f"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=tick\n"
       },
       {
          "techniqueID": "T1116",
          "score": 25,
-         "comment": "; indicator--b9873cc9-7167-47c3-bfb9-00598ba92bf6; indicator--402c0f12-5f45-4fdc-abcf-56419a9f962d; indicator--ad66cafc-efab-4535-9c08-29a2fff8e709; indicator--d69528e2-6066-4cc4-80c3-d3dd6e8e239c; indicator--d32123d7-f81c-4f7b-a0e4-a9dedb520d8e; indicator--3bf4c71d-e7c7-46b2-ac69-165dadb4626b; indicator--159760d0-141e-4bab-8fd2-672ffdf87a52; indicator--cb1cabb8-f266-4b50-aef0-b265c2f11d8f; indicator--425ea5b9-250d-4a76-89aa-bcfb7118214c; indicator--11af4e87-371c-41a6-82ca-42b6b3f034ba; indicator--24211eb4-9251-474d-abcd-86f990b3c5ac; indicator--49063013-abcd-47f7-ac40-eb04b5447a6b; indicator--6c7a3551-824a-4482-9b8e-37ab216f894a; indicator--17a45ac0-e791-43ee-bce0-613499f1b7c5; indicator--7546d338-848d-4f06-a79f-035916dcd8d3; indicator--1371e907-2cfe-41c4-aadc-d8ee867e3dfe; indicator--172b249b-9776-4601-a427-7c55eeb1ab2d; indicator--8604bf64-dadf-4f65-a028-cd6129461f04; indicator--002e6e49-8099-42aa-a379-03c927c860a1; indicator--25352c7d-4ebf-433d-a17c-d686d0418f01; indicator--6d2613e9-b352-47c3-b855-fb52de14f8ae; indicator--0f04c253-51bf-4ddb-bab4-0bb502d845e2; indicator--eff21103-595a-412b-9bb1-a530e504db0e; indicator--879abe97-43ae-4f3a-bbe8-95d61424fd00; indicator--9ae8cff5-a5ff-4bbb-9978-8f0f6f6c8840"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=menupass\n"
       },
       {
          "techniqueID": "T1113",
          "score": 1,
-         "comment": "; indicator--5f61b2fd-38ec-4ecc-99e9-01de81b95013"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=simple-playbook\n"
       },
       {
          "techniqueID": "T1108",
          "score": 6,
-         "comment": "; indicator--6016872c-11c6-459c-ac21-9692adcdcca0; indicator--1a6d1c72-b27c-40e2-813a-fb8395b800b5; indicator--ffb49010-2a49-474f-8e10-81c129a94997; indicator--0e9934f4-e2df-42f0-9964-0d03836329e1; indicator--1b6c1677-d260-41b2-b11c-7db4b1f402c1; indicator--c816a471-1dc1-4130-b509-71b1096f8b40"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=oilrig\nhttps://pan-unit42.github.io/playbook_viewer/?pb=simple-playbook\n"
       },
       {
          "techniqueID": "T1095",
          "score": 1,
-         "comment": "; indicator--ebdfe0e7-b692-48e0-becd-b7cffd9fb3b2"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=rancor\n"
       },
       {
          "techniqueID": "T1094",
          "score": 25,
-         "comment": "; indicator--f2eb1d6c-df89-49e2-97f8-5c58706e9519; indicator--c4910adf-2783-43a1-9827-0f519d9444b1; indicator--61954c1d-d1b2-43f2-9214-ef6d48db1565; indicator--130e81df-8ba6-4655-8a96-f2fa855eb4c8; indicator--b480012b-2aba-4885-8ab6-48f8a3dd27eb; indicator--8d510d46-c5e2-4e69-852a-f72425c0b668; indicator--70b19618-0883-4f0e-88c5-489c8e7654cf; indicator--7d86c3e7-22f4-4e21-ba93-cc79e815c69a; indicator--f7fddaf5-0aa1-4218-8e2b-7cbfdb3cb7dd; indicator--2c461e83-a8d2-444e-9480-a2516a1f87c8; indicator--e12c095d-899f-415b-a29b-eeb6f630db70; indicator--09a93c5a-e410-4a1d-a3a9-39c5d634b766; indicator--c258f33d-57c8-458d-9d77-7cd8bf1e264a; indicator--9c1eceb2-a704-45e5-af0d-2617dd0a04e3; indicator--e866a291-de18-4f87-a638-7934609e61b4; indicator--85792b54-331c-435e-8e54-8d8d7829857d; indicator--53e6b091-eee4-4f8c-b756-ac2d11d539c5; indicator--4cfb25e2-89c2-4e04-99c3-4a5307e6e240; indicator--f72ada57-b57a-4a51-bd42-b196d103bb80; indicator--05c87016-e883-4458-b1a1-52f8b61c7350; indicator--8486630b-080b-4197-afc1-5e81276a96ec; indicator--5df730fb-a8b2-4528-af0b-3225e251e189; indicator--69843bfe-329f-4540-ba33-a154ad06df17; indicator--b07a4ce7-5c24-4205-ad6b-59f6d088ccd1; indicator--4ebfe87b-e05b-4c97-b9c4-f229ca5af8ba"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=chafer\nhttps://pan-unit42.github.io/playbook_viewer/?pb=darkhydrus\nhttps://pan-unit42.github.io/playbook_viewer/?pb=oilrig\nhttps://pan-unit42.github.io/playbook_viewer/?pb=sofacy\nhttps://pan-unit42.github.io/playbook_viewer/?pb=temp-xhunt\n"
       },
       {
          "techniqueID": "T1065",
          "score": 11,
-         "comment": "; indicator--1ce07cb3-4cf8-425f-b813-a5cda98512eb; indicator--2e9fc034-a548-45c2-8e3e-f8ef3157b708; indicator--9d267f81-01f0-4f71-a5b6-61a49b678173; indicator--bacbc6e3-7b0a-4cf6-b44f-385f79d3dc75; indicator--1b1ea848-7a0e-4b06-9bf5-84784d8ea64f; indicator--172404e7-500b-4fa0-86fa-75be5664f35f; indicator--14ee64df-3fee-4b1b-8924-55a57ce4d27a; indicator--47c372ce-73ba-45e6-928d-b93fbb1e430a; indicator--a935f801-9d4b-4ef0-b951-5af09d346b22; indicator--7dcc5c57-34b8-4147-9051-915feadd746e; indicator--355c2121-4784-46c0-948d-c3086d6afee4"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=gorgon-group\nhttps://pan-unit42.github.io/playbook_viewer/?pb=muddy-water\nhttps://pan-unit42.github.io/playbook_viewer/?pb=pkplug\nhttps://pan-unit42.github.io/playbook_viewer/?pb=rocke-group\nhttps://pan-unit42.github.io/playbook_viewer/?pb=scarlet-mimic\n"
       },
       {
          "techniqueID": "T1045",
          "score": 3,
-         "comment": "; indicator--02f8514c-0d1c-4c2f-ba93-1210e78e6616; indicator--64dc06e9-1cd3-495b-9977-a468615b84eb; indicator--5ec625a4-3975-4971-b970-b9eec37f1a5f"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=sofacy\n"
       },
       {
          "techniqueID": "T1044",
          "score": 4,
-         "comment": "; indicator--c4dbe34a-1319-4c4c-9f87-ed73817cbefa; indicator--d33cdf5a-e339-4edf-9864-186be579bc58; indicator--6ea4c551-986b-445b-87e4-7b9f9f686bb5; indicator--45922c62-51a8-4be3-a903-ad0b96050634"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=dragonok\n"
       },
       {
          "techniqueID": "T1041",
          "score": 31,
-         "comment": "; indicator--80b2db74-31d5-4873-930e-84197e4d757b; indicator--3ad50b9b-9c8e-4304-b33d-79135f46b0af; indicator--5d55a55f-eb5f-4501-b6c7-ea96d663e61f; indicator--94e2fdd4-264a-43b8-904f-2fcea23ef9c3; indicator--31d15a70-091a-4b0c-a82e-9763b10d382d; indicator--c1815037-75a3-4673-bed6-69ff18e77824; indicator--79d652ce-c511-42da-9896-306c57136a0e; indicator--ffe05ac1-2475-4e1b-8290-d772d4d4a121; indicator--11fd5891-d841-4d22-b40d-8e74a16e3993; indicator--418b8606-c013-4976-8b71-2fce9a50c2e0; indicator--d79883ac-05a3-4d1c-ac31-3e16733978d9; indicator--bb43134f-763f-4419-8e53-a285ae90f664; indicator--303ca587-9f5a-4b98-ab56-e2a73fe07ed7; indicator--9c4e8e50-dbc7-4aad-bc53-89ec01fdab97; indicator--44ddda2a-ee1d-49c9-afdf-e2f42d2c686a; indicator--e28aaaec-322e-43c0-aa8c-645c9a43c4f3; indicator--91afba2e-8721-4751-abb5-89e4ea75d771; indicator--337a0d8f-efa1-4e2e-9956-c7fd385bc136; indicator--3d8472f1-c641-4428-8f57-6af5b8ac4d42; indicator--f0fce8e0-ad96-4208-bb6e-8b45d9f8809a; indicator--9477a18d-a5d5-43bb-84fa-ec569f8ae0d3; indicator--c75508d2-87b6-4750-a00a-b990efa775e4; indicator--c18250bd-396c-43fc-b522-a74a6b684738; indicator--0422b2d6-bb3b-45a1-9d6c-ebb1d8f9d394; indicator--05b32fbc-9e0a-4102-8fd7-509e5c01300a; indicator--be7cb872-2205-4b2d-b125-fb4b72e2a8e4; indicator--948d3c0d-10c9-4cd3-8074-933a14d62fe7; indicator--9c1eceb2-a704-45e5-af0d-2617dd0a04e3; indicator--e866a291-de18-4f87-a638-7934609e61b4; indicator--85792b54-331c-435e-8e54-8d8d7829857d; indicator--53e6b091-eee4-4f8c-b756-ac2d11d539c5"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=dragonok\nhttps://pan-unit42.github.io/playbook_viewer/?pb=muddy-water\nhttps://pan-unit42.github.io/playbook_viewer/?pb=oilrig\nhttps://pan-unit42.github.io/playbook_viewer/?pb=reaper\nhttps://pan-unit42.github.io/playbook_viewer/?pb=sofacy\n"
       },
       {
          "techniqueID": "T1037",
          "score": 1,
-         "comment": "; indicator--59579a63-9737-4cce-8b01-db2d2afce81b"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=sofacy\n"
       },
       {
          "techniqueID": "T1032",
          "score": 2,
-         "comment": "; indicator--85c645e8-e390-4e65-90fc-4c7b440216fc; indicator--aa0ad2cd-5182-4a34-9a2d-3af96ac374a9"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=scarlet-mimic\n"
       },
       {
          "techniqueID": "T1024",
          "score": 3,
-         "comment": "; indicator--fa5f82ce-75d9-4fec-ae2d-e4f13f564282; indicator--8b731b13-64da-4695-9cc6-dee06d2e56c8; indicator--ebdfe0e7-b692-48e0-becd-b7cffd9fb3b2"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=dragonok\nhttps://pan-unit42.github.io/playbook_viewer/?pb=rancor\n"
       },
       {
          "techniqueID": "T1001",
          "score": 4,
-         "comment": "; indicator--c4b2f245-76cd-4219-bf63-35003d6e9f6f; indicator--f98048b9-4dc9-45bb-b89e-73d04d11ad54; indicator--9558a816-a3dc-4117-94bb-9e1de541ad81; indicator--1df53250-18a8-46a4-9dc4-a270e5db6a67"
+         "comment": "https://pan-unit42.github.io/playbook_viewer/?pb=scarlet-mimic\n"
       }
    ]
 }
