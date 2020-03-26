@@ -1,0 +1,370 @@
+{
+   "domain": "mitre-enterprise",
+   "name": "likelihood",
+   "gradient": {
+      "colors": [
+         "#ffffff",
+         "#ff6666"
+      ],
+      "maxValue": 3,
+      "minValue": 0
+   },
+   "version": "2.2",
+   "techniques": [
+      {
+         "techniqueID": "T1089",
+         "score": 2,
+         "comment": "https://capec.mitre.org/data/definitions/578.html\n"
+      },
+      {
+         "techniqueID": "T1078",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/560.html\n"
+      },
+      {
+         "techniqueID": "T1110",
+         "score": 2,
+         "comment": "https://capec.mitre.org/data/definitions/49.html\n"
+      },
+      {
+         "techniqueID": "T1156",
+         "score": 3,
+         "comment": "https://capec.mitre.org/data/definitions/19.html\n"
+      },
+      {
+         "techniqueID": "T1054",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/571.html\n"
+      },
+      {
+         "techniqueID": "T1055",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/251.html\nhttps://capec.mitre.org/data/definitions/640.html\n"
+      },
+      {
+         "techniqueID": "T1036",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/177.html\n"
+      },
+      {
+         "techniqueID": "T1033",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/577.html\n"
+      },
+      {
+         "techniqueID": "T1100",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/650.html\n"
+      },
+      {
+         "techniqueID": "T1040",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/158.html\n"
+      },
+      {
+         "techniqueID": "T1208",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/509.html\n"
+      },
+      {
+         "techniqueID": "T1070",
+         "score": 3,
+         "comment": "https://capec.mitre.org/data/definitions/93.html\n"
+      },
+      {
+         "techniqueID": "T1087",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/575.html\n"
+      },
+      {
+         "techniqueID": "T1081",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/191.html\nhttps://capec.mitre.org/data/definitions/545.html\nhttps://capec.mitre.org/data/definitions/639.html\n"
+      },
+      {
+         "techniqueID": "T1130",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/459.html\nhttps://capec.mitre.org/data/definitions/479.html\n"
+      },
+      {
+         "techniqueID": "T1083",
+         "score": 3,
+         "comment": "https://capec.mitre.org/data/definitions/127.html\n"
+      },
+      {
+         "techniqueID": "T1057",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/573.html\n"
+      },
+      {
+         "techniqueID": "T1082",
+         "score": 2,
+         "comment": "https://capec.mitre.org/data/definitions/312.html\n"
+      },
+      {
+         "techniqueID": "T1016",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/309.html\n"
+      },
+      {
+         "techniqueID": "T1049",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/292.html\n"
+      },
+      {
+         "techniqueID": "T1124",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/295.html\n"
+      },
+      {
+         "techniqueID": "T1056",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/568.html\n"
+      },
+      {
+         "techniqueID": "T1077",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/561.html\n"
+      },
+      {
+         "techniqueID": "T1075",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/644.html\n"
+      },
+      {
+         "techniqueID": "T1050",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/550.html\n"
+      },
+      {
+         "techniqueID": "T1200",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/440.html\n"
+      },
+      {
+         "techniqueID": "T1035",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/542.html\n"
+      },
+      {
+         "techniqueID": "T1076",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/555.html\n"
+      },
+      {
+         "techniqueID": "T1090",
+         "score": 3,
+         "comment": "https://capec.mitre.org/data/definitions/94.html\n"
+      },
+      {
+         "techniqueID": "T1112",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/203.html\n"
+      },
+      {
+         "techniqueID": "T1012",
+         "score": 2,
+         "comment": "https://capec.mitre.org/data/definitions/647.html\n"
+      },
+      {
+         "techniqueID": "T1009",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/572.html\n"
+      },
+      {
+         "techniqueID": "T1073",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/641.html\n"
+      },
+      {
+         "techniqueID": "T1069",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/576.html\n"
+      },
+      {
+         "techniqueID": "T1027",
+         "score": 3,
+         "comment": "https://capec.mitre.org/data/definitions/267.html\n"
+      },
+      {
+         "techniqueID": "T1004",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/579.html\n"
+      },
+      {
+         "techniqueID": "T1042",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/556.html\n"
+      },
+      {
+         "techniqueID": "T1223",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/636.html\n"
+      },
+      {
+         "techniqueID": "T1015",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/558.html\n"
+      },
+      {
+         "techniqueID": "T1134",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/633.html\n"
+      },
+      {
+         "techniqueID": "T1123",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/634.html\n"
+      },
+      {
+         "techniqueID": "T1007",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/574.html\n"
+      },
+      {
+         "techniqueID": "T1060",
+         "score": 2,
+         "comment": "https://capec.mitre.org/data/definitions/270.html\n"
+      },
+      {
+         "techniqueID": "T1135",
+         "score": 2,
+         "comment": "https://capec.mitre.org/data/definitions/643.html\n"
+      },
+      {
+         "techniqueID": "T1031",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/551.html\n"
+      },
+      {
+         "techniqueID": "T1046",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/300.html\n"
+      },
+      {
+         "techniqueID": "T1058",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/478.html\n"
+      },
+      {
+         "techniqueID": "T1038",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/471.html\n"
+      },
+      {
+         "techniqueID": "T1195",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/438.html\nhttps://capec.mitre.org/data/definitions/439.html\n"
+      },
+      {
+         "techniqueID": "T1192",
+         "score": 3,
+         "comment": "https://capec.mitre.org/data/definitions/163.html\n"
+      },
+      {
+         "techniqueID": "T1176",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/185.html\n"
+      },
+      {
+         "techniqueID": "T1172",
+         "score": 2,
+         "comment": "https://capec.mitre.org/data/definitions/481.html\n"
+      },
+      {
+         "techniqueID": "T1148",
+         "score": 3,
+         "comment": "https://capec.mitre.org/data/definitions/13.html\n"
+      },
+      {
+         "techniqueID": "T1141",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/569.html\n"
+      },
+      {
+         "techniqueID": "T1151",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/649.html\n"
+      },
+      {
+         "techniqueID": "T1120",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/646.html\n"
+      },
+      {
+         "techniqueID": "T1116",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/206.html\n"
+      },
+      {
+         "techniqueID": "T1115",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/637.html\n"
+      },
+      {
+         "techniqueID": "T1113",
+         "score": 2,
+         "comment": "https://capec.mitre.org/data/definitions/648.html\n"
+      },
+      {
+         "techniqueID": "T1109",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/638.html\n"
+      },
+      {
+         "techniqueID": "T1097",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/645.html\n"
+      },
+      {
+         "techniqueID": "T1080",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/562.html\n"
+      },
+      {
+         "techniqueID": "T1063",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/581.html\n"
+      },
+      {
+         "techniqueID": "T1062",
+         "score": 2,
+         "comment": "https://capec.mitre.org/data/definitions/552.html\n"
+      },
+      {
+         "techniqueID": "T1051",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/563.html\n"
+      },
+      {
+         "techniqueID": "T1044",
+         "score": 2,
+         "comment": "https://capec.mitre.org/data/definitions/1.html\nhttps://capec.mitre.org/data/definitions/17.html\nhttps://capec.mitre.org/data/definitions/642.html\n"
+      },
+      {
+         "techniqueID": "T1037",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/564.html\n"
+      },
+      {
+         "techniqueID": "T1034",
+         "score": 3,
+         "comment": "https://capec.mitre.org/data/definitions/159.html\n"
+      },
+      {
+         "techniqueID": "T1023",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/132.html\n"
+      },
+      {
+         "techniqueID": "T1019",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/532.html\n"
+      },
+      {
+         "techniqueID": "T1017",
+         "score": 1,
+         "comment": "https://capec.mitre.org/data/definitions/187.html\n"
+      }
+   ]
+}

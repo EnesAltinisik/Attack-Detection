@@ -1,0 +1,870 @@
+{
+   "domain": "mitre-enterprise",
+   "name": "GroupRelation",
+   "gradient": {
+      "colors": [
+         "#ffffff",
+         "#ff6666"
+      ],
+      "maxValue": 41,
+      "minValue": 0
+   },
+   "version": "2.2",
+   "techniques": [
+      {
+         "techniqueID": "T1089",
+         "score": 9,
+         "comment": "https://attack.mitre.org/groups/G0094\nhttps://attack.mitre.org/groups/G0010\nhttps://attack.mitre.org/groups/G0014\nhttps://attack.mitre.org/groups/G0074\nhttps://attack.mitre.org/groups/G0078\nhttps://attack.mitre.org/groups/G0027\nhttps://attack.mitre.org/groups/G0032\nhttps://attack.mitre.org/groups/G0024\nhttps://attack.mitre.org/groups/G0008\n"
+      },
+      {
+         "techniqueID": "T1020",
+         "score": 1,
+         "comment": "https://attack.mitre.org/groups/G0072\n"
+      },
+      {
+         "techniqueID": "T1064",
+         "score": 41,
+         "comment": "https://attack.mitre.org/groups/G0095\nhttps://attack.mitre.org/groups/G0010\nhttps://attack.mitre.org/groups/G0092\nhttps://attack.mitre.org/groups/G0091\nhttps://attack.mitre.org/groups/G0090\nhttps://attack.mitre.org/groups/G0087\nhttps://attack.mitre.org/groups/G0085\nhttps://attack.mitre.org/groups/G0050\nhttps://attack.mitre.org/groups/G0012\nhttps://attack.mitre.org/groups/G0084\nhttps://attack.mitre.org/groups/G0073\nhttps://attack.mitre.org/groups/G0070\nhttps://attack.mitre.org/groups/G0045\nhttps://attack.mitre.org/groups/G0032\nhttps://attack.mitre.org/groups/G0074\nhttps://attack.mitre.org/groups/G0067\nhttps://attack.mitre.org/groups/G0078\nhttps://attack.mitre.org/groups/G0072\nhttps://attack.mitre.org/groups/G0077\nhttps://attack.mitre.org/groups/G0075\nhttps://attack.mitre.org/groups/G0080\nhttps://attack.mitre.org/groups/G0046\nhttps://attack.mitre.org/groups/G0004\nhttps://attack.mitre.org/groups/G0040\nhttps://attack.mitre.org/groups/G0069\nhttps://attack.mitre.org/groups/G0065\nhttps://attack.mitre.org/groups/G0061\nhttps://attack.mitre.org/groups/G0062\nhttps://attack.mitre.org/groups/G0007\nhttps://attack.mitre.org/groups/G0059\nhttps://attack.mitre.org/groups/G0049\nhttps://attack.mitre.org/groups/G0060\nhttps://attack.mitre.org/groups/G0053\nhttps://attack.mitre.org/groups/G0051\nhttps://attack.mitre.org/groups/G0047\nhttps://attack.mitre.org/groups/G0038\nhttps://attack.mitre.org/groups/G0037\nhttps://attack.mitre.org/groups/G0022\nhttps://attack.mitre.org/groups/G0016\nhttps://attack.mitre.org/groups/G0009\nhttps://attack.mitre.org/groups/G0006\n"
+      },
+      {
+         "techniqueID": "T1098",
+         "score": 4,
+         "comment": "https://attack.mitre.org/groups/G0059\nhttps://attack.mitre.org/groups/G0074\nhttps://attack.mitre.org/groups/G0022\nhttps://attack.mitre.org/groups/G0032\n"
+      },
+      {
+         "techniqueID": "T1078",
+         "score": 25,
+         "comment": "https://attack.mitre.org/groups/G0096\nhttps://attack.mitre.org/groups/G0093\nhttps://attack.mitre.org/groups/G0088\nhttps://attack.mitre.org/groups/G0087\nhttps://attack.mitre.org/groups/G0086\nhttps://attack.mitre.org/groups/G0085\nhttps://attack.mitre.org/groups/G0014\nhttps://attack.mitre.org/groups/G0074\nhttps://attack.mitre.org/groups/G0061\nhttps://attack.mitre.org/groups/G0064\nhttps://attack.mitre.org/groups/G0065\nhttps://attack.mitre.org/groups/G0022\nhttps://attack.mitre.org/groups/G0053\nhttps://attack.mitre.org/groups/G0049\nhttps://attack.mitre.org/groups/G0045\nhttps://attack.mitre.org/groups/G0007\nhttps://attack.mitre.org/groups/G0051\nhttps://attack.mitre.org/groups/G0050\nhttps://attack.mitre.org/groups/G0039\nhttps://attack.mitre.org/groups/G0037\nhttps://attack.mitre.org/groups/G0028\nhttps://attack.mitre.org/groups/G0027\nhttps://attack.mitre.org/groups/G0026\nhttps://attack.mitre.org/groups/G0011\nhttps://attack.mitre.org/groups/G0008\n"
+      },
+      {
+         "techniqueID": "T1110",
+         "score": 8,
+         "comment": "https://attack.mitre.org/groups/G0096\nhttps://attack.mitre.org/groups/G0064\nhttps://attack.mitre.org/groups/G0077\nhttps://attack.mitre.org/groups/G0074\nhttps://attack.mitre.org/groups/G0049\nhttps://attack.mitre.org/groups/G0022\nhttps://attack.mitre.org/groups/G0032\nhttps://attack.mitre.org/groups/G0010\n"
+      },
+      {
+         "techniqueID": "T1059",
+         "score": 32,
+         "comment": "https://attack.mitre.org/groups/G0096\nhttps://attack.mitre.org/groups/G0093\nhttps://attack.mitre.org/groups/G0010\nhttps://attack.mitre.org/groups/G0091\nhttps://attack.mitre.org/groups/G0050\nhttps://attack.mitre.org/groups/G0080\nhttps://attack.mitre.org/groups/G0069\nhttps://attack.mitre.org/groups/G0026\nhttps://attack.mitre.org/groups/G0082\nhttps://attack.mitre.org/groups/G0074\nhttps://attack.mitre.org/groups/G0078\nhttps://attack.mitre.org/groups/G0007\nhttps://attack.mitre.org/groups/G0046\nhttps://attack.mitre.org/groups/G0075\nhttps://attack.mitre.org/groups/G0072\nhttps://attack.mitre.org/groups/G0067\nhttps://attack.mitre.org/groups/G0065\nhttps://attack.mitre.org/groups/G0061\nhttps://attack.mitre.org/groups/G0059\nhttps://attack.mitre.org/groups/G0054\nhttps://attack.mitre.org/groups/G0049\nhttps://attack.mitre.org/groups/G0060\nhttps://attack.mitre.org/groups/G0045\nhttps://attack.mitre.org/groups/G0027\nhttps://attack.mitre.org/groups/G0039\nhttps://attack.mitre.org/groups/G0040\nhttps://attack.mitre.org/groups/G0032\nhttps://attack.mitre.org/groups/G0028\nhttps://attack.mitre.org/groups/G0022\nhttps://attack.mitre.org/groups/G0018\nhttps://attack.mitre.org/groups/G0006\nhttps://attack.mitre.org/groups/G0004\n"
+      },
+      {
+         "techniqueID": "T1222",
+         "score": 1,
+         "comment": "https://attack.mitre.org/groups/G0050\n"
+      },
+      {
+         "techniqueID": "T1485",
+         "score": 2,
+         "comment": "https://attack.mitre.org/groups/G0032\nhttps://attack.mitre.org/groups/G0082\n"
+      },
+      {
+         "techniqueID": "T1146",
+         "score": 1,
+         "comment": "https://attack.mitre.org/groups/G0096\n"
+      },
+      {
+         "techniqueID": "T1068",
+         "score": 8,
+         "comment": "https://attack.mitre.org/groups/G0064\nhttps://attack.mitre.org/groups/G0080\nhttps://attack.mitre.org/groups/G0068\nhttps://attack.mitre.org/groups/G0061\nhttps://attack.mitre.org/groups/G0050\nhttps://attack.mitre.org/groups/G0027\nhttps://attack.mitre.org/groups/G0037\nhttps://attack.mitre.org/groups/G0007\n"
+      },
+      {
+         "techniqueID": "T1055",
+         "score": 12,
+         "comment": "https://attack.mitre.org/groups/G0096\nhttps://attack.mitre.org/groups/G0094\nhttps://attack.mitre.org/groups/G0081\nhttps://attack.mitre.org/groups/G0078\nhttps://attack.mitre.org/groups/G0010\nhttps://attack.mitre.org/groups/G0027\nhttps://attack.mitre.org/groups/G0080\nhttps://attack.mitre.org/groups/G0067\nhttps://attack.mitre.org/groups/G0072\nhttps://attack.mitre.org/groups/G0032\nhttps://attack.mitre.org/groups/G0068\nhttps://attack.mitre.org/groups/G0024\n"
+      },
+      {
+         "techniqueID": "T1036",
+         "score": 19,
+         "comment": "https://attack.mitre.org/groups/G0096\nhttps://attack.mitre.org/groups/G0093\nhttps://attack.mitre.org/groups/G0068\nhttps://attack.mitre.org/groups/G0004\nhttps://attack.mitre.org/groups/G0029\nhttps://attack.mitre.org/groups/G0045\nhttps://attack.mitre.org/groups/G0037\nhttps://attack.mitre.org/groups/G0088\nhttps://attack.mitre.org/groups/G0074\nhttps://attack.mitre.org/groups/G0069\nhttps://attack.mitre.org/groups/G0060\nhttps://attack.mitre.org/groups/G0054\nhttps://attack.mitre.org/groups/G0046\nhttps://attack.mitre.org/groups/G0050\nhttps://attack.mitre.org/groups/G0040\nhttps://attack.mitre.org/groups/G0033\nhttps://attack.mitre.org/groups/G0018\nhttps://attack.mitre.org/groups/G0008\nhttps://attack.mitre.org/groups/G0006\n"
+      },
+      {
+         "techniqueID": "T1033",
+         "score": 17,
+         "comment": "https://attack.mitre.org/groups/G0096\nhttps://attack.mitre.org/groups/G0093\nhttps://attack.mitre.org/groups/G0081\nhttps://attack.mitre.org/groups/G0087\nhttps://attack.mitre.org/groups/G0069\nhttps://attack.mitre.org/groups/G0050\nhttps://attack.mitre.org/groups/G0067\nhttps://attack.mitre.org/groups/G0073\nhttps://attack.mitre.org/groups/G0074\nhttps://attack.mitre.org/groups/G0059\nhttps://attack.mitre.org/groups/G0049\nhttps://attack.mitre.org/groups/G0051\nhttps://attack.mitre.org/groups/G0047\nhttps://attack.mitre.org/groups/G0040\nhttps://attack.mitre.org/groups/G0038\nhttps://attack.mitre.org/groups/G0032\nhttps://attack.mitre.org/groups/G0022\n"
+      },
+      {
+         "techniqueID": "T1100",
+         "score": 9,
+         "comment": "https://attack.mitre.org/groups/G0093\nhttps://attack.mitre.org/groups/G0027\nhttps://attack.mitre.org/groups/G0088\nhttps://attack.mitre.org/groups/G0065\nhttps://attack.mitre.org/groups/G0087\nhttps://attack.mitre.org/groups/G0074\nhttps://attack.mitre.org/groups/G0050\nhttps://attack.mitre.org/groups/G0049\nhttps://attack.mitre.org/groups/G0009\n"
+      },
+      {
+         "techniqueID": "T1002",
+         "score": 22,
+         "comment": "https://attack.mitre.org/groups/G0096\nhttps://attack.mitre.org/groups/G0093\nhttps://attack.mitre.org/groups/G0084\nhttps://attack.mitre.org/groups/G0064\nhttps://attack.mitre.org/groups/G0050\nhttps://attack.mitre.org/groups/G0087\nhttps://attack.mitre.org/groups/G0069\nhttps://attack.mitre.org/groups/G0072\nhttps://attack.mitre.org/groups/G0059\nhttps://attack.mitre.org/groups/G0007\nhttps://attack.mitre.org/groups/G0074\nhttps://attack.mitre.org/groups/G0061\nhttps://attack.mitre.org/groups/G0052\nhttps://attack.mitre.org/groups/G0060\nhttps://attack.mitre.org/groups/G0054\nhttps://attack.mitre.org/groups/G0022\nhttps://attack.mitre.org/groups/G0045\nhttps://attack.mitre.org/groups/G0037\nhttps://attack.mitre.org/groups/G0032\nhttps://attack.mitre.org/groups/G0027\nhttps://attack.mitre.org/groups/G0006\nhttps://attack.mitre.org/groups/G0004\n"
+      },
+      {
+         "techniqueID": "T1040",
+         "score": 3,
+         "comment": "https://attack.mitre.org/groups/G0064\nhttps://attack.mitre.org/groups/G0086\nhttps://attack.mitre.org/groups/G0007\n"
+      },
+      {
+         "techniqueID": "T1048",
+         "score": 6,
+         "comment": "https://attack.mitre.org/groups/G0010\nhttps://attack.mitre.org/groups/G0064\nhttps://attack.mitre.org/groups/G0076\nhttps://attack.mitre.org/groups/G0061\nhttps://attack.mitre.org/groups/G0049\nhttps://attack.mitre.org/groups/G0032\n"
+      },
+      {
+         "techniqueID": "T1071",
+         "score": 30,
+         "comment": "https://attack.mitre.org/groups/G0096\nhttps://attack.mitre.org/groups/G0095\nhttps://attack.mitre.org/groups/G0090\nhttps://attack.mitre.org/groups/G0064\nhttps://attack.mitre.org/groups/G0085\nhttps://attack.mitre.org/groups/G0014\nhttps://attack.mitre.org/groups/G0026\nhttps://attack.mitre.org/groups/G0083\nhttps://attack.mitre.org/groups/G0082\nhttps://attack.mitre.org/groups/G0074\nhttps://attack.mitre.org/groups/G0046\nhttps://attack.mitre.org/groups/G0073\nhttps://attack.mitre.org/groups/G0080\nhttps://attack.mitre.org/groups/G0067\nhttps://attack.mitre.org/groups/G0027\nhttps://attack.mitre.org/groups/G0071\nhttps://attack.mitre.org/groups/G0075\nhttps://attack.mitre.org/groups/G0010\nhttps://attack.mitre.org/groups/G0072\nhttps://attack.mitre.org/groups/G0070\nhttps://attack.mitre.org/groups/G0004\nhttps://attack.mitre.org/groups/G0032\nhttps://attack.mitre.org/groups/G0060\nhttps://attack.mitre.org/groups/G0049\nhttps://attack.mitre.org/groups/G0050\nhttps://attack.mitre.org/groups/G0059\nhttps://attack.mitre.org/groups/G0047\nhttps://attack.mitre.org/groups/G0038\nhttps://attack.mitre.org/groups/G0037\nhttps://attack.mitre.org/groups/G0007\n"
+      },
+      {
+         "techniqueID": "T1070",
+         "score": 8,
+         "comment": "https://attack.mitre.org/groups/G0096\nhttps://attack.mitre.org/groups/G0016\nhttps://attack.mitre.org/groups/G0082\nhttps://attack.mitre.org/groups/G0050\nhttps://attack.mitre.org/groups/G0074\nhttps://attack.mitre.org/groups/G0061\nhttps://attack.mitre.org/groups/G0053\nhttps://attack.mitre.org/groups/G0007\n"
+      },
+      {
+         "techniqueID": "T1087",
+         "score": 12,
+         "comment": "https://attack.mitre.org/groups/G0050\nhttps://attack.mitre.org/groups/G0006\nhttps://attack.mitre.org/groups/G0074\nhttps://attack.mitre.org/groups/G0060\nhttps://attack.mitre.org/groups/G0049\nhttps://attack.mitre.org/groups/G0027\nhttps://attack.mitre.org/groups/G0045\nhttps://attack.mitre.org/groups/G0037\nhttps://attack.mitre.org/groups/G0033\nhttps://attack.mitre.org/groups/G0022\nhttps://attack.mitre.org/groups/G0018\nhttps://attack.mitre.org/groups/G0004\n"
+      },
+      {
+         "techniqueID": "T1003",
+         "score": 36,
+         "comment": "https://attack.mitre.org/groups/G0096\nhttps://attack.mitre.org/groups/G0093\nhttps://attack.mitre.org/groups/G0088\nhttps://attack.mitre.org/groups/G0064\nhttps://attack.mitre.org/groups/G0065\nhttps://attack.mitre.org/groups/G0087\nhttps://attack.mitre.org/groups/G0086\nhttps://attack.mitre.org/groups/G0050\nhttps://attack.mitre.org/groups/G0014\nhttps://attack.mitre.org/groups/G0077\nhttps://attack.mitre.org/groups/G0074\nhttps://attack.mitre.org/groups/G0032\nhttps://attack.mitre.org/groups/G0059\nhttps://attack.mitre.org/groups/G0067\nhttps://attack.mitre.org/groups/G0069\nhttps://attack.mitre.org/groups/G0061\nhttps://attack.mitre.org/groups/G0068\nhttps://attack.mitre.org/groups/G0054\nhttps://attack.mitre.org/groups/G0060\nhttps://attack.mitre.org/groups/G0053\nhttps://attack.mitre.org/groups/G0049\nhttps://attack.mitre.org/groups/G0045\nhttps://attack.mitre.org/groups/G0041\nhttps://attack.mitre.org/groups/G0040\nhttps://attack.mitre.org/groups/G0039\nhttps://attack.mitre.org/groups/G0038\nhttps://attack.mitre.org/groups/G0037\nhttps://attack.mitre.org/groups/G0033\nhttps://attack.mitre.org/groups/G0027\nhttps://attack.mitre.org/groups/G0022\nhttps://attack.mitre.org/groups/G0021\nhttps://attack.mitre.org/groups/G0007\nhttps://attack.mitre.org/groups/G0006\nhttps://attack.mitre.org/groups/G0004\nhttps://attack.mitre.org/groups/G0003\nhttps://attack.mitre.org/groups/G0001\n"
+      },
+      {
+         "techniqueID": "T1081",
+         "score": 7,
+         "comment": "https://attack.mitre.org/groups/G0049\nhttps://attack.mitre.org/groups/G0094\nhttps://attack.mitre.org/groups/G0010\nhttps://attack.mitre.org/groups/G0092\nhttps://attack.mitre.org/groups/G0086\nhttps://attack.mitre.org/groups/G0069\nhttps://attack.mitre.org/groups/G0022\n"
+      },
+      {
+         "techniqueID": "T1005",
+         "score": 18,
+         "comment": "https://attack.mitre.org/groups/G0094\nhttps://attack.mitre.org/groups/G0093\nhttps://attack.mitre.org/groups/G0010\nhttps://attack.mitre.org/groups/G0045\nhttps://attack.mitre.org/groups/G0070\nhttps://attack.mitre.org/groups/G0074\nhttps://attack.mitre.org/groups/G0072\nhttps://attack.mitre.org/groups/G0067\nhttps://attack.mitre.org/groups/G0007\nhttps://attack.mitre.org/groups/G0022\nhttps://attack.mitre.org/groups/G0060\nhttps://attack.mitre.org/groups/G0040\nhttps://attack.mitre.org/groups/G0038\nhttps://attack.mitre.org/groups/G0032\nhttps://attack.mitre.org/groups/G0031\nhttps://attack.mitre.org/groups/G0027\nhttps://attack.mitre.org/groups/G0006\nhttps://attack.mitre.org/groups/G0004\n"
+      },
+      {
+         "techniqueID": "T1083",
+         "score": 19,
+         "comment": "https://attack.mitre.org/groups/G0094\nhttps://attack.mitre.org/groups/G0050\nhttps://attack.mitre.org/groups/G0069\nhttps://attack.mitre.org/groups/G0026\nhttps://attack.mitre.org/groups/G0077\nhttps://attack.mitre.org/groups/G0074\nhttps://attack.mitre.org/groups/G0072\nhttps://attack.mitre.org/groups/G0070\nhttps://attack.mitre.org/groups/G0059\nhttps://attack.mitre.org/groups/G0054\nhttps://attack.mitre.org/groups/G0022\nhttps://attack.mitre.org/groups/G0060\nhttps://attack.mitre.org/groups/G0007\nhttps://attack.mitre.org/groups/G0040\nhttps://attack.mitre.org/groups/G0032\nhttps://attack.mitre.org/groups/G0031\nhttps://attack.mitre.org/groups/G0018\nhttps://attack.mitre.org/groups/G0010\nhttps://attack.mitre.org/groups/G0004\n"
+      },
+      {
+         "techniqueID": "T1201",
+         "score": 1,
+         "comment": "https://attack.mitre.org/groups/G0049\n"
+      },
+      {
+         "techniqueID": "T1057",
+         "score": 19,
+         "comment": "https://attack.mitre.org/groups/G0012\nhttps://attack.mitre.org/groups/G0069\nhttps://attack.mitre.org/groups/G0006\nhttps://attack.mitre.org/groups/G0082\nhttps://attack.mitre.org/groups/G0081\nhttps://attack.mitre.org/groups/G0067\nhttps://attack.mitre.org/groups/G0072\nhttps://attack.mitre.org/groups/G0049\nhttps://attack.mitre.org/groups/G0022\nhttps://attack.mitre.org/groups/G0059\nhttps://attack.mitre.org/groups/G0007\nhttps://attack.mitre.org/groups/G0044\nhttps://attack.mitre.org/groups/G0038\nhttps://attack.mitre.org/groups/G0033\nhttps://attack.mitre.org/groups/G0032\nhttps://attack.mitre.org/groups/G0021\nhttps://attack.mitre.org/groups/G0010\nhttps://attack.mitre.org/groups/G0009\nhttps://attack.mitre.org/groups/G0004\n"
+      },
+      {
+         "techniqueID": "T1018",
+         "score": 14,
+         "comment": "https://attack.mitre.org/groups/G0093\nhttps://attack.mitre.org/groups/G0050\nhttps://attack.mitre.org/groups/G0009\nhttps://attack.mitre.org/groups/G0027\nhttps://attack.mitre.org/groups/G0004\nhttps://attack.mitre.org/groups/G0074\nhttps://attack.mitre.org/groups/G0077\nhttps://attack.mitre.org/groups/G0061\nhttps://attack.mitre.org/groups/G0022\nhttps://attack.mitre.org/groups/G0053\nhttps://attack.mitre.org/groups/G0060\nhttps://attack.mitre.org/groups/G0045\nhttps://attack.mitre.org/groups/G0037\nhttps://attack.mitre.org/groups/G0010\n"
+      },
+      {
+         "techniqueID": "T1082",
+         "score": 20,
+         "comment": "https://attack.mitre.org/groups/G0094\nhttps://attack.mitre.org/groups/G0081\nhttps://attack.mitre.org/groups/G0012\nhttps://attack.mitre.org/groups/G0069\nhttps://attack.mitre.org/groups/G0026\nhttps://attack.mitre.org/groups/G0073\nhttps://attack.mitre.org/groups/G0067\nhttps://attack.mitre.org/groups/G0072\nhttps://attack.mitre.org/groups/G0050\nhttps://attack.mitre.org/groups/G0049\nhttps://attack.mitre.org/groups/G0059\nhttps://attack.mitre.org/groups/G0022\nhttps://attack.mitre.org/groups/G0054\nhttps://attack.mitre.org/groups/G0047\nhttps://attack.mitre.org/groups/G0040\nhttps://attack.mitre.org/groups/G0038\nhttps://attack.mitre.org/groups/G0032\nhttps://attack.mitre.org/groups/G0018\nhttps://attack.mitre.org/groups/G0010\nhttps://attack.mitre.org/groups/G0004\n"
+      },
+      {
+         "techniqueID": "T1016",
+         "score": 20,
+         "comment": "https://attack.mitre.org/groups/G0096\nhttps://attack.mitre.org/groups/G0093\nhttps://attack.mitre.org/groups/G0087\nhttps://attack.mitre.org/groups/G0050\nhttps://attack.mitre.org/groups/G0012\nhttps://attack.mitre.org/groups/G0069\nhttps://attack.mitre.org/groups/G0006\nhttps://attack.mitre.org/groups/G0073\nhttps://attack.mitre.org/groups/G0074\nhttps://attack.mitre.org/groups/G0059\nhttps://attack.mitre.org/groups/G0049\nhttps://attack.mitre.org/groups/G0045\nhttps://attack.mitre.org/groups/G0027\nhttps://attack.mitre.org/groups/G0038\nhttps://attack.mitre.org/groups/G0032\nhttps://attack.mitre.org/groups/G0022\nhttps://attack.mitre.org/groups/G0019\nhttps://attack.mitre.org/groups/G0018\nhttps://attack.mitre.org/groups/G0010\nhttps://attack.mitre.org/groups/G0004\n"
+      },
+      {
+         "techniqueID": "T1049",
+         "score": 13,
+         "comment": "https://attack.mitre.org/groups/G0096\nhttps://attack.mitre.org/groups/G0082\nhttps://attack.mitre.org/groups/G0093\nhttps://attack.mitre.org/groups/G0050\nhttps://attack.mitre.org/groups/G0006\nhttps://attack.mitre.org/groups/G0049\nhttps://attack.mitre.org/groups/G0022\nhttps://attack.mitre.org/groups/G0045\nhttps://attack.mitre.org/groups/G0027\nhttps://attack.mitre.org/groups/G0033\nhttps://attack.mitre.org/groups/G0018\nhttps://attack.mitre.org/groups/G0010\nhttps://attack.mitre.org/groups/G0004\n"
+      },
+      {
+         "techniqueID": "T1124",
+         "score": 4,
+         "comment": "https://attack.mitre.org/groups/G0089\nhttps://attack.mitre.org/groups/G0032\nhttps://attack.mitre.org/groups/G0060\nhttps://attack.mitre.org/groups/G0010\n"
+      },
+      {
+         "techniqueID": "T1107",
+         "score": 25,
+         "comment": "https://attack.mitre.org/groups/G0096\nhttps://attack.mitre.org/groups/G0094\nhttps://attack.mitre.org/groups/G0091\nhttps://attack.mitre.org/groups/G0089\nhttps://attack.mitre.org/groups/G0088\nhttps://attack.mitre.org/groups/G0050\nhttps://attack.mitre.org/groups/G0082\nhttps://attack.mitre.org/groups/G0072\nhttps://attack.mitre.org/groups/G0040\nhttps://attack.mitre.org/groups/G0074\nhttps://attack.mitre.org/groups/G0080\nhttps://attack.mitre.org/groups/G0045\nhttps://attack.mitre.org/groups/G0061\nhttps://attack.mitre.org/groups/G0049\nhttps://attack.mitre.org/groups/G0053\nhttps://attack.mitre.org/groups/G0060\nhttps://attack.mitre.org/groups/G0059\nhttps://attack.mitre.org/groups/G0022\nhttps://attack.mitre.org/groups/G0051\nhttps://attack.mitre.org/groups/G0027\nhttps://attack.mitre.org/groups/G0007\nhttps://attack.mitre.org/groups/G0043\nhttps://attack.mitre.org/groups/G0032\nhttps://attack.mitre.org/groups/G0026\nhttps://attack.mitre.org/groups/G0016\n"
+      },
+      {
+         "techniqueID": "T1488",
+         "score": 1,
+         "comment": "https://attack.mitre.org/groups/G0032\n"
+      },
+      {
+         "techniqueID": "T1487",
+         "score": 3,
+         "comment": "https://attack.mitre.org/groups/G0032\nhttps://attack.mitre.org/groups/G0082\nhttps://attack.mitre.org/groups/G0067\n"
+      },
+      {
+         "techniqueID": "T1056",
+         "score": 17,
+         "comment": "https://attack.mitre.org/groups/G0096\nhttps://attack.mitre.org/groups/G0094\nhttps://attack.mitre.org/groups/G0045\nhttps://attack.mitre.org/groups/G0086\nhttps://attack.mitre.org/groups/G0085\nhttps://attack.mitre.org/groups/G0082\nhttps://attack.mitre.org/groups/G0049\nhttps://attack.mitre.org/groups/G0004\nhttps://attack.mitre.org/groups/G0068\nhttps://attack.mitre.org/groups/G0054\nhttps://attack.mitre.org/groups/G0059\nhttps://attack.mitre.org/groups/G0043\nhttps://attack.mitre.org/groups/G0032\nhttps://attack.mitre.org/groups/G0027\nhttps://attack.mitre.org/groups/G0022\nhttps://attack.mitre.org/groups/G0012\nhttps://attack.mitre.org/groups/G0007\n"
+      },
+      {
+         "techniqueID": "T1136",
+         "score": 5,
+         "comment": "https://attack.mitre.org/groups/G0096\nhttps://attack.mitre.org/groups/G0093\nhttps://attack.mitre.org/groups/G0074\nhttps://attack.mitre.org/groups/G0077\nhttps://attack.mitre.org/groups/G0022\n"
+      },
+      {
+         "techniqueID": "T1493",
+         "score": 1,
+         "comment": "https://attack.mitre.org/groups/G0082\n"
+      },
+      {
+         "techniqueID": "T1074",
+         "score": 16,
+         "comment": "https://attack.mitre.org/groups/G0095\nhttps://attack.mitre.org/groups/G0093\nhttps://attack.mitre.org/groups/G0088\nhttps://attack.mitre.org/groups/G0014\nhttps://attack.mitre.org/groups/G0072\nhttps://attack.mitre.org/groups/G0040\nhttps://attack.mitre.org/groups/G0074\nhttps://attack.mitre.org/groups/G0065\nhttps://attack.mitre.org/groups/G0061\nhttps://attack.mitre.org/groups/G0022\nhttps://attack.mitre.org/groups/G0053\nhttps://attack.mitre.org/groups/G0045\nhttps://attack.mitre.org/groups/G0037\nhttps://attack.mitre.org/groups/G0032\nhttps://attack.mitre.org/groups/G0027\nhttps://attack.mitre.org/groups/G0007\n"
+      },
+      {
+         "techniqueID": "T1105",
+         "score": 30,
+         "comment": "https://attack.mitre.org/groups/G0093\nhttps://attack.mitre.org/groups/G0092\nhttps://attack.mitre.org/groups/G0090\nhttps://attack.mitre.org/groups/G0064\nhttps://attack.mitre.org/groups/G0069\nhttps://attack.mitre.org/groups/G0026\nhttps://attack.mitre.org/groups/G0082\nhttps://attack.mitre.org/groups/G0010\nhttps://attack.mitre.org/groups/G0075\nhttps://attack.mitre.org/groups/G0080\nhttps://attack.mitre.org/groups/G0078\nhttps://attack.mitre.org/groups/G0049\nhttps://attack.mitre.org/groups/G0074\nhttps://attack.mitre.org/groups/G0067\nhttps://attack.mitre.org/groups/G0061\nhttps://attack.mitre.org/groups/G0065\nhttps://attack.mitre.org/groups/G0068\nhttps://attack.mitre.org/groups/G0066\nhttps://attack.mitre.org/groups/G0059\nhttps://attack.mitre.org/groups/G0022\nhttps://attack.mitre.org/groups/G0060\nhttps://attack.mitre.org/groups/G0050\nhttps://attack.mitre.org/groups/G0045\nhttps://attack.mitre.org/groups/G0046\nhttps://attack.mitre.org/groups/G0051\nhttps://attack.mitre.org/groups/G0047\nhttps://attack.mitre.org/groups/G0040\nhttps://attack.mitre.org/groups/G0032\nhttps://attack.mitre.org/groups/G0027\nhttps://attack.mitre.org/groups/G0007\n"
+      },
+      {
+         "techniqueID": "T1492",
+         "score": 2,
+         "comment": "https://attack.mitre.org/groups/G0085\nhttps://attack.mitre.org/groups/G0082\n"
+      },
+      {
+         "techniqueID": "T1102",
+         "score": 12,
+         "comment": "https://attack.mitre.org/groups/G0096\nhttps://attack.mitre.org/groups/G0005\nhttps://attack.mitre.org/groups/G0037\nhttps://attack.mitre.org/groups/G0010\nhttps://attack.mitre.org/groups/G0046\nhttps://attack.mitre.org/groups/G0060\nhttps://attack.mitre.org/groups/G0067\nhttps://attack.mitre.org/groups/G0065\nhttps://attack.mitre.org/groups/G0059\nhttps://attack.mitre.org/groups/G0048\nhttps://attack.mitre.org/groups/G0040\nhttps://attack.mitre.org/groups/G0008\n"
+      },
+      {
+         "techniqueID": "T1190",
+         "score": 3,
+         "comment": "https://attack.mitre.org/groups/G0093\nhttps://attack.mitre.org/groups/G0014\nhttps://attack.mitre.org/groups/G0001\n"
+      },
+      {
+         "techniqueID": "T1210",
+         "score": 2,
+         "comment": "https://attack.mitre.org/groups/G0027\nhttps://attack.mitre.org/groups/G0007\n"
+      },
+      {
+         "techniqueID": "T1077",
+         "score": 9,
+         "comment": "https://attack.mitre.org/groups/G0050\nhttps://attack.mitre.org/groups/G0071\nhttps://attack.mitre.org/groups/G0061\nhttps://attack.mitre.org/groups/G0022\nhttps://attack.mitre.org/groups/G0032\nhttps://attack.mitre.org/groups/G0028\nhttps://attack.mitre.org/groups/G0010\nhttps://attack.mitre.org/groups/G0009\nhttps://attack.mitre.org/groups/G0004\n"
+      },
+      {
+         "techniqueID": "T1075",
+         "score": 5,
+         "comment": "https://attack.mitre.org/groups/G0093\nhttps://attack.mitre.org/groups/G0050\nhttps://attack.mitre.org/groups/G0014\nhttps://attack.mitre.org/groups/G0007\nhttps://attack.mitre.org/groups/G0006\n"
+      },
+      {
+         "techniqueID": "T1114",
+         "score": 7,
+         "comment": "https://attack.mitre.org/groups/G0085\nhttps://attack.mitre.org/groups/G0007\nhttps://attack.mitre.org/groups/G0074\nhttps://attack.mitre.org/groups/G0059\nhttps://attack.mitre.org/groups/G0004\nhttps://attack.mitre.org/groups/G0077\nhttps://attack.mitre.org/groups/G0006\n"
+      },
+      {
+         "techniqueID": "T1050",
+         "score": 10,
+         "comment": "https://attack.mitre.org/groups/G0094\nhttps://attack.mitre.org/groups/G0081\nhttps://attack.mitre.org/groups/G0080\nhttps://attack.mitre.org/groups/G0046\nhttps://attack.mitre.org/groups/G0004\nhttps://attack.mitre.org/groups/G0050\nhttps://attack.mitre.org/groups/G0027\nhttps://attack.mitre.org/groups/G0022\nhttps://attack.mitre.org/groups/G0032\nhttps://attack.mitre.org/groups/G0008\n"
+      },
+      {
+         "techniqueID": "T1053",
+         "score": 24,
+         "comment": "https://attack.mitre.org/groups/G0096\nhttps://attack.mitre.org/groups/G0095\nhttps://attack.mitre.org/groups/G0093\nhttps://attack.mitre.org/groups/G0091\nhttps://attack.mitre.org/groups/G0088\nhttps://attack.mitre.org/groups/G0064\nhttps://attack.mitre.org/groups/G0087\nhttps://attack.mitre.org/groups/G0080\nhttps://attack.mitre.org/groups/G0074\nhttps://attack.mitre.org/groups/G0049\nhttps://attack.mitre.org/groups/G0075\nhttps://attack.mitre.org/groups/G0040\nhttps://attack.mitre.org/groups/G0061\nhttps://attack.mitre.org/groups/G0060\nhttps://attack.mitre.org/groups/G0051\nhttps://attack.mitre.org/groups/G0045\nhttps://attack.mitre.org/groups/G0050\nhttps://attack.mitre.org/groups/G0046\nhttps://attack.mitre.org/groups/G0038\nhttps://attack.mitre.org/groups/G0037\nhttps://attack.mitre.org/groups/G0027\nhttps://attack.mitre.org/groups/G0026\nhttps://attack.mitre.org/groups/G0022\nhttps://attack.mitre.org/groups/G0016\n"
+      },
+      {
+         "techniqueID": "T1091",
+         "score": 2,
+         "comment": "https://attack.mitre.org/groups/G0012\nhttps://attack.mitre.org/groups/G0007\n"
+      },
+      {
+         "techniqueID": "T1035",
+         "score": 5,
+         "comment": "https://attack.mitre.org/groups/G0091\nhttps://attack.mitre.org/groups/G0037\nhttps://attack.mitre.org/groups/G0050\nhttps://attack.mitre.org/groups/G0072\nhttps://attack.mitre.org/groups/G0004\n"
+      },
+      {
+         "techniqueID": "T1175",
+         "score": 1,
+         "comment": "https://attack.mitre.org/groups/G0069\n"
+      },
+      {
+         "techniqueID": "T1021",
+         "score": 6,
+         "comment": "https://attack.mitre.org/groups/G0088\nhttps://attack.mitre.org/groups/G0065\nhttps://attack.mitre.org/groups/G0087\nhttps://attack.mitre.org/groups/G0049\nhttps://attack.mitre.org/groups/G0045\nhttps://attack.mitre.org/groups/G0036\n"
+      },
+      {
+         "techniqueID": "T1076",
+         "score": 17,
+         "comment": "https://attack.mitre.org/groups/G0096\nhttps://attack.mitre.org/groups/G0088\nhttps://attack.mitre.org/groups/G0065\nhttps://attack.mitre.org/groups/G0087\nhttps://attack.mitre.org/groups/G0086\nhttps://attack.mitre.org/groups/G0080\nhttps://attack.mitre.org/groups/G0074\nhttps://attack.mitre.org/groups/G0061\nhttps://attack.mitre.org/groups/G0022\nhttps://attack.mitre.org/groups/G0049\nhttps://attack.mitre.org/groups/G0045\nhttps://attack.mitre.org/groups/G0051\nhttps://attack.mitre.org/groups/G0040\nhttps://attack.mitre.org/groups/G0037\nhttps://attack.mitre.org/groups/G0032\nhttps://attack.mitre.org/groups/G0006\nhttps://attack.mitre.org/groups/G0001\n"
+      },
+      {
+         "techniqueID": "T1090",
+         "score": 10,
+         "comment": "https://attack.mitre.org/groups/G0096\nhttps://attack.mitre.org/groups/G0093\nhttps://attack.mitre.org/groups/G0010\nhttps://attack.mitre.org/groups/G0087\nhttps://attack.mitre.org/groups/G0069\nhttps://attack.mitre.org/groups/G0022\nhttps://attack.mitre.org/groups/G0032\nhttps://attack.mitre.org/groups/G0045\nhttps://attack.mitre.org/groups/G0041\nhttps://attack.mitre.org/groups/G0007\n"
+      },
+      {
+         "techniqueID": "T1086",
+         "score": 36,
+         "comment": "https://attack.mitre.org/groups/G0096\nhttps://attack.mitre.org/groups/G0094\nhttps://attack.mitre.org/groups/G0093\nhttps://attack.mitre.org/groups/G0092\nhttps://attack.mitre.org/groups/G0090\nhttps://attack.mitre.org/groups/G0088\nhttps://attack.mitre.org/groups/G0064\nhttps://attack.mitre.org/groups/G0084\nhttps://attack.mitre.org/groups/G0010\nhttps://attack.mitre.org/groups/G0079\nhttps://attack.mitre.org/groups/G0076\nhttps://attack.mitre.org/groups/G0073\nhttps://attack.mitre.org/groups/G0007\nhttps://attack.mitre.org/groups/G0074\nhttps://attack.mitre.org/groups/G0080\nhttps://attack.mitre.org/groups/G0078\nhttps://attack.mitre.org/groups/G0065\nhttps://attack.mitre.org/groups/G0062\nhttps://attack.mitre.org/groups/G0061\nhttps://attack.mitre.org/groups/G0069\nhttps://attack.mitre.org/groups/G0052\nhttps://attack.mitre.org/groups/G0049\nhttps://attack.mitre.org/groups/G0059\nhttps://attack.mitre.org/groups/G0060\nhttps://attack.mitre.org/groups/G0050\nhttps://attack.mitre.org/groups/G0051\nhttps://attack.mitre.org/groups/G0046\nhttps://attack.mitre.org/groups/G0027\nhttps://attack.mitre.org/groups/G0045\nhttps://attack.mitre.org/groups/G0040\nhttps://attack.mitre.org/groups/G0038\nhttps://attack.mitre.org/groups/G0037\nhttps://attack.mitre.org/groups/G0033\nhttps://attack.mitre.org/groups/G0022\nhttps://attack.mitre.org/groups/G0016\nhttps://attack.mitre.org/groups/G0009\n"
+      },
+      {
+         "techniqueID": "T1112",
+         "score": 11,
+         "comment": "https://attack.mitre.org/groups/G0096\nhttps://attack.mitre.org/groups/G0010\nhttps://attack.mitre.org/groups/G0050\nhttps://attack.mitre.org/groups/G0082\nhttps://attack.mitre.org/groups/G0074\nhttps://attack.mitre.org/groups/G0078\nhttps://attack.mitre.org/groups/G0073\nhttps://attack.mitre.org/groups/G0027\nhttps://attack.mitre.org/groups/G0040\nhttps://attack.mitre.org/groups/G0072\nhttps://attack.mitre.org/groups/G0061\n"
+      },
+      {
+         "techniqueID": "T1012",
+         "score": 7,
+         "comment": "https://attack.mitre.org/groups/G0050\nhttps://attack.mitre.org/groups/G0074\nhttps://attack.mitre.org/groups/G0027\nhttps://attack.mitre.org/groups/G0049\nhttps://attack.mitre.org/groups/G0038\nhttps://attack.mitre.org/groups/G0032\nhttps://attack.mitre.org/groups/G0010\n"
+      },
+      {
+         "techniqueID": "T1009",
+         "score": 5,
+         "comment": "https://attack.mitre.org/groups/G0040\nhttps://attack.mitre.org/groups/G0050\nhttps://attack.mitre.org/groups/G0065\nhttps://attack.mitre.org/groups/G0060\nhttps://attack.mitre.org/groups/G0002\n"
+      },
+      {
+         "techniqueID": "T1073",
+         "score": 9,
+         "comment": "https://attack.mitre.org/groups/G0096\nhttps://attack.mitre.org/groups/G0093\nhttps://attack.mitre.org/groups/G0081\nhttps://attack.mitre.org/groups/G0040\nhttps://attack.mitre.org/groups/G0073\nhttps://attack.mitre.org/groups/G0050\nhttps://attack.mitre.org/groups/G0022\nhttps://attack.mitre.org/groups/G0045\nhttps://attack.mitre.org/groups/G0027\n"
+      },
+      {
+         "techniqueID": "T1140",
+         "score": 14,
+         "comment": "https://attack.mitre.org/groups/G0010\nhttps://attack.mitre.org/groups/G0090\nhttps://attack.mitre.org/groups/G0012\nhttps://attack.mitre.org/groups/G0081\nhttps://attack.mitre.org/groups/G0072\nhttps://attack.mitre.org/groups/G0078\nhttps://attack.mitre.org/groups/G0027\nhttps://attack.mitre.org/groups/G0045\nhttps://attack.mitre.org/groups/G0073\nhttps://attack.mitre.org/groups/G0065\nhttps://attack.mitre.org/groups/G0069\nhttps://attack.mitre.org/groups/G0007\nhttps://attack.mitre.org/groups/G0049\nhttps://attack.mitre.org/groups/G0060\n"
+      },
+      {
+         "techniqueID": "T1211",
+         "score": 1,
+         "comment": "https://attack.mitre.org/groups/G0007\n"
+      },
+      {
+         "techniqueID": "T1069",
+         "score": 6,
+         "comment": "https://attack.mitre.org/groups/G0037\nhttps://attack.mitre.org/groups/G0074\nhttps://attack.mitre.org/groups/G0049\nhttps://attack.mitre.org/groups/G0022\nhttps://attack.mitre.org/groups/G0018\nhttps://attack.mitre.org/groups/G0004\n"
+      },
+      {
+         "techniqueID": "T1066",
+         "score": 7,
+         "comment": "https://attack.mitre.org/groups/G0093\nhttps://attack.mitre.org/groups/G0088\nhttps://attack.mitre.org/groups/G0040\nhttps://attack.mitre.org/groups/G0022\nhttps://attack.mitre.org/groups/G0010\nhttps://attack.mitre.org/groups/G0049\nhttps://attack.mitre.org/groups/G0009\n"
+      },
+      {
+         "techniqueID": "T1099",
+         "score": 4,
+         "comment": "https://attack.mitre.org/groups/G0088\nhttps://attack.mitre.org/groups/G0050\nhttps://attack.mitre.org/groups/G0032\nhttps://attack.mitre.org/groups/G0007\n"
+      },
+      {
+         "techniqueID": "T1047",
+         "score": 14,
+         "comment": "https://attack.mitre.org/groups/G0096\nhttps://attack.mitre.org/groups/G0037\nhttps://attack.mitre.org/groups/G0093\nhttps://attack.mitre.org/groups/G0050\nhttps://attack.mitre.org/groups/G0069\nhttps://attack.mitre.org/groups/G0049\nhttps://attack.mitre.org/groups/G0027\nhttps://attack.mitre.org/groups/G0065\nhttps://attack.mitre.org/groups/G0061\nhttps://attack.mitre.org/groups/G0045\nhttps://attack.mitre.org/groups/G0038\nhttps://attack.mitre.org/groups/G0032\nhttps://attack.mitre.org/groups/G0016\nhttps://attack.mitre.org/groups/G0009\n"
+      },
+      {
+         "techniqueID": "T1203",
+         "score": 18,
+         "comment": "https://attack.mitre.org/groups/G0096\nhttps://attack.mitre.org/groups/G0018\nhttps://attack.mitre.org/groups/G0027\nhttps://attack.mitre.org/groups/G0005\nhttps://attack.mitre.org/groups/G0089\nhttps://attack.mitre.org/groups/G0064\nhttps://attack.mitre.org/groups/G0050\nhttps://attack.mitre.org/groups/G0007\nhttps://attack.mitre.org/groups/G0081\nhttps://attack.mitre.org/groups/G0060\nhttps://attack.mitre.org/groups/G0032\nhttps://attack.mitre.org/groups/G0080\nhttps://attack.mitre.org/groups/G0067\nhttps://attack.mitre.org/groups/G0016\nhttps://attack.mitre.org/groups/G0065\nhttps://attack.mitre.org/groups/G0040\nhttps://attack.mitre.org/groups/G0066\nhttps://attack.mitre.org/groups/G0062\n"
+      },
+      {
+         "techniqueID": "T1219",
+         "score": 5,
+         "comment": "https://attack.mitre.org/groups/G0094\nhttps://attack.mitre.org/groups/G0014\nhttps://attack.mitre.org/groups/G0076\nhttps://attack.mitre.org/groups/G0080\nhttps://attack.mitre.org/groups/G0008\n"
+      },
+      {
+         "techniqueID": "T1027",
+         "score": 36,
+         "comment": "https://attack.mitre.org/groups/G0095\nhttps://attack.mitre.org/groups/G0093\nhttps://attack.mitre.org/groups/G0010\nhttps://attack.mitre.org/groups/G0092\nhttps://attack.mitre.org/groups/G0091\nhttps://attack.mitre.org/groups/G0064\nhttps://attack.mitre.org/groups/G0014\nhttps://attack.mitre.org/groups/G0012\nhttps://attack.mitre.org/groups/G0084\nhttps://attack.mitre.org/groups/G0016\nhttps://attack.mitre.org/groups/G0026\nhttps://attack.mitre.org/groups/G0081\nhttps://attack.mitre.org/groups/G0045\nhttps://attack.mitre.org/groups/G0040\nhttps://attack.mitre.org/groups/G0080\nhttps://attack.mitre.org/groups/G0077\nhttps://attack.mitre.org/groups/G0067\nhttps://attack.mitre.org/groups/G0027\nhttps://attack.mitre.org/groups/G0073\nhttps://attack.mitre.org/groups/G0072\nhttps://attack.mitre.org/groups/G0070\nhttps://attack.mitre.org/groups/G0061\nhttps://attack.mitre.org/groups/G0063\nhttps://attack.mitre.org/groups/G0066\nhttps://attack.mitre.org/groups/G0065\nhttps://attack.mitre.org/groups/G0069\nhttps://attack.mitre.org/groups/G0046\nhttps://attack.mitre.org/groups/G0022\nhttps://attack.mitre.org/groups/G0059\nhttps://attack.mitre.org/groups/G0049\nhttps://attack.mitre.org/groups/G0050\nhttps://attack.mitre.org/groups/G0043\nhttps://attack.mitre.org/groups/G0031\nhttps://attack.mitre.org/groups/G0032\nhttps://attack.mitre.org/groups/G0024\nhttps://attack.mitre.org/groups/G0007\n"
+      },
+      {
+         "techniqueID": "T1096",
+         "score": 1,
+         "comment": "https://attack.mitre.org/groups/G0050\n"
+      },
+      {
+         "techniqueID": "T1004",
+         "score": 2,
+         "comment": "https://attack.mitre.org/groups/G0081\nhttps://attack.mitre.org/groups/G0010\n"
+      },
+      {
+         "techniqueID": "T1170",
+         "score": 4,
+         "comment": "https://attack.mitre.org/groups/G0094\nhttps://attack.mitre.org/groups/G0050\nhttps://attack.mitre.org/groups/G0069\nhttps://attack.mitre.org/groups/G0046\n"
+      },
+      {
+         "techniqueID": "T1117",
+         "score": 6,
+         "comment": "https://attack.mitre.org/groups/G0090\nhttps://attack.mitre.org/groups/G0073\nhttps://attack.mitre.org/groups/G0080\nhttps://attack.mitre.org/groups/G0065\nhttps://attack.mitre.org/groups/G0050\nhttps://attack.mitre.org/groups/G0009\n"
+      },
+      {
+         "techniqueID": "T1085",
+         "score": 8,
+         "comment": "https://attack.mitre.org/groups/G0092\nhttps://attack.mitre.org/groups/G0069\nhttps://attack.mitre.org/groups/G0016\nhttps://attack.mitre.org/groups/G0073\nhttps://attack.mitre.org/groups/G0052\nhttps://attack.mitre.org/groups/G0022\nhttps://attack.mitre.org/groups/G0008\nhttps://attack.mitre.org/groups/G0007\n"
+      },
+      {
+         "techniqueID": "T1158",
+         "score": 4,
+         "comment": "https://attack.mitre.org/groups/G0050\nhttps://attack.mitre.org/groups/G0081\nhttps://attack.mitre.org/groups/G0007\nhttps://attack.mitre.org/groups/G0032\n"
+      },
+      {
+         "techniqueID": "T1042",
+         "score": 1,
+         "comment": "https://attack.mitre.org/groups/G0094\n"
+      },
+      {
+         "techniqueID": "T1088",
+         "score": 8,
+         "comment": "https://attack.mitre.org/groups/G0067\nhttps://attack.mitre.org/groups/G0069\nhttps://attack.mitre.org/groups/G0072\nhttps://attack.mitre.org/groups/G0080\nhttps://attack.mitre.org/groups/G0027\nhttps://attack.mitre.org/groups/G0060\nhttps://attack.mitre.org/groups/G0040\nhttps://attack.mitre.org/groups/G0016\n"
+      },
+      {
+         "techniqueID": "T1191",
+         "score": 2,
+         "comment": "https://attack.mitre.org/groups/G0080\nhttps://attack.mitre.org/groups/G0069\n"
+      },
+      {
+         "techniqueID": "T1223",
+         "score": 5,
+         "comment": "https://attack.mitre.org/groups/G0096\nhttps://attack.mitre.org/groups/G0091\nhttps://attack.mitre.org/groups/G0032\nhttps://attack.mitre.org/groups/G0070\nhttps://attack.mitre.org/groups/G0049\n"
+      },
+      {
+         "techniqueID": "T1193",
+         "score": 37,
+         "comment": "https://attack.mitre.org/groups/G0096\nhttps://attack.mitre.org/groups/G0095\nhttps://attack.mitre.org/groups/G0018\nhttps://attack.mitre.org/groups/G0094\nhttps://attack.mitre.org/groups/G0005\nhttps://attack.mitre.org/groups/G0092\nhttps://attack.mitre.org/groups/G0091\nhttps://attack.mitre.org/groups/G0089\nhttps://attack.mitre.org/groups/G0087\nhttps://attack.mitre.org/groups/G0085\nhttps://attack.mitre.org/groups/G0012\nhttps://attack.mitre.org/groups/G0084\nhttps://attack.mitre.org/groups/G0081\nhttps://attack.mitre.org/groups/G0010\nhttps://attack.mitre.org/groups/G0078\nhttps://attack.mitre.org/groups/G0079\nhttps://attack.mitre.org/groups/G0075\nhttps://attack.mitre.org/groups/G0032\nhttps://attack.mitre.org/groups/G0080\nhttps://attack.mitre.org/groups/G0049\nhttps://attack.mitre.org/groups/G0060\nhttps://attack.mitre.org/groups/G0046\nhttps://attack.mitre.org/groups/G0074\nhttps://attack.mitre.org/groups/G0050\nhttps://attack.mitre.org/groups/G0073\nhttps://attack.mitre.org/groups/G0061\nhttps://attack.mitre.org/groups/G0062\nhttps://attack.mitre.org/groups/G0069\nhttps://attack.mitre.org/groups/G0007\nhttps://attack.mitre.org/groups/G0066\nhttps://attack.mitre.org/groups/G0067\nhttps://attack.mitre.org/groups/G0016\nhttps://attack.mitre.org/groups/G0065\nhttps://attack.mitre.org/groups/G0059\nhttps://attack.mitre.org/groups/G0040\nhttps://attack.mitre.org/groups/G0068\nhttps://attack.mitre.org/groups/G0045\n"
+      },
+      {
+         "techniqueID": "T1015",
+         "score": 5,
+         "comment": "https://attack.mitre.org/groups/G0096\nhttps://attack.mitre.org/groups/G0022\nhttps://attack.mitre.org/groups/G0016\nhttps://attack.mitre.org/groups/G0009\nhttps://attack.mitre.org/groups/G0001\n"
+      },
+      {
+         "techniqueID": "T1218",
+         "score": 3,
+         "comment": "https://attack.mitre.org/groups/G0092\nhttps://attack.mitre.org/groups/G0075\nhttps://attack.mitre.org/groups/G0080\n"
+      },
+      {
+         "techniqueID": "T1134",
+         "score": 3,
+         "comment": "https://attack.mitre.org/groups/G0010\nhttps://attack.mitre.org/groups/G0032\nhttps://attack.mitre.org/groups/G0007\n"
+      },
+      {
+         "techniqueID": "T1123",
+         "score": 1,
+         "comment": "https://attack.mitre.org/groups/G0067\n"
+      },
+      {
+         "techniqueID": "T1197",
+         "score": 1,
+         "comment": "https://attack.mitre.org/groups/G0065\n"
+      },
+      {
+         "techniqueID": "T1007",
+         "score": 6,
+         "comment": "https://attack.mitre.org/groups/G0006\nhttps://attack.mitre.org/groups/G0049\nhttps://attack.mitre.org/groups/G0033\nhttps://attack.mitre.org/groups/G0018\nhttps://attack.mitre.org/groups/G0010\nhttps://attack.mitre.org/groups/G0004\n"
+      },
+      {
+         "techniqueID": "T1138",
+         "score": 1,
+         "comment": "https://attack.mitre.org/groups/G0046\n"
+      },
+      {
+         "techniqueID": "T1489",
+         "score": 1,
+         "comment": "https://attack.mitre.org/groups/G0032\n"
+      },
+      {
+         "techniqueID": "T1067",
+         "score": 3,
+         "comment": "https://attack.mitre.org/groups/G0096\nhttps://attack.mitre.org/groups/G0032\nhttps://attack.mitre.org/groups/G0007\n"
+      },
+      {
+         "techniqueID": "T1500",
+         "score": 1,
+         "comment": "https://attack.mitre.org/groups/G0069\n"
+      },
+      {
+         "techniqueID": "T1060",
+         "score": 30,
+         "comment": "https://attack.mitre.org/groups/G0096\nhttps://attack.mitre.org/groups/G0095\nhttps://attack.mitre.org/groups/G0094\nhttps://attack.mitre.org/groups/G0064\nhttps://attack.mitre.org/groups/G0087\nhttps://attack.mitre.org/groups/G0050\nhttps://attack.mitre.org/groups/G0026\nhttps://attack.mitre.org/groups/G0073\nhttps://attack.mitre.org/groups/G0010\nhttps://attack.mitre.org/groups/G0080\nhttps://attack.mitre.org/groups/G0072\nhttps://attack.mitre.org/groups/G0070\nhttps://attack.mitre.org/groups/G0004\nhttps://attack.mitre.org/groups/G0027\nhttps://attack.mitre.org/groups/G0074\nhttps://attack.mitre.org/groups/G0078\nhttps://attack.mitre.org/groups/G0069\nhttps://attack.mitre.org/groups/G0065\nhttps://attack.mitre.org/groups/G0067\nhttps://attack.mitre.org/groups/G0022\nhttps://attack.mitre.org/groups/G0059\nhttps://attack.mitre.org/groups/G0060\nhttps://attack.mitre.org/groups/G0051\nhttps://attack.mitre.org/groups/G0046\nhttps://attack.mitre.org/groups/G0040\nhttps://attack.mitre.org/groups/G0037\nhttps://attack.mitre.org/groups/G0032\nhttps://attack.mitre.org/groups/G0024\nhttps://attack.mitre.org/groups/G0016\nhttps://attack.mitre.org/groups/G0012\n"
+      },
+      {
+         "techniqueID": "T1135",
+         "score": 5,
+         "comment": "https://attack.mitre.org/groups/G0096\nhttps://attack.mitre.org/groups/G0081\nhttps://attack.mitre.org/groups/G0006\nhttps://attack.mitre.org/groups/G0074\nhttps://attack.mitre.org/groups/G0054\n"
+      },
+      {
+         "techniqueID": "T1031",
+         "score": 4,
+         "comment": "https://attack.mitre.org/groups/G0096\nhttps://attack.mitre.org/groups/G0050\nhttps://attack.mitre.org/groups/G0072\nhttps://attack.mitre.org/groups/G0073\n"
+      },
+      {
+         "techniqueID": "T1046",
+         "score": 11,
+         "comment": "https://attack.mitre.org/groups/G0096\nhttps://attack.mitre.org/groups/G0081\nhttps://attack.mitre.org/groups/G0087\nhttps://attack.mitre.org/groups/G0050\nhttps://attack.mitre.org/groups/G0080\nhttps://attack.mitre.org/groups/G0077\nhttps://attack.mitre.org/groups/G0049\nhttps://attack.mitre.org/groups/G0045\nhttps://attack.mitre.org/groups/G0039\nhttps://attack.mitre.org/groups/G0037\nhttps://attack.mitre.org/groups/G0027\n"
+      },
+      {
+         "techniqueID": "T1084",
+         "score": 3,
+         "comment": "https://attack.mitre.org/groups/G0010\nhttps://attack.mitre.org/groups/G0065\nhttps://attack.mitre.org/groups/G0016\n"
+      },
+      {
+         "techniqueID": "T1220",
+         "score": 1,
+         "comment": "https://attack.mitre.org/groups/G0080\n"
+      },
+      {
+         "techniqueID": "T1043",
+         "score": 19,
+         "comment": "https://attack.mitre.org/groups/G0095\nhttps://attack.mitre.org/groups/G0049\nhttps://attack.mitre.org/groups/G0007\nhttps://attack.mitre.org/groups/G0088\nhttps://attack.mitre.org/groups/G0064\nhttps://attack.mitre.org/groups/G0050\nhttps://attack.mitre.org/groups/G0014\nhttps://attack.mitre.org/groups/G0016\nhttps://attack.mitre.org/groups/G0026\nhttps://attack.mitre.org/groups/G0081\nhttps://attack.mitre.org/groups/G0073\nhttps://attack.mitre.org/groups/G0046\nhttps://attack.mitre.org/groups/G0074\nhttps://attack.mitre.org/groups/G0061\nhttps://attack.mitre.org/groups/G0067\nhttps://attack.mitre.org/groups/G0059\nhttps://attack.mitre.org/groups/G0022\nhttps://attack.mitre.org/groups/G0032\nhttps://attack.mitre.org/groups/G0027\n"
+      },
+      {
+         "techniqueID": "T1028",
+         "score": 1,
+         "comment": "https://attack.mitre.org/groups/G0027\n"
+      },
+      {
+         "techniqueID": "T1182",
+         "score": 1,
+         "comment": "https://attack.mitre.org/groups/G0072\n"
+      },
+      {
+         "techniqueID": "T1122",
+         "score": 1,
+         "comment": "https://attack.mitre.org/groups/G0007\n"
+      },
+      {
+         "techniqueID": "T1038",
+         "score": 2,
+         "comment": "https://attack.mitre.org/groups/G0027\nhttps://attack.mitre.org/groups/G0045\n"
+      },
+      {
+         "techniqueID": "T1183",
+         "score": 1,
+         "comment": "https://attack.mitre.org/groups/G0088\n"
+      },
+      {
+         "techniqueID": "T1529",
+         "score": 3,
+         "comment": "https://attack.mitre.org/groups/G0032\nhttps://attack.mitre.org/groups/G0082\nhttps://attack.mitre.org/groups/G0067\n"
+      },
+      {
+         "techniqueID": "T1528",
+         "score": 1,
+         "comment": "https://attack.mitre.org/groups/G0007\n"
+      },
+      {
+         "techniqueID": "T1527",
+         "score": 1,
+         "comment": "https://attack.mitre.org/groups/G0007\n"
+      },
+      {
+         "techniqueID": "T1503",
+         "score": 3,
+         "comment": "https://attack.mitre.org/groups/G0092\nhttps://attack.mitre.org/groups/G0086\nhttps://attack.mitre.org/groups/G0069\n"
+      },
+      {
+         "techniqueID": "T1504",
+         "score": 1,
+         "comment": "https://attack.mitre.org/groups/G0010\n"
+      },
+      {
+         "techniqueID": "T1497",
+         "score": 2,
+         "comment": "https://attack.mitre.org/groups/G0089\nhttps://attack.mitre.org/groups/G0046\n"
+      },
+      {
+         "techniqueID": "T1496",
+         "score": 2,
+         "comment": "https://attack.mitre.org/groups/G0096\nhttps://attack.mitre.org/groups/G0032\n"
+      },
+      {
+         "techniqueID": "T1494",
+         "score": 1,
+         "comment": "https://attack.mitre.org/groups/G0082\n"
+      },
+      {
+         "techniqueID": "T1486",
+         "score": 3,
+         "comment": "https://attack.mitre.org/groups/G0096\nhttps://attack.mitre.org/groups/G0092\nhttps://attack.mitre.org/groups/G0082\n"
+      },
+      {
+         "techniqueID": "T1483",
+         "score": 1,
+         "comment": "https://attack.mitre.org/groups/G0096\n"
+      },
+      {
+         "techniqueID": "T1480",
+         "score": 2,
+         "comment": "https://attack.mitre.org/groups/G0064\nhttps://attack.mitre.org/groups/G0020\n"
+      },
+      {
+         "techniqueID": "T1221",
+         "score": 4,
+         "comment": "https://attack.mitre.org/groups/G0007\nhttps://attack.mitre.org/groups/G0081\nhttps://attack.mitre.org/groups/G0074\nhttps://attack.mitre.org/groups/G0079\n"
+      },
+      {
+         "techniqueID": "T1214",
+         "score": 1,
+         "comment": "https://attack.mitre.org/groups/G0093\n"
+      },
+      {
+         "techniqueID": "T1213",
+         "score": 2,
+         "comment": "https://attack.mitre.org/groups/G0004\nhttps://attack.mitre.org/groups/G0007\n"
+      },
+      {
+         "techniqueID": "T1189",
+         "score": 14,
+         "comment": "https://attack.mitre.org/groups/G0012\nhttps://attack.mitre.org/groups/G0082\nhttps://attack.mitre.org/groups/G0077\nhttps://attack.mitre.org/groups/G0032\nhttps://attack.mitre.org/groups/G0074\nhttps://attack.mitre.org/groups/G0060\nhttps://attack.mitre.org/groups/G0070\nhttps://attack.mitre.org/groups/G0050\nhttps://attack.mitre.org/groups/G0073\nhttps://attack.mitre.org/groups/G0027\nhttps://attack.mitre.org/groups/G0066\nhttps://attack.mitre.org/groups/G0040\nhttps://attack.mitre.org/groups/G0068\nhttps://attack.mitre.org/groups/G0067\n"
+      },
+      {
+         "techniqueID": "T1194",
+         "score": 4,
+         "comment": "https://attack.mitre.org/groups/G0037\nhttps://attack.mitre.org/groups/G0049\nhttps://attack.mitre.org/groups/G0070\nhttps://attack.mitre.org/groups/G0059\n"
+      },
+      {
+         "techniqueID": "T1195",
+         "score": 2,
+         "comment": "https://attack.mitre.org/groups/G0096\nhttps://attack.mitre.org/groups/G0066\n"
+      },
+      {
+         "techniqueID": "T1216",
+         "score": 1,
+         "comment": "https://attack.mitre.org/groups/G0050\n"
+      },
+      {
+         "techniqueID": "T1192",
+         "score": 20,
+         "comment": "https://attack.mitre.org/groups/G0095\nhttps://attack.mitre.org/groups/G0094\nhttps://attack.mitre.org/groups/G0092\nhttps://attack.mitre.org/groups/G0086\nhttps://attack.mitre.org/groups/G0087\nhttps://attack.mitre.org/groups/G0085\nhttps://attack.mitre.org/groups/G0050\nhttps://attack.mitre.org/groups/G0014\nhttps://attack.mitre.org/groups/G0007\nhttps://attack.mitre.org/groups/G0010\nhttps://attack.mitre.org/groups/G0080\nhttps://attack.mitre.org/groups/G0074\nhttps://attack.mitre.org/groups/G0049\nhttps://attack.mitre.org/groups/G0064\nhttps://attack.mitre.org/groups/G0066\nhttps://attack.mitre.org/groups/G0040\nhttps://attack.mitre.org/groups/G0059\nhttps://attack.mitre.org/groups/G0061\nhttps://attack.mitre.org/groups/G0016\nhttps://attack.mitre.org/groups/G0065\n"
+      },
+      {
+         "techniqueID": "T1204",
+         "score": 37,
+         "comment": "https://attack.mitre.org/groups/G0095\nhttps://attack.mitre.org/groups/G0018\nhttps://attack.mitre.org/groups/G0005\nhttps://attack.mitre.org/groups/G0092\nhttps://attack.mitre.org/groups/G0091\nhttps://attack.mitre.org/groups/G0089\nhttps://attack.mitre.org/groups/G0087\nhttps://attack.mitre.org/groups/G0085\nhttps://attack.mitre.org/groups/G0014\nhttps://attack.mitre.org/groups/G0012\nhttps://attack.mitre.org/groups/G0084\nhttps://attack.mitre.org/groups/G0074\nhttps://attack.mitre.org/groups/G0064\nhttps://attack.mitre.org/groups/G0060\nhttps://attack.mitre.org/groups/G0073\nhttps://attack.mitre.org/groups/G0080\nhttps://attack.mitre.org/groups/G0070\nhttps://attack.mitre.org/groups/G0046\nhttps://attack.mitre.org/groups/G0010\nhttps://attack.mitre.org/groups/G0078\nhttps://attack.mitre.org/groups/G0040\nhttps://attack.mitre.org/groups/G0079\nhttps://attack.mitre.org/groups/G0049\nhttps://attack.mitre.org/groups/G0032\nhttps://attack.mitre.org/groups/G0050\nhttps://attack.mitre.org/groups/G0075\nhttps://attack.mitre.org/groups/G0069\nhttps://attack.mitre.org/groups/G0016\nhttps://attack.mitre.org/groups/G0067\nhttps://attack.mitre.org/groups/G0007\nhttps://attack.mitre.org/groups/G0045\nhttps://attack.mitre.org/groups/G0061\nhttps://attack.mitre.org/groups/G0059\nhttps://attack.mitre.org/groups/G0068\nhttps://attack.mitre.org/groups/G0066\nhttps://attack.mitre.org/groups/G0062\nhttps://attack.mitre.org/groups/G0065\n"
+      },
+      {
+         "techniqueID": "T1199",
+         "score": 2,
+         "comment": "https://attack.mitre.org/groups/G0007\nhttps://attack.mitre.org/groups/G0045\n"
+      },
+      {
+         "techniqueID": "T1176",
+         "score": 2,
+         "comment": "https://attack.mitre.org/groups/G0094\nhttps://attack.mitre.org/groups/G0086\n"
+      },
+      {
+         "techniqueID": "T1179",
+         "score": 1,
+         "comment": "https://attack.mitre.org/groups/G0068\n"
+      },
+      {
+         "techniqueID": "T1172",
+         "score": 1,
+         "comment": "https://attack.mitre.org/groups/G0016\n"
+      },
+      {
+         "techniqueID": "T1173",
+         "score": 8,
+         "comment": "https://attack.mitre.org/groups/G0092\nhttps://attack.mitre.org/groups/G0069\nhttps://attack.mitre.org/groups/G0084\nhttps://attack.mitre.org/groups/G0040\nhttps://attack.mitre.org/groups/G0080\nhttps://attack.mitre.org/groups/G0067\nhttps://attack.mitre.org/groups/G0007\nhttps://attack.mitre.org/groups/G0046\n"
+      },
+      {
+         "techniqueID": "T1187",
+         "score": 2,
+         "comment": "https://attack.mitre.org/groups/G0079\nhttps://attack.mitre.org/groups/G0074\n"
+      },
+      {
+         "techniqueID": "T1188",
+         "score": 2,
+         "comment": "https://attack.mitre.org/groups/G0085\nhttps://attack.mitre.org/groups/G0016\n"
+      },
+      {
+         "techniqueID": "T1143",
+         "score": 9,
+         "comment": "https://attack.mitre.org/groups/G0078\nhttps://attack.mitre.org/groups/G0009\nhttps://attack.mitre.org/groups/G0079\nhttps://attack.mitre.org/groups/G0052\nhttps://attack.mitre.org/groups/G0073\nhttps://attack.mitre.org/groups/G0050\nhttps://attack.mitre.org/groups/G0007\nhttps://attack.mitre.org/groups/G0022\nhttps://attack.mitre.org/groups/G0059\n"
+      },
+      {
+         "techniqueID": "T1141",
+         "score": 1,
+         "comment": "https://attack.mitre.org/groups/G0085\n"
+      },
+      {
+         "techniqueID": "T1137",
+         "score": 2,
+         "comment": "https://attack.mitre.org/groups/G0050\nhttps://attack.mitre.org/groups/G0007\n"
+      },
+      {
+         "techniqueID": "T1133",
+         "score": 10,
+         "comment": "https://attack.mitre.org/groups/G0096\nhttps://attack.mitre.org/groups/G0093\nhttps://attack.mitre.org/groups/G0088\nhttps://attack.mitre.org/groups/G0014\nhttps://attack.mitre.org/groups/G0049\nhttps://attack.mitre.org/groups/G0004\nhttps://attack.mitre.org/groups/G0074\nhttps://attack.mitre.org/groups/G0053\nhttps://attack.mitre.org/groups/G0027\nhttps://attack.mitre.org/groups/G0026\n"
+      },
+      {
+         "techniqueID": "T1132",
+         "score": 5,
+         "comment": "https://attack.mitre.org/groups/G0064\nhttps://attack.mitre.org/groups/G0073\nhttps://attack.mitre.org/groups/G0032\nhttps://attack.mitre.org/groups/G0060\nhttps://attack.mitre.org/groups/G0040\n"
+      },
+      {
+         "techniqueID": "T1126",
+         "score": 1,
+         "comment": "https://attack.mitre.org/groups/G0027\n"
+      },
+      {
+         "techniqueID": "T1125",
+         "score": 2,
+         "comment": "https://attack.mitre.org/groups/G0091\nhttps://attack.mitre.org/groups/G0046\n"
+      },
+      {
+         "techniqueID": "T1120",
+         "score": 4,
+         "comment": "https://attack.mitre.org/groups/G0067\nhttps://attack.mitre.org/groups/G0047\nhttps://attack.mitre.org/groups/G0020\nhttps://attack.mitre.org/groups/G0007\n"
+      },
+      {
+         "techniqueID": "T1119",
+         "score": 7,
+         "comment": "https://attack.mitre.org/groups/G0006\nhttps://attack.mitre.org/groups/G0007\nhttps://attack.mitre.org/groups/G0040\nhttps://attack.mitre.org/groups/G0049\nhttps://attack.mitre.org/groups/G0053\nhttps://attack.mitre.org/groups/G0027\nhttps://attack.mitre.org/groups/G0037\n"
+      },
+      {
+         "techniqueID": "T1116",
+         "score": 12,
+         "comment": "https://attack.mitre.org/groups/G0096\nhttps://attack.mitre.org/groups/G0037\nhttps://attack.mitre.org/groups/G0092\nhttps://attack.mitre.org/groups/G0046\nhttps://attack.mitre.org/groups/G0072\nhttps://attack.mitre.org/groups/G0065\nhttps://attack.mitre.org/groups/G0067\nhttps://attack.mitre.org/groups/G0052\nhttps://attack.mitre.org/groups/G0044\nhttps://attack.mitre.org/groups/G0039\nhttps://attack.mitre.org/groups/G0021\nhttps://attack.mitre.org/groups/G0012\n"
+      },
+      {
+         "techniqueID": "T1115",
+         "score": 1,
+         "comment": "https://attack.mitre.org/groups/G0082\n"
+      },
+      {
+         "techniqueID": "T1113",
+         "score": 10,
+         "comment": "https://attack.mitre.org/groups/G0091\nhttps://attack.mitre.org/groups/G0069\nhttps://attack.mitre.org/groups/G0049\nhttps://attack.mitre.org/groups/G0074\nhttps://attack.mitre.org/groups/G0046\nhttps://attack.mitre.org/groups/G0070\nhttps://attack.mitre.org/groups/G0060\nhttps://attack.mitre.org/groups/G0059\nhttps://attack.mitre.org/groups/G0043\nhttps://attack.mitre.org/groups/G0007\n"
+      },
+      {
+         "techniqueID": "T1109",
+         "score": 1,
+         "comment": "https://attack.mitre.org/groups/G0020\n"
+      },
+      {
+         "techniqueID": "T1108",
+         "score": 7,
+         "comment": "https://attack.mitre.org/groups/G0086\nhttps://attack.mitre.org/groups/G0080\nhttps://attack.mitre.org/groups/G0077\nhttps://attack.mitre.org/groups/G0022\nhttps://attack.mitre.org/groups/G0053\nhttps://attack.mitre.org/groups/G0049\nhttps://attack.mitre.org/groups/G0027\n"
+      },
+      {
+         "techniqueID": "T1106",
+         "score": 4,
+         "comment": "https://attack.mitre.org/groups/G0010\nhttps://attack.mitre.org/groups/G0091\nhttps://attack.mitre.org/groups/G0067\nhttps://attack.mitre.org/groups/G0078\n"
+      },
+      {
+         "techniqueID": "T1104",
+         "score": 2,
+         "comment": "https://attack.mitre.org/groups/G0069\nhttps://attack.mitre.org/groups/G0022\n"
+      },
+      {
+         "techniqueID": "T1097",
+         "score": 4,
+         "comment": "https://attack.mitre.org/groups/G0050\nhttps://attack.mitre.org/groups/G0004\nhttps://attack.mitre.org/groups/G0060\nhttps://attack.mitre.org/groups/G0016\n"
+      },
+      {
+         "techniqueID": "T1095",
+         "score": 3,
+         "comment": "https://attack.mitre.org/groups/G0016\nhttps://attack.mitre.org/groups/G0068\nhttps://attack.mitre.org/groups/G0022\n"
+      },
+      {
+         "techniqueID": "T1094",
+         "score": 4,
+         "comment": "https://attack.mitre.org/groups/G0068\nhttps://attack.mitre.org/groups/G0067\nhttps://attack.mitre.org/groups/G0049\nhttps://attack.mitre.org/groups/G0050\n"
+      },
+      {
+         "techniqueID": "T1093",
+         "score": 3,
+         "comment": "https://attack.mitre.org/groups/G0078\nhttps://attack.mitre.org/groups/G0045\nhttps://attack.mitre.org/groups/G0040\n"
+      },
+      {
+         "techniqueID": "T1092",
+         "score": 1,
+         "comment": "https://attack.mitre.org/groups/G0007\n"
+      },
+      {
+         "techniqueID": "T1080",
+         "score": 1,
+         "comment": "https://attack.mitre.org/groups/G0012\n"
+      },
+      {
+         "techniqueID": "T1072",
+         "score": 1,
+         "comment": "https://attack.mitre.org/groups/G0028\n"
+      },
+      {
+         "techniqueID": "T1065",
+         "score": 8,
+         "comment": "https://attack.mitre.org/groups/G0088\nhttps://attack.mitre.org/groups/G0064\nhttps://attack.mitre.org/groups/G0050\nhttps://attack.mitre.org/groups/G0078\nhttps://attack.mitre.org/groups/G0059\nhttps://attack.mitre.org/groups/G0043\nhttps://attack.mitre.org/groups/G0032\nhttps://attack.mitre.org/groups/G0022\n"
+      },
+      {
+         "techniqueID": "T1063",
+         "score": 8,
+         "comment": "https://attack.mitre.org/groups/G0089\nhttps://attack.mitre.org/groups/G0080\nhttps://attack.mitre.org/groups/G0012\nhttps://attack.mitre.org/groups/G0069\nhttps://attack.mitre.org/groups/G0081\nhttps://attack.mitre.org/groups/G0061\nhttps://attack.mitre.org/groups/G0040\nhttps://attack.mitre.org/groups/G0019\n"
+      },
+      {
+         "techniqueID": "T1061",
+         "score": 1,
+         "comment": "https://attack.mitre.org/groups/G0022\n"
+      },
+      {
+         "techniqueID": "T1045",
+         "score": 11,
+         "comment": "https://attack.mitre.org/groups/G0093\nhttps://attack.mitre.org/groups/G0089\nhttps://attack.mitre.org/groups/G0087\nhttps://attack.mitre.org/groups/G0082\nhttps://attack.mitre.org/groups/G0070\nhttps://attack.mitre.org/groups/G0066\nhttps://attack.mitre.org/groups/G0022\nhttps://attack.mitre.org/groups/G0043\nhttps://attack.mitre.org/groups/G0040\nhttps://attack.mitre.org/groups/G0016\nhttps://attack.mitre.org/groups/G0014\n"
+      },
+      {
+         "techniqueID": "T1041",
+         "score": 8,
+         "comment": "https://attack.mitre.org/groups/G0094\nhttps://attack.mitre.org/groups/G0093\nhttps://attack.mitre.org/groups/G0050\nhttps://attack.mitre.org/groups/G0022\nhttps://attack.mitre.org/groups/G0047\nhttps://attack.mitre.org/groups/G0038\nhttps://attack.mitre.org/groups/G0032\nhttps://attack.mitre.org/groups/G0004\n"
+      },
+      {
+         "techniqueID": "T1039",
+         "score": 3,
+         "comment": "https://attack.mitre.org/groups/G0054\nhttps://attack.mitre.org/groups/G0060\nhttps://attack.mitre.org/groups/G0045\n"
+      },
+      {
+         "techniqueID": "T1037",
+         "score": 2,
+         "comment": "https://attack.mitre.org/groups/G0080\nhttps://attack.mitre.org/groups/G0007\n"
+      },
+      {
+         "techniqueID": "T1032",
+         "score": 11,
+         "comment": "https://attack.mitre.org/groups/G0095\nhttps://attack.mitre.org/groups/G0064\nhttps://attack.mitre.org/groups/G0081\nhttps://attack.mitre.org/groups/G0080\nhttps://attack.mitre.org/groups/G0049\nhttps://attack.mitre.org/groups/G0061\nhttps://attack.mitre.org/groups/G0060\nhttps://attack.mitre.org/groups/G0038\nhttps://attack.mitre.org/groups/G0037\nhttps://attack.mitre.org/groups/G0032\nhttps://attack.mitre.org/groups/G0015\n"
+      },
+      {
+         "techniqueID": "T1030",
+         "score": 1,
+         "comment": "https://attack.mitre.org/groups/G0027\n"
+      },
+      {
+         "techniqueID": "T1026",
+         "score": 1,
+         "comment": "https://attack.mitre.org/groups/G0032\n"
+      },
+      {
+         "techniqueID": "T1025",
+         "score": 4,
+         "comment": "https://attack.mitre.org/groups/G0095\nhttps://attack.mitre.org/groups/G0010\nhttps://attack.mitre.org/groups/G0047\nhttps://attack.mitre.org/groups/G0007\n"
+      },
+      {
+         "techniqueID": "T1024",
+         "score": 3,
+         "comment": "https://attack.mitre.org/groups/G0007\nhttps://attack.mitre.org/groups/G0060\nhttps://attack.mitre.org/groups/G0032\n"
+      },
+      {
+         "techniqueID": "T1023",
+         "score": 8,
+         "comment": "https://attack.mitre.org/groups/G0087\nhttps://attack.mitre.org/groups/G0012\nhttps://attack.mitre.org/groups/G0016\nhttps://attack.mitre.org/groups/G0078\nhttps://attack.mitre.org/groups/G0046\nhttps://attack.mitre.org/groups/G0074\nhttps://attack.mitre.org/groups/G0065\nhttps://attack.mitre.org/groups/G0032\n"
+      },
+      {
+         "techniqueID": "T1022",
+         "score": 13,
+         "comment": "https://attack.mitre.org/groups/G0094\nhttps://attack.mitre.org/groups/G0093\nhttps://attack.mitre.org/groups/G0010\nhttps://attack.mitre.org/groups/G0045\nhttps://attack.mitre.org/groups/G0050\nhttps://attack.mitre.org/groups/G0040\nhttps://attack.mitre.org/groups/G0072\nhttps://attack.mitre.org/groups/G0060\nhttps://attack.mitre.org/groups/G0052\nhttps://attack.mitre.org/groups/G0037\nhttps://attack.mitre.org/groups/G0032\nhttps://attack.mitre.org/groups/G0027\nhttps://attack.mitre.org/groups/G0004\n"
+      },
+      {
+         "techniqueID": "T1017",
+         "score": 1,
+         "comment": "https://attack.mitre.org/groups/G0050\n"
+      },
+      {
+         "techniqueID": "T1014",
+         "score": 3,
+         "comment": "https://attack.mitre.org/groups/G0096\nhttps://attack.mitre.org/groups/G0007\nhttps://attack.mitre.org/groups/G0044\n"
+      },
+      {
+         "techniqueID": "T1010",
+         "score": 1,
+         "comment": "https://attack.mitre.org/groups/G0032\n"
+      },
+      {
+         "techniqueID": "T1008",
+         "score": 3,
+         "comment": "https://attack.mitre.org/groups/G0096\nhttps://attack.mitre.org/groups/G0049\nhttps://attack.mitre.org/groups/G0032\n"
+      },
+      {
+         "techniqueID": "T1001",
+         "score": 2,
+         "comment": "https://attack.mitre.org/groups/G0007\nhttps://attack.mitre.org/groups/G0001\n"
+      }
+   ]
+}
