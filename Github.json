@@ -1,0 +1,1450 @@
+{
+   "domain": "mitre-enterprise",
+   "name": "Github",
+   "gradient": {
+      "colors": [
+         "#ff6666",
+         "#ffe766",
+         "#8ec843"
+      ],
+      "maxValue": 1,
+      "minValue": 0
+   },
+   "version": "2.2",
+   "techniques": [
+      {
+         "techniqueID": "T1089",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1089",
+         "count": 74
+      },
+      {
+         "techniqueID": "T1020",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1020",
+         "count": 42
+      },
+      {
+         "techniqueID": "T1064",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1064",
+         "count": 136
+      },
+      {
+         "techniqueID": "T1098",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1098",
+         "count": 12
+      },
+      {
+         "techniqueID": "T1078",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1078",
+         "count": 60
+      },
+      {
+         "techniqueID": "T1110",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1110",
+         "count": 24
+      },
+      {
+         "techniqueID": "T1059",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1059",
+         "count": 198
+      },
+      {
+         "techniqueID": "T1222",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1222",
+         "count": 11
+      },
+      {
+         "techniqueID": "T1485",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1485",
+         "count": 13
+      },
+      {
+         "techniqueID": "T1501",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1501",
+         "count": 4
+      },
+      {
+         "techniqueID": "T1146",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1146",
+         "count": 5
+      },
+      {
+         "techniqueID": "T1068",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1068",
+         "count": 20
+      },
+      {
+         "techniqueID": "T1156",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1156",
+         "count": 10
+      },
+      {
+         "techniqueID": "T1054",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1054",
+         "count": 5
+      },
+      {
+         "techniqueID": "T1055",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1055",
+         "count": 95.5
+      },
+      {
+         "techniqueID": "T1036",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1036",
+         "count": 197
+      },
+      {
+         "techniqueID": "T1033",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1033",
+         "count": 97
+      },
+      {
+         "techniqueID": "T1100",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1100",
+         "count": 35
+      },
+      {
+         "techniqueID": "T1002",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1002",
+         "count": 54
+      },
+      {
+         "techniqueID": "T1040",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1040",
+         "count": 17
+      },
+      {
+         "techniqueID": "T1048",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1048",
+         "count": 22
+      },
+      {
+         "techniqueID": "T1071",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1071",
+         "count": 435
+      },
+      {
+         "techniqueID": "T1208",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1208",
+         "count": 15
+      },
+      {
+         "techniqueID": "T1070",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1070",
+         "count": 71
+      },
+      {
+         "techniqueID": "T1087",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1087",
+         "count": 57
+      },
+      {
+         "techniqueID": "T1003",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1003",
+         "count": 139
+      },
+      {
+         "techniqueID": "T1081",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1081",
+         "count": 29
+      },
+      {
+         "techniqueID": "T1005",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1005",
+         "count": 88
+      },
+      {
+         "techniqueID": "T1130",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1130",
+         "count": 8
+      },
+      {
+         "techniqueID": "T1145",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1145",
+         "count": 6
+      },
+      {
+         "techniqueID": "T1083",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1083",
+         "count": 150
+      },
+      {
+         "techniqueID": "T1201",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1201",
+         "count": 5
+      },
+      {
+         "techniqueID": "T1057",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1057",
+         "count": 159
+      },
+      {
+         "techniqueID": "T1018",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1018",
+         "count": 35
+      },
+      {
+         "techniqueID": "T1082",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1082",
+         "count": 336
+      },
+      {
+         "techniqueID": "T1016",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1016",
+         "count": 123
+      },
+      {
+         "techniqueID": "T1049",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1049",
+         "count": 74
+      },
+      {
+         "techniqueID": "T1124",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1124",
+         "count": 33
+      },
+      {
+         "techniqueID": "T1499",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1499",
+         "count": 2
+      },
+      {
+         "techniqueID": "T1495",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1495",
+         "count": 1
+      },
+      {
+         "techniqueID": "T1107",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1107",
+         "count": 177
+      },
+      {
+         "techniqueID": "T1488",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1488",
+         "count": 4
+      },
+      {
+         "techniqueID": "T1487",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1487",
+         "count": 7
+      },
+      {
+         "techniqueID": "T1139",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1139",
+         "count": 1
+      },
+      {
+         "techniqueID": "T1056",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1056",
+         "count": 125
+      },
+      {
+         "techniqueID": "T1136",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1136",
+         "count": 20
+      },
+      {
+         "techniqueID": "T1493",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1493",
+         "count": 3
+      },
+      {
+         "techniqueID": "T1168",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1168",
+         "count": 6
+      },
+      {
+         "techniqueID": "T1490",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1490",
+         "count": 8
+      },
+      {
+         "techniqueID": "T1074",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1074",
+         "count": 84
+      },
+      {
+         "techniqueID": "T1105",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1105",
+         "count": 318
+      },
+      {
+         "techniqueID": "T1492",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1492",
+         "count": 3
+      },
+      {
+         "techniqueID": "T1102",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1102",
+         "count": 90
+      },
+      {
+         "techniqueID": "T1190",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1190",
+         "count": 9
+      },
+      {
+         "techniqueID": "T1210",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1210",
+         "count": 12
+      },
+      {
+         "techniqueID": "T1077",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1077",
+         "count": 33
+      },
+      {
+         "techniqueID": "T1075",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1075",
+         "count": 22
+      },
+      {
+         "techniqueID": "T1114",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1114",
+         "count": 22
+      },
+      {
+         "techniqueID": "T1050",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1050",
+         "count": 104
+      },
+      {
+         "techniqueID": "T1053",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1053",
+         "count": 88
+      },
+      {
+         "techniqueID": "T1091",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1091",
+         "count": 14
+      },
+      {
+         "techniqueID": "T1200",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1200",
+         "count": 7
+      },
+      {
+         "techniqueID": "T1035",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1035",
+         "count": 71
+      },
+      {
+         "techniqueID": "T1175",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1175",
+         "count": 8
+      },
+      {
+         "techniqueID": "T1021",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1021",
+         "count": 15
+      },
+      {
+         "techniqueID": "T1076",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1076",
+         "count": 41
+      },
+      {
+         "techniqueID": "T1090",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1090",
+         "count": 61
+      },
+      {
+         "techniqueID": "T1086",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1086",
+         "count": 126
+      },
+      {
+         "techniqueID": "T1112",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1112",
+         "count": 341
+      },
+      {
+         "techniqueID": "T1012",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1012",
+         "count": 126
+      },
+      {
+         "techniqueID": "T1178",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1178",
+         "count": 3
+      },
+      {
+         "techniqueID": "T1009",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1009",
+         "count": 17
+      },
+      {
+         "techniqueID": "T1073",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1073",
+         "count": 40
+      },
+      {
+         "techniqueID": "T1212",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1212",
+         "count": 2
+      },
+      {
+         "techniqueID": "T1140",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1140",
+         "count": 104
+      },
+      {
+         "techniqueID": "T1211",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1211",
+         "count": 4
+      },
+      {
+         "techniqueID": "T1069",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1069",
+         "count": 30
+      },
+      {
+         "techniqueID": "T1171",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1171",
+         "count": 6
+      },
+      {
+         "techniqueID": "T1066",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1066",
+         "count": 12
+      },
+      {
+         "techniqueID": "T1099",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1099",
+         "count": 27
+      },
+      {
+         "techniqueID": "T1047",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1047",
+         "count": 62
+      },
+      {
+         "techniqueID": "T1203",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1203",
+         "count": 44
+      },
+      {
+         "techniqueID": "T1219",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1219",
+         "count": 15
+      },
+      {
+         "techniqueID": "T1027",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1027",
+         "count": 180
+      },
+      {
+         "techniqueID": "T1096",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1096",
+         "count": 11
+      },
+      {
+         "techniqueID": "T1004",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1004",
+         "count": 10
+      },
+      {
+         "techniqueID": "T1170",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1170",
+         "count": 23
+      },
+      {
+         "techniqueID": "T1117",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1117",
+         "count": 21
+      },
+      {
+         "techniqueID": "T1085",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1085",
+         "count": 66
+      },
+      {
+         "techniqueID": "T1158",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1158",
+         "count": 18
+      },
+      {
+         "techniqueID": "T1042",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1042",
+         "count": 4
+      },
+      {
+         "techniqueID": "T1088",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1088",
+         "count": 36
+      },
+      {
+         "techniqueID": "T1191",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1191",
+         "count": 5
+      },
+      {
+         "techniqueID": "T1196",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1196",
+         "count": 2
+      },
+      {
+         "techniqueID": "T1482",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1482",
+         "count": 9
+      },
+      {
+         "techniqueID": "T1223",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1223",
+         "count": 22
+      },
+      {
+         "techniqueID": "T1202",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1202",
+         "count": 11
+      },
+      {
+         "techniqueID": "T1193",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1193",
+         "count": 223
+      },
+      {
+         "techniqueID": "T1015",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1015",
+         "count": 16
+      },
+      {
+         "techniqueID": "T1218",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1218",
+         "count": 14
+      },
+      {
+         "techniqueID": "T1134",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1134",
+         "count": 22
+      },
+      {
+         "techniqueID": "T1118",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1118",
+         "count": 1
+      },
+      {
+         "techniqueID": "T1121",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1121",
+         "count": 1
+      },
+      {
+         "techniqueID": "T1127",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1127",
+         "count": 5
+      },
+      {
+         "techniqueID": "T1123",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1123",
+         "count": 29
+      },
+      {
+         "techniqueID": "T1197",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1197",
+         "count": 7
+      },
+      {
+         "techniqueID": "T1007",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1007",
+         "count": 38
+      },
+      {
+         "techniqueID": "T1138",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1138",
+         "count": 2
+      },
+      {
+         "techniqueID": "T1489",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1489",
+         "count": 5
+      },
+      {
+         "techniqueID": "T1067",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1067",
+         "count": 7
+      },
+      {
+         "techniqueID": "T1500",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1500",
+         "count": 3
+      },
+      {
+         "techniqueID": "T1060",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1060",
+         "count": 216
+      },
+      {
+         "techniqueID": "T1135",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1135",
+         "count": 23
+      },
+      {
+         "techniqueID": "T1031",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1031",
+         "count": 18
+      },
+      {
+         "techniqueID": "T1046",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1046",
+         "count": 29
+      },
+      {
+         "techniqueID": "T1084",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1084",
+         "count": 12
+      },
+      {
+         "techniqueID": "T1220",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1220",
+         "count": 3
+      },
+      {
+         "techniqueID": "T1043",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1043",
+         "count": 166
+      },
+      {
+         "techniqueID": "T1028",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1028",
+         "count": 5
+      },
+      {
+         "techniqueID": "T1182",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1182",
+         "count": 3
+      },
+      {
+         "techniqueID": "T1103",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1103",
+         "count": 3
+      },
+      {
+         "techniqueID": "T1058",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1058",
+         "count": 8
+      },
+      {
+         "techniqueID": "T1006",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1006",
+         "count": 1
+      },
+      {
+         "techniqueID": "T1122",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1122",
+         "count": 7
+      },
+      {
+         "techniqueID": "T1011",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1011",
+         "count": 2
+      },
+      {
+         "techniqueID": "T1177",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1177",
+         "count": 3
+      },
+      {
+         "techniqueID": "T1038",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1038",
+         "count": 33
+      },
+      {
+         "techniqueID": "T1183",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1183",
+         "count": 2
+      },
+      {
+         "techniqueID": "T1531",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1531",
+         "count": 1
+      },
+      {
+         "techniqueID": "T1529",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1529",
+         "count": 6
+      },
+      {
+         "techniqueID": "T1518",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1518",
+         "count": 1
+      },
+      {
+         "techniqueID": "T1528",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1528",
+         "count": 1
+      },
+      {
+         "techniqueID": "T1527",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1527",
+         "count": 1
+      },
+      {
+         "techniqueID": "T1514",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1514",
+         "count": 1
+      },
+      {
+         "techniqueID": "T1505",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1505",
+         "count": 1
+      },
+      {
+         "techniqueID": "T1503",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1503",
+         "count": 19
+      },
+      {
+         "techniqueID": "T1504",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1504",
+         "count": 1
+      },
+      {
+         "techniqueID": "T1502",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1502",
+         "count": 1
+      },
+      {
+         "techniqueID": "T1497",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1497",
+         "count": 203
+      },
+      {
+         "techniqueID": "T1496",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1496",
+         "count": 44
+      },
+      {
+         "techniqueID": "T1494",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1494",
+         "count": 1
+      },
+      {
+         "techniqueID": "T1486",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1486",
+         "count": 12
+      },
+      {
+         "techniqueID": "T1484",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1484",
+         "count": 1
+      },
+      {
+         "techniqueID": "T1483",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1483",
+         "count": 7
+      },
+      {
+         "techniqueID": "T1480",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1480",
+         "count": 32
+      },
+      {
+         "techniqueID": "T1221",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1221",
+         "count": 12
+      },
+      {
+         "techniqueID": "T1214",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1214",
+         "count": 4
+      },
+      {
+         "techniqueID": "T1207",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1207",
+         "count": 1
+      },
+      {
+         "techniqueID": "T1213",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1213",
+         "count": 3
+      },
+      {
+         "techniqueID": "T1217",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1217",
+         "count": 4
+      },
+      {
+         "techniqueID": "T1189",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1189",
+         "count": 24
+      },
+      {
+         "techniqueID": "T1205",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1205",
+         "count": 2
+      },
+      {
+         "techniqueID": "T1194",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1194",
+         "count": 5
+      },
+      {
+         "techniqueID": "T1195",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1195",
+         "count": 7
+      },
+      {
+         "techniqueID": "T1216",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1216",
+         "count": 1
+      },
+      {
+         "techniqueID": "T1192",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1192",
+         "count": 47
+      },
+      {
+         "techniqueID": "T1206",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1206",
+         "count": 1
+      },
+      {
+         "techniqueID": "T1204",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1204",
+         "count": 80
+      },
+      {
+         "techniqueID": "T1199",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1199",
+         "count": 2
+      },
+      {
+         "techniqueID": "T1176",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1176",
+         "count": 9
+      },
+      {
+         "techniqueID": "T1181",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1181",
+         "count": 2
+      },
+      {
+         "techniqueID": "T1179",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1179",
+         "count": 10
+      },
+      {
+         "techniqueID": "T1172",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1172",
+         "count": 8
+      },
+      {
+         "techniqueID": "T1173",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1173",
+         "count": 12
+      },
+      {
+         "techniqueID": "T1187",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1187",
+         "count": 3
+      },
+      {
+         "techniqueID": "T1188",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1188",
+         "count": 9
+      },
+      {
+         "techniqueID": "T1185",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1185",
+         "count": 4
+      },
+      {
+         "techniqueID": "T1174",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1174",
+         "count": 1
+      },
+      {
+         "techniqueID": "T1186",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1186",
+         "count": 1
+      },
+      {
+         "techniqueID": "T1180",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1180",
+         "count": 1
+      },
+      {
+         "techniqueID": "T1184",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1184",
+         "count": 1
+      },
+      {
+         "techniqueID": "T1155",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1155",
+         "count": 1
+      },
+      {
+         "techniqueID": "T1148",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1148",
+         "count": 8
+      },
+      {
+         "techniqueID": "T1144",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1144",
+         "count": 1
+      },
+      {
+         "techniqueID": "T1143",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1143",
+         "count": 16
+      },
+      {
+         "techniqueID": "T1141",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1141",
+         "count": 8
+      },
+      {
+         "techniqueID": "T1152",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1152",
+         "count": 1
+      },
+      {
+         "techniqueID": "T1162",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1162",
+         "count": 1
+      },
+      {
+         "techniqueID": "T1142",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1142",
+         "count": 2
+      },
+      {
+         "techniqueID": "T1137",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1137",
+         "count": 3
+      },
+      {
+         "techniqueID": "T1160",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1160",
+         "count": 1
+      },
+      {
+         "techniqueID": "T1159",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1159",
+         "count": 10
+      },
+      {
+         "techniqueID": "T1163",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1163",
+         "count": 1
+      },
+      {
+         "techniqueID": "T1151",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1151",
+         "count": 5
+      },
+      {
+         "techniqueID": "T1167",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1167",
+         "count": 1
+      },
+      {
+         "techniqueID": "T1166",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1166",
+         "count": 1
+      },
+      {
+         "techniqueID": "T1165",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1165",
+         "count": 1
+      },
+      {
+         "techniqueID": "T1133",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1133",
+         "count": 11
+      },
+      {
+         "techniqueID": "T1132",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1132",
+         "count": 44
+      },
+      {
+         "techniqueID": "T1131",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1131",
+         "count": 1
+      },
+      {
+         "techniqueID": "T1129",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1129",
+         "count": 4
+      },
+      {
+         "techniqueID": "T1128",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1128",
+         "count": 1
+      },
+      {
+         "techniqueID": "T1126",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1126",
+         "count": 3
+      },
+      {
+         "techniqueID": "T1125",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1125",
+         "count": 51
+      },
+      {
+         "techniqueID": "T1120",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1120",
+         "count": 56
+      },
+      {
+         "techniqueID": "T1119",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1119",
+         "count": 22
+      },
+      {
+         "techniqueID": "T1116",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1116",
+         "count": 66
+      },
+      {
+         "techniqueID": "T1115",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1115",
+         "count": 23
+      },
+      {
+         "techniqueID": "T1113",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1113",
+         "count": 104
+      },
+      {
+         "techniqueID": "T1111",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1111",
+         "count": 1
+      },
+      {
+         "techniqueID": "T1109",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1109",
+         "count": 6
+      },
+      {
+         "techniqueID": "T1108",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1108",
+         "count": 14
+      },
+      {
+         "techniqueID": "T1106",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1106",
+         "count": 21
+      },
+      {
+         "techniqueID": "T1104",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1104",
+         "count": 5
+      },
+      {
+         "techniqueID": "T1101",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1101",
+         "count": 3
+      },
+      {
+         "techniqueID": "T1097",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1097",
+         "count": 12
+      },
+      {
+         "techniqueID": "T1095",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1095",
+         "count": 19
+      },
+      {
+         "techniqueID": "T1094",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1094",
+         "count": 93
+      },
+      {
+         "techniqueID": "T1093",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1093",
+         "count": 14
+      },
+      {
+         "techniqueID": "T1092",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1092",
+         "count": 3
+      },
+      {
+         "techniqueID": "T1080",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1080",
+         "count": 6
+      },
+      {
+         "techniqueID": "T1079",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1079",
+         "count": 5
+      },
+      {
+         "techniqueID": "T1072",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1072",
+         "count": 13
+      },
+      {
+         "techniqueID": "T1065",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1065",
+         "count": 92
+      },
+      {
+         "techniqueID": "T1063",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1063",
+         "count": 259
+      },
+      {
+         "techniqueID": "T1062",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1062",
+         "count": 6
+      },
+      {
+         "techniqueID": "T1061",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1061",
+         "count": 1
+      },
+      {
+         "techniqueID": "T1052",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1052",
+         "count": 7
+      },
+      {
+         "techniqueID": "T1051",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1051",
+         "count": 2
+      },
+      {
+         "techniqueID": "T1045",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1045",
+         "count": 34
+      },
+      {
+         "techniqueID": "T1044",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1044",
+         "count": 13.25
+      },
+      {
+         "techniqueID": "T1041",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1041",
+         "count": 65
+      },
+      {
+         "techniqueID": "T1039",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1039",
+         "count": 6
+      },
+      {
+         "techniqueID": "T1037",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1037",
+         "count": 7
+      },
+      {
+         "techniqueID": "T1034",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1034",
+         "count": 12
+      },
+      {
+         "techniqueID": "T1032",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1032",
+         "count": 67
+      },
+      {
+         "techniqueID": "T1030",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1030",
+         "count": 5
+      },
+      {
+         "techniqueID": "T1029",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1029",
+         "count": 9
+      },
+      {
+         "techniqueID": "T1026",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1026",
+         "count": 3
+      },
+      {
+         "techniqueID": "T1025",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1025",
+         "count": 14
+      },
+      {
+         "techniqueID": "T1024",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1024",
+         "count": 79
+      },
+      {
+         "techniqueID": "T1023",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1023",
+         "count": 33
+      },
+      {
+         "techniqueID": "T1022",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1022",
+         "count": 78
+      },
+      {
+         "techniqueID": "T1019",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1019",
+         "count": 8
+      },
+      {
+         "techniqueID": "T1017",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1017",
+         "count": 6
+      },
+      {
+         "techniqueID": "T1014",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1014",
+         "count": 12
+      },
+      {
+         "techniqueID": "T1010",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1010",
+         "count": 12
+      },
+      {
+         "techniqueID": "T1008",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1008",
+         "count": 23
+      },
+      {
+         "techniqueID": "T1001",
+         "score": 1,
+         "comment": "https://github.com/EnesAltinisik/Attack-Detection/Techniques/T1001",
+         "count": 25
+      }
+   ]
+}
