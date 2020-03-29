@@ -14,272 +14,272 @@
       {
          "techniqueID": "T1089",
          "score": 19,
-         "comment": "https://github.com/fortiguardintel/playbooks/silencegroup\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/silencegroup.json\n"
       },
       {
          "techniqueID": "T1020",
          "score": 30,
-         "comment": "https://github.com/fortiguardintel/playbooks/zegost\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/zegost.json\n"
       },
       {
          "techniqueID": "T1064",
          "score": 14,
-         "comment": "https://github.com/fortiguardintel/playbooks/emotet\nhttps://github.com/fortiguardintel/playbooks/silencegroup\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/emotet.json\nhttps://github.com/fortiguardintel/playbooks/blob/master/silencegroup.json\n"
       },
       {
          "techniqueID": "T1078",
          "score": 1,
-         "comment": "https://github.com/fortiguardintel/playbooks/silencegroup\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/silencegroup.json\n"
       },
       {
          "techniqueID": "T1059",
          "score": 15,
-         "comment": "https://github.com/fortiguardintel/playbooks/silencegroup\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/silencegroup.json\n"
       },
       {
          "techniqueID": "T1222",
          "score": 2,
-         "comment": "https://github.com/fortiguardintel/playbooks/silencegroup\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/silencegroup.json\n"
       },
       {
          "techniqueID": "T1055",
          "score": 9,
-         "comment": "https://github.com/fortiguardintel/playbooks/emotet\nhttps://github.com/fortiguardintel/playbooks/silencegroup\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/emotet.json\nhttps://github.com/fortiguardintel/playbooks/blob/master/silencegroup.json\n"
       },
       {
          "techniqueID": "T1036",
          "score": 99,
-         "comment": "https://github.com/fortiguardintel/playbooks/emotet\nhttps://github.com/fortiguardintel/playbooks/goblinpanda\nhttps://github.com/fortiguardintel/playbooks/silencegroup\nhttps://github.com/fortiguardintel/playbooks/zegost\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/emotet.json\nhttps://github.com/fortiguardintel/playbooks/blob/master/goblinpanda.json\nhttps://github.com/fortiguardintel/playbooks/blob/master/silencegroup.json\nhttps://github.com/fortiguardintel/playbooks/blob/master/zegost.json\n"
       },
       {
          "techniqueID": "T1071",
          "score": 87,
-         "comment": "https://github.com/fortiguardintel/playbooks/emotet\nhttps://github.com/fortiguardintel/playbooks/goblinpanda\nhttps://github.com/fortiguardintel/playbooks/silencegroup\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/emotet.json\nhttps://github.com/fortiguardintel/playbooks/blob/master/goblinpanda.json\nhttps://github.com/fortiguardintel/playbooks/blob/master/silencegroup.json\n"
       },
       {
          "techniqueID": "T1070",
          "score": 30,
-         "comment": "https://github.com/fortiguardintel/playbooks/zegost\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/zegost.json\n"
       },
       {
          "techniqueID": "T1005",
          "score": 38,
-         "comment": "https://github.com/fortiguardintel/playbooks/goblinpanda\nhttps://github.com/fortiguardintel/playbooks/silencegroup\nhttps://github.com/fortiguardintel/playbooks/zegost\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/goblinpanda.json\nhttps://github.com/fortiguardintel/playbooks/blob/master/silencegroup.json\nhttps://github.com/fortiguardintel/playbooks/blob/master/zegost.json\n"
       },
       {
          "techniqueID": "T1083",
          "score": 10,
-         "comment": "https://github.com/fortiguardintel/playbooks/goblinpanda\nhttps://github.com/fortiguardintel/playbooks/silencegroup\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/goblinpanda.json\nhttps://github.com/fortiguardintel/playbooks/blob/master/silencegroup.json\n"
       },
       {
          "techniqueID": "T1057",
          "score": 32,
-         "comment": "https://github.com/fortiguardintel/playbooks/silencegroup\nhttps://github.com/fortiguardintel/playbooks/zegost\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/silencegroup.json\nhttps://github.com/fortiguardintel/playbooks/blob/master/zegost.json\n"
       },
       {
          "techniqueID": "T1082",
          "score": 160,
-         "comment": "https://github.com/fortiguardintel/playbooks/goblinpanda\nhttps://github.com/fortiguardintel/playbooks/silencegroup\nhttps://github.com/fortiguardintel/playbooks/zegost\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/goblinpanda.json\nhttps://github.com/fortiguardintel/playbooks/blob/master/silencegroup.json\nhttps://github.com/fortiguardintel/playbooks/blob/master/zegost.json\n"
       },
       {
          "techniqueID": "T1016",
          "score": 4,
-         "comment": "https://github.com/fortiguardintel/playbooks/silencegroup\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/silencegroup.json\n"
       },
       {
          "techniqueID": "T1049",
          "score": 30,
-         "comment": "https://github.com/fortiguardintel/playbooks/zegost\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/zegost.json\n"
       },
       {
          "techniqueID": "T1107",
          "score": 49,
-         "comment": "https://github.com/fortiguardintel/playbooks/silencegroup\nhttps://github.com/fortiguardintel/playbooks/zegost\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/silencegroup.json\nhttps://github.com/fortiguardintel/playbooks/blob/master/zegost.json\n"
       },
       {
          "techniqueID": "T1056",
          "score": 30,
-         "comment": "https://github.com/fortiguardintel/playbooks/zegost\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/zegost.json\n"
       },
       {
          "techniqueID": "T1074",
          "score": 30,
-         "comment": "https://github.com/fortiguardintel/playbooks/zegost\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/zegost.json\n"
       },
       {
          "techniqueID": "T1105",
          "score": 67,
-         "comment": "https://github.com/fortiguardintel/playbooks/emotet\nhttps://github.com/fortiguardintel/playbooks/goblinpanda\nhttps://github.com/fortiguardintel/playbooks/silencegroup\nhttps://github.com/fortiguardintel/playbooks/zegost\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/emotet.json\nhttps://github.com/fortiguardintel/playbooks/blob/master/goblinpanda.json\nhttps://github.com/fortiguardintel/playbooks/blob/master/silencegroup.json\nhttps://github.com/fortiguardintel/playbooks/blob/master/zegost.json\n"
       },
       {
          "techniqueID": "T1114",
          "score": 1,
-         "comment": "https://github.com/fortiguardintel/playbooks/emotet\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/emotet.json\n"
       },
       {
          "techniqueID": "T1050",
          "score": 31,
-         "comment": "https://github.com/fortiguardintel/playbooks/emotet\nhttps://github.com/fortiguardintel/playbooks/zegost\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/emotet.json\nhttps://github.com/fortiguardintel/playbooks/blob/master/zegost.json\n"
       },
       {
          "techniqueID": "T1035",
          "score": 37,
-         "comment": "https://github.com/fortiguardintel/playbooks/emotet\nhttps://github.com/fortiguardintel/playbooks/silencegroup\nhttps://github.com/fortiguardintel/playbooks/zegost\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/emotet.json\nhttps://github.com/fortiguardintel/playbooks/blob/master/silencegroup.json\nhttps://github.com/fortiguardintel/playbooks/blob/master/zegost.json\n"
       },
       {
          "techniqueID": "T1090",
          "score": 6,
-         "comment": "https://github.com/fortiguardintel/playbooks/silencegroup\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/silencegroup.json\n"
       },
       {
          "techniqueID": "T1086",
          "score": 8,
-         "comment": "https://github.com/fortiguardintel/playbooks/emotet\nhttps://github.com/fortiguardintel/playbooks/silencegroup\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/emotet.json\nhttps://github.com/fortiguardintel/playbooks/blob/master/silencegroup.json\n"
       },
       {
          "techniqueID": "T1112",
          "score": 210,
-         "comment": "https://github.com/fortiguardintel/playbooks/goblinpanda\nhttps://github.com/fortiguardintel/playbooks/silencegroup\nhttps://github.com/fortiguardintel/playbooks/zegost\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/goblinpanda.json\nhttps://github.com/fortiguardintel/playbooks/blob/master/silencegroup.json\nhttps://github.com/fortiguardintel/playbooks/blob/master/zegost.json\n"
       },
       {
          "techniqueID": "T1012",
          "score": 66,
-         "comment": "https://github.com/fortiguardintel/playbooks/goblinpanda\nhttps://github.com/fortiguardintel/playbooks/zegost\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/goblinpanda.json\nhttps://github.com/fortiguardintel/playbooks/blob/master/zegost.json\n"
       },
       {
          "techniqueID": "T1140",
          "score": 35,
-         "comment": "https://github.com/fortiguardintel/playbooks/goblinpanda\nhttps://github.com/fortiguardintel/playbooks/silencegroup\nhttps://github.com/fortiguardintel/playbooks/zegost\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/goblinpanda.json\nhttps://github.com/fortiguardintel/playbooks/blob/master/silencegroup.json\nhttps://github.com/fortiguardintel/playbooks/blob/master/zegost.json\n"
       },
       {
          "techniqueID": "T1203",
          "score": 15,
-         "comment": "https://github.com/fortiguardintel/playbooks/silencegroup\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/silencegroup.json\n"
       },
       {
          "techniqueID": "T1219",
          "score": 6,
-         "comment": "https://github.com/fortiguardintel/playbooks/goblinpanda\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/goblinpanda.json\n"
       },
       {
          "techniqueID": "T1170",
          "score": 7,
-         "comment": "https://github.com/fortiguardintel/playbooks/silencegroup\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/silencegroup.json\n"
       },
       {
          "techniqueID": "T1085",
          "score": 14,
-         "comment": "https://github.com/fortiguardintel/playbooks/goblinpanda\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/goblinpanda.json\n"
       },
       {
          "techniqueID": "T1223",
          "score": 10,
-         "comment": "https://github.com/fortiguardintel/playbooks/silencegroup\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/silencegroup.json\n"
       },
       {
          "techniqueID": "T1202",
          "score": 4,
-         "comment": "https://github.com/fortiguardintel/playbooks/silencegroup\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/silencegroup.json\n"
       },
       {
          "techniqueID": "T1193",
          "score": 15,
-         "comment": "https://github.com/fortiguardintel/playbooks/emotet\nhttps://github.com/fortiguardintel/playbooks/goblinpanda\nhttps://github.com/fortiguardintel/playbooks/zegost\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/emotet.json\nhttps://github.com/fortiguardintel/playbooks/blob/master/goblinpanda.json\nhttps://github.com/fortiguardintel/playbooks/blob/master/zegost.json\n"
       },
       {
          "techniqueID": "T1060",
          "score": 55,
-         "comment": "https://github.com/fortiguardintel/playbooks/goblinpanda\nhttps://github.com/fortiguardintel/playbooks/silencegroup\nhttps://github.com/fortiguardintel/playbooks/zegost\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/goblinpanda.json\nhttps://github.com/fortiguardintel/playbooks/blob/master/silencegroup.json\nhttps://github.com/fortiguardintel/playbooks/blob/master/zegost.json\n"
       },
       {
          "techniqueID": "T1043",
          "score": 61,
-         "comment": "https://github.com/fortiguardintel/playbooks/emotet\nhttps://github.com/fortiguardintel/playbooks/goblinpanda\nhttps://github.com/fortiguardintel/playbooks/silencegroup\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/emotet.json\nhttps://github.com/fortiguardintel/playbooks/blob/master/goblinpanda.json\nhttps://github.com/fortiguardintel/playbooks/blob/master/silencegroup.json\n"
       },
       {
          "techniqueID": "T1038",
          "score": 15,
-         "comment": "https://github.com/fortiguardintel/playbooks/goblinpanda\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/goblinpanda.json\n"
       },
       {
          "techniqueID": "T1497",
          "score": 180,
-         "comment": "https://github.com/fortiguardintel/playbooks/zegost\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/zegost.json\n"
       },
       {
          "techniqueID": "T1480",
          "score": 30,
-         "comment": "https://github.com/fortiguardintel/playbooks/zegost\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/zegost.json\n"
       },
       {
          "techniqueID": "T1204",
          "score": 35,
-         "comment": "https://github.com/fortiguardintel/playbooks/emotet\nhttps://github.com/fortiguardintel/playbooks/goblinpanda\nhttps://github.com/fortiguardintel/playbooks/silencegroup\nhttps://github.com/fortiguardintel/playbooks/zegost\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/emotet.json\nhttps://github.com/fortiguardintel/playbooks/blob/master/goblinpanda.json\nhttps://github.com/fortiguardintel/playbooks/blob/master/silencegroup.json\nhttps://github.com/fortiguardintel/playbooks/blob/master/zegost.json\n"
       },
       {
          "techniqueID": "T1143",
          "score": 2,
-         "comment": "https://github.com/fortiguardintel/playbooks/silencegroup\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/silencegroup.json\n"
       },
       {
          "techniqueID": "T1125",
          "score": 30,
-         "comment": "https://github.com/fortiguardintel/playbooks/zegost\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/zegost.json\n"
       },
       {
          "techniqueID": "T1120",
          "score": 32,
-         "comment": "https://github.com/fortiguardintel/playbooks/silencegroup\nhttps://github.com/fortiguardintel/playbooks/zegost\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/silencegroup.json\nhttps://github.com/fortiguardintel/playbooks/blob/master/zegost.json\n"
       },
       {
          "techniqueID": "T1116",
          "score": 5,
-         "comment": "https://github.com/fortiguardintel/playbooks/goblinpanda\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/goblinpanda.json\n"
       },
       {
          "techniqueID": "T1113",
          "score": 9,
-         "comment": "https://github.com/fortiguardintel/playbooks/goblinpanda\nhttps://github.com/fortiguardintel/playbooks/silencegroup\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/goblinpanda.json\nhttps://github.com/fortiguardintel/playbooks/blob/master/silencegroup.json\n"
       },
       {
          "techniqueID": "T1094",
          "score": 30,
-         "comment": "https://github.com/fortiguardintel/playbooks/zegost\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/zegost.json\n"
       },
       {
          "techniqueID": "T1072",
          "score": 11,
-         "comment": "https://github.com/fortiguardintel/playbooks/goblinpanda\nhttps://github.com/fortiguardintel/playbooks/silencegroup\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/goblinpanda.json\nhttps://github.com/fortiguardintel/playbooks/blob/master/silencegroup.json\n"
       },
       {
          "techniqueID": "T1065",
          "score": 51,
-         "comment": "https://github.com/fortiguardintel/playbooks/silencegroup\nhttps://github.com/fortiguardintel/playbooks/zegost\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/silencegroup.json\nhttps://github.com/fortiguardintel/playbooks/blob/master/zegost.json\n"
       },
       {
          "techniqueID": "T1063",
          "score": 210,
-         "comment": "https://github.com/fortiguardintel/playbooks/zegost\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/zegost.json\n"
       },
       {
          "techniqueID": "T1052",
          "score": 2,
-         "comment": "https://github.com/fortiguardintel/playbooks/silencegroup\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/silencegroup.json\n"
       },
       {
          "techniqueID": "T1041",
          "score": 4,
-         "comment": "https://github.com/fortiguardintel/playbooks/silencegroup\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/silencegroup.json\n"
       },
       {
          "techniqueID": "T1024",
          "score": 36,
-         "comment": "https://github.com/fortiguardintel/playbooks/goblinpanda\nhttps://github.com/fortiguardintel/playbooks/zegost\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/goblinpanda.json\nhttps://github.com/fortiguardintel/playbooks/blob/master/zegost.json\n"
       },
       {
          "techniqueID": "T1022",
          "score": 36,
-         "comment": "https://github.com/fortiguardintel/playbooks/goblinpanda\nhttps://github.com/fortiguardintel/playbooks/zegost\n"
+         "comment": "https://github.com/fortiguardintel/playbooks/blob/master/goblinpanda.json\nhttps://github.com/fortiguardintel/playbooks/blob/master/zegost.json\n"
       }
    ]
 }

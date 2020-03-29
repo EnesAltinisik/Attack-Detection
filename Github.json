@@ -3,9 +3,8 @@
    "name": "Github",
    "gradient": {
       "colors": [
-         "#ff6666",
-         "#ffe766",
-         "#8ec843"
+         "#ffffff",
+         "#ff6666"
       ],
       "maxValue": 1,
       "minValue": 0
